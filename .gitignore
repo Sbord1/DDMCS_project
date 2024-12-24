@@ -1,0 +1,9 @@
+# Ignora la directory del virtual environment
+venv/
+.Venv/
+ENV/
+.env/
+env/
+
+# Ignora i file .gefx
+*.gefx
