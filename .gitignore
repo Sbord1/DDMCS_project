@@ -6,4 +6,4 @@ ENV/
 env/
 
 # Ignora i file .gefx
-*.gefx
+*.gexf
