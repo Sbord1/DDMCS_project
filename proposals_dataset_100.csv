@@ -1,0 +1,947 @@
+proposal_id,space_id,title,total_votes,total_voting_power
+0xc8922029030a23ba3dc03db661786012a47a6b9fa9a0e99b5603386a43a1a3a0,stgdao.eth,Stargate Deployment on Abstract,1000,597696.2905626445
+0x1007f3e7e228cb432a861565a127da4d8c4a5476dddbb0eb088e44b4ea9c2449,stgdao.eth,Stargate Deployment on Hedera,1000,391245.1562843839
+0xc51bf1e91c1e0de4d84395818722d402a0c989f07f72e7ff5060bf16124b4b2f,stgdao.eth,ETH Pool on Manta Pacific,1000,64359.08406452131
+0x45de70585d306879ea79de956ab5d136acd03b97d458ef03f09d61a05f1bf91f,stgdao.eth,Stargate Deployment on Conflux,1000,192477.64770510313
+0x756e42595e5d9599dde8a9c1e01102cfe7ec6e8dfb1732320236b5f30a049a14,stgdao.eth,Final Data RFP Vote - Choice of Artemis Options,1000,31099.8549370447
+0x9aa8b42775462de79cebe8a376059056745f72a91486d518d57a47e5a78a78ed,stgdao.eth,Stargate Deployment to Gnosis Chain,1000,29486.826407703116
+0x71124af7d657d83117ebc87349c342c7d6eef062027c246f354cdc027f579900,stgdao.eth,Absolutely thrilling news for all Stargate users!,10,202.10454871277236
+0x7a41ed6fe1a0ecabe4d360b979a61df3fb66505f3e58a986214e4d8c4ed00a66,stgdao.eth,Absolutely thrilling news for all Stargate users!,17,686.4669624177192
+0xa0cdd53778289f99ba022f7afea5679ca60862e5ca6adc54a06981b857629503,stgdao.eth,Absolutely thrilling news for all Stargate users!,17,327.4657933779514
+0xc99efcda05a94380d341e6599223667bdb15eadb4872ef52dc2e226c4c84cf25,stgdao.eth,Absolutely thrilling news for all Stargate users!,15,250.969090285045
+0x2fae1a1e3d503f029f6adfcdf7e182891ebce92f413db7cdce1834d516f98001,stgdao.eth,"After a Successful DAO Vote, Stargate decided to Launch the 1 Phase of the $gSTG Distribution",26,457.7637404203353
+0x78c56f29694f0dac78849cf94f4537aeb78dc2ec77e07acf905b18f9ea632f54,stgdao.eth,ETH Pool on the Hemi Network,1000,18257.691715170826
+0x13fad4320a30668d3f1badc53b911b5950ca465bdc37a2d113e527a43a1ab94e,stgdao.eth,Stargate Foundation Budget (Nov 2024 - October 2025),1000,22414.00810060695
+0xf7b3318b9aed0e20bd550204a25420afc358ce4dd4a4c71d94e4c32efdf52ce1,stgdao.eth,RFP Request: Comprehensive Data Dashboard,1000,20791.037751494125
+0xb37413bc39befc57072f17dbdb24c70b64b8b5c2ad6d00f6c991a66ca1d37b89,stgdao.eth,ETH Pool on Mode,1000,20417.861432816913
+0x85cf8edee24777c81f449c311b3f6df0a88aa5ecce31ddf4c429a0bff0a37573,stgdao.eth,Stargate Deployment to Sonic,1000,23505.29722435884
+0x5da3850793621d81573829680b237afff1597ae12f803cf1d2a8abb69008ead6,stgdao.eth,Stargate Deployment to Unichain,1000,36679.82183570486
+0xfde5c822cec8720b374bfcaa89e69f0ee447df4dfb7e3c7272dc78f378a3b01d,stgdao.eth,Integrate with LightLink Network,1000,18258.13169482853
+0xb9c4e979e6877e3a71e1203667e00e172b287750572018e83afca6c25d1d324a,stgdao.eth,Stargate Interest ($iSTG) Rewards Distribution allocation increase from 1% to 2% of bridge volume fees - Season 1 $iSTG Distribution Now Live,12,1005.7103924571871
+0xa7ebb6015442a0a3afc77b5b95ca8780c607f43f219b8917e726ce3d039e4c78,stgdao.eth,Stargate Interest ($iSTG) Rewards Distribution allocation increase from 1% to 2% of bridge volume fees - Phase 1 $iSTG Distribution Now Live,11,960.5899642557218
+0xaee961c30ae1515b91047a484114929884e3de191cafcad8498fe91e0d69f607,stgdao.eth,Stargate Interest ($iSTG) Rewards Distribution allocation increase from 1% to 2% of bridge volume fees - Phase 1 $iSTG Distribution Now Live,11,962.4410144970352
+0x8c758b4dcad5ea37a3c8eb5063737d3025e9fe80e7877b8d48557971b2be2924,stgdao.eth,Stargate Interest ($iSTG) Rewards Distribution allocation increase from 1% to 2% of bridge volume fees - Phase 1 $iSTG Distribution Now Live,12,959.3380452064399
+0xbc4460814c534ba387f57fe5f55f06db5664baa8064daacd6a5af79600ab00a9,stgdao.eth,Stargate Interest ($iSTG) Rewards Distribution allocation increase from 1% to 2% of bridge volume fees - Phase 1 $iSTG Distribution Now Live,14,979.2801952010587
+0x574e5088255cd010e10d9bbe081e03ba3da7ec9721ac75b3d87b40220368691a,stgdao.eth,Stargate on Soneium,1000,198655.90612953753
+0x38d9496b04f51a376a2c4979dea6c499edd5c335e98aed0e05f4070c2a7d5c5d,stgdao.eth,USDC Pool on BNB Chain,1000,44466.449571938596
+0xa5e2771ea596a620e68726563a79ddc5be80ba5de2d74007fd671e724a1b40a2,stgdao.eth,Integrate with Sei Network,1000,41899.133838551286
+0x28ae2cd838afca844561ce095b03dc7838899fe9ef20cb63526f0ecdc84ef772,stgdao.eth,StargateDAO Governance Process,1000,42838.825462695524
+0x1f4e1783b870a37441500b73003775051a1ba2c1b6f73edb847123ad7b9f4b54,stgdao.eth,Enable wBTC on KAVA Chain,1000,29377.870761479662
+0x4b8ec8c5f56b1fb1a4a7a75839a512c509d8a81e2ebece55edbb8acaa19b8889,stgdao.eth,Proposal: Launch of Stargate v2 on Core Chain,1000,21283.36674585689
+0x3997c16f0954428d95075455d0c97fd86878be1fba393d62a09bbbe18ebca0ee,stgdao.eth,Stargate Foundation's Amendment to RFP Proposal,1000,21523.526511186676
+0x615d93ccb7ea0103c48907421bf7b3967fc5300c539b7fbb896d50cb5dfd90ad,stgdao.eth,Stargate Foundation RFP Proposal,1000,12016.874325347677
+0x331603498dd2beb9d9f8ff960a0d7d8fb902783b9ae15a6012086451e49acfb1,stgdao.eth,Distribution of RFP ,1000,13021.960086565447
+0xc87599acecab6170b5e728a579faf7eed0a5cedb7fb3bb7b8071100610665e78,stgdao.eth,Stargate ImmuneFi Bug Bounty Program,1000,10470.111029887787
+0xeb2e6a54d110db0cec12113aae61ac83e2d31fc60e14c8084d86d0cc710631d4,stgdao.eth,Proposal to wind down support for the Fantom Ecosystem,1000,7549.016108017806
+0x1c55529c8df43cc97591696a135a7b82af27fb8c58a09cf0bdc80aa29310d27d,stgdao.eth,Stargate V2,1000,5578.948093039569
+0x44b9630efed11ff179b69646989d1ef61f05a143164773021844b6aa06878c2a,stgdao.eth,Use idle STG/USDC PoL on Fantom to Earn at Equalizer,1000,10906.804884100899
+0x608a19c36e4ec7634a8bcbbffc3a863f2bf6a407cd5a0c74677297eb5dd4da11,stgdao.eth,"After a Successful DAO Vote, Stargate is Launching Phase 1 of the $gSTG (Stargate Gold) Distribution",959,6662.079687735744
+0xa867fb97a98964a54a5a604589b2572006bc6abf293552129da9331025c2c52d,stgdao.eth,"After a Successful DAO Vote, Stargate is Launching Phase 1 of the $gSTG (Stargate Gold) Distribution",782,7428.440507769639
+0xe91fd2b925cbea4195fb6bfe6cc7944577d41e0e202015eb442381b1f02cfaa6,stgdao.eth,"After a Successful DAO Vote, Stargate is Launching Phase 1 of the $gSTG (Stargate Gold) Distribution",683,6869.636368549566
+0x460cdc81a156b659ee8081a5fe1fef16042cd60543a475f77f64cfc1b6b281dd,stgdao.eth,"After a Successful DAO Vote, Stargate is Launching Phase 1 of the $gSTG (Stargate Gold) Distribution",566,4637.083778851492
+0x71a1e8d31eb5e01762315adf31894b83d3939d589e5ebc596efb7ca054f1b94b,stgdao.eth,"After a Successful DAO Vote, Stargate is Launching Phase 1 of the $gSTG (Stargate Gold) Distribution",931,11185.25556947589
+0x11e9daab4e806cba220d5d6eae6be76f799f27ad20723d0aabedf0263ca2a28f,stgdao.eth,Record and Publish Stargate Community Calls,1000,5994.394144361395
+0x80aea4dbb7406fa7a25858d241f708d39064404c2d5d65d50602b30dc01c2a15,stgdao.eth,Grow POL on Optimism by leveraging Stargate's veVELO vote power on Velodrome,1000,10256.387400781732
+0xcf50734221eca0c197e6d78aa9a4ccf7f5a823088718b3bfa849b1342a7e7840,stgdao.eth,Aptos Foundation and Layer Zero Proposal,1000,8753.10513304783
+0x808c1dc3ea8086552e764f7a4b2763cbc1aace2492c51c8a94c65e5e71cd35d0,stgdao.eth,A.P.D. - mETH Request,1000,30608.52917585158
+0xac174c9bb4f7591f4ace0e8a084e28df7a0c4f9654274c08610f7ec262eed9e3,stgdao.eth,Utilize unclaimed tokens on Velodrome to increase Stargate's weekly earnings and qualify for govNFT,1000,13061.564111249541
+0x8d8cebd08408ab6072b9d8701c8b8eb0d53dcc5147ce97d1462d87ed6c547bab,stgdao.eth,Stargate Deployment on Manta Network,1000,8061.771062755353
+0xf095ab5713a1a5052f264f6acda54690e921a276d8242c695c2394e9fe77ed85,stgdao.eth,Stargate Partner with Toupee Tech on Base,1000,8592.705599335304
+0x747abdac9511413bf6bd752a9a5bbec93d07c68f57966429142eb26a92c09720,stgdao.eth,Stargate DAO - Arrakis PALM,1000,7934.993456695782
+0xe21e8d82840271de57e3a04aa8ab6a083d7e1c08fe198ed3a08d7901f8e4cde6,stgdao.eth,Integrate Stargate with NEAR via Aurora,1000,10496.668878185945
+0x39f95f69921626e2100df0d85e0ea77eb554796d79f6978e828f93a860242b99,stgdao.eth,Stargate Deployment On Meter (Pathway Change),1000,7713.871970491146
+0xa4558ffd23293318e9ab559202265a1bb3e26e9215effe3f3eea59f7c54fa166,stgdao.eth,Yearn's Scale-Up Plan for Velodrome STG-USDC.e Incentives,1000,10545.077177300074
+0xa84cf96d0fca68f5c2e4e603d7faed9eb6f1fe0d54d86552545a035bb09a3736,stgdao.eth,PancakeSwap veCAKE Proposa,1000,7903.693257659935
+0x6c9437b45e8a88978bca68238048fca8c670ed356fa7d4ae9ab9e7e93788c538,stgdao.eth,Wind down MAI Pools,1000,7346.331360718632
+0x57dfc29fe901e154f294e9e5fc6f7b26e58e4f9446d2d131168bb4531bd2a448,stgdao.eth,Stargate Deployment On Meter,1000,7207.160670050313
+0x2e079e8ead1d586cb3fd95e60d14e5ffba29ab7ff377a07d91037ee138989e4a,stgdao.eth,Phase out BUSD on Stargate,1000,7507.339318962491
+0x1a1199e257551beac23b21fdba98f6efba2773a52135ad848fc6ad5b22b5d627,stgdao.eth,Proposal to Approve Stargate Deployment on Scroll,1000,9977.894431534272
+0xafce718ac2c5b42caa1c4a2f355f37bab804600b8f2a897840606df146db3da0,stgdao.eth,Proposal for Stargate Deployment on Mantle,1000,9718.627542147166
+0x13e489cc2b60e4b57876266b70e15d77d6ac86a23817dffba26043e69e3bf91e,stgdao.eth,Stargate New Oracle Configuration: Google Cloud Oracle,1000,20030.50669653681
+0x2eff53c9e9f0bf19a98345d1d32103ec0ec859d81978eecacb38db16be33b94b,stgdao.eth,Stargate Foundation 12-month Budget Proposal,1000,7427.502919992776
+0x3ab405d7d396f0b3bf04b966dd12b06ad5e81d3cf583eda8b890f2d744a98693,stgdao.eth,Lower TheAptosBridge Block Confirmations and Add Fees,1000,9316.875068226376
+0xe8e92474bbd4ad0aa011cf69ad1873a9e30ab9c431f717e9d859a78fdd799a3a,stgdao.eth,Renewed Liquidity Incentivization Mandate,1000,7923.054523928129
+0x73917ac1c09063a4776aea60176817f3aa3ee96b3a54f93ba9e9dddfc1add2ee,stgdao.eth,Transfer Ownership of TheAptosBridge to Stargate,1000,7269.845609102922
+0x6078a960e2cb6b518dddc3773f7f40b30ab76bc6f2f3de2022eaafe78c8ee0a1,stgdao.eth,Stargate Deployment on IDEX/XCHAIN,1000,7535.6126344747145
+0xc18c4911e19adf4bd54c6ad142bb08bc81fd44dee723e520c511c2a9414d5920,stgdao.eth,Deprecate the WOO liquidity pool on Fantom,1000,9094.092344944127
+0xcfc335d45421a2d3b5f64d5ee19770ab103f539cedc240ba937691093b392bc4,stgdao.eth,Make Aura and Balancer the STG Liquidity Hub on Arbitrum,1000,9028.536572536525
+0xd6bb6427e285ae4e269ebb9f4d0396808d2de356c654c19877402da4e3e8c44a,stgdao.eth,Beefy provides $OP incentives for STG liquidity.,1000,7827.795088294265
+0xf1274081c9f4db1db77f30f21b53f61dde8716f8d3f2aac7367709bd4af369b2,stgdao.eth,Add Metis Chain support for MAI Bridging,1000,10969.850732766676
+0x3cb9430062af89937887e9d359e4765de4f138c6bcea49ee66225a8fa998e97b,stgdao.eth,Re-Enable Fantom Pools,1000,10181.344598186819
+0x85c675f303a69df297e1fdcf6dc2845366a8672362e946150ba4a4d7928cc8ea,stgdao.eth,Deprecation of METIS Pool on BSC,1000,10346.880296837744
+0xed5fe9d40c9e82a53c548d4458fdca91d6d26c12cc34303c205906b5e1854e29,stgdao.eth,Stargate Deployment On Kava,1000,7858.21099492565
+0x108a9e597560c4f249cd8be23acd409059fcd17bb2290d69a550ac2232676e7d,stgdao.eth,$ARB Token Allocation,1000,9358.298444337974
+0x5280241b4ccc9b7c5088e657a714d28fa89bd5305a1ff0abf0736438c446ae98,stgdao.eth,Ammendment to SIP#20 - Continued Balance and Rebalancing,1000,9511.726361632378
+0x04df8aafa123cf995b4ef28e0d28c4987ae09a41a4396235bd9c7368b05fdc80,stgdao.eth,Update Stargate EqReward Design,1000,12021.678884647396
+0xcbefd708a0b64d9e9d634e5d7f57c5056b59285b6a5ba18492cfea4db6a53104,stgdao.eth,Add Euro Coin ($EUROC) to Stargate,1000,21720.855874353005
+0xe485f7c2bb4f7843d4ce353ae82f19dcf017e70e917bad28f70ff8b231b57deb,stgdao.eth,Fantom Pool Windup,1000,5713.052822536791
+0x6b703b90d3cd1f82f7c176fc2e566a2bb79e8eb6618a568b52a4f29cb2f8d57b,stgdao.eth,Velodrome Strategy Update,1000,13109.162338258648
+0xda01dacad76bf6559fcd16cf947f23dd4ee3459e1d08aa6325b17a573733d039,stgdao.eth,Stargate x Galxe: Optimism Ecosystem Growth Grant,1000,15447.845359430858
+0xf980d6deed62c3d77dd055963724b9d07ea0f383a2142703e5581c8e751b06ad,stgdao.eth,Make Velodrome the STG Hub on Optimism,1000,23338.841622455446
+0x9b511ccf8bd097176255da63725877de9f80caeea8a28256ff50dfad10a3820d,stgdao.eth,Create a Secure UniswapV3 Oracle for STG with Arrakis PALM,1000,17743.504654199805
+0xd78c441994d140edde34131051113479651c593ab83badebc537a347ba86b705,stgdao.eth,Make Velodrome the STG Hub on Optimism,1000,11496.574954004316
+0xb89734985fddc3bc70404eaa6d62100ddeeea26c54c0ea55f66a089f79dde3ca,stgdao.eth,Proposal to Bootstrap liquidity for Stargate USDT pools on Pendle,1000,22557.153118519975
+0xb850477539d006f12feb53c1ef7d1ebc967cb5424a39dd6c6b2da3c57af05695,stgdao.eth,"Proposal to Approve Stargate Deployment to BASE, zkSync, Polygon zkEVM and ConsenSys zkEVM",1000,22338.43339140103
+0xd0e742caae098261a030feaed2f10d1a36646bdf0ac8d4a128bfb241ca87d8f5,stgdao.eth,Proposal To Unwind The Reissue Of STG,1000,18634.0434545189
+0x9301f156dd6aa17b2165fb3834e9523413884bc8158af166b0e25e33f990dab2,stgdao.eth,Liquidity Reallocation from POL-LP to POL-Pools,1000,13411.872901989356
+0xf6235e1e4327a0490a561b11409e14f3526d624821cd301eaef4df5b7e704dcd,stgdao.eth,Beefy x Stargate: Integration Proposal,1000,11388.178003559755
+0xe9ee47fa9148b1ef9820dcb6504b423f99d0bc4243e917beee12018e234dbb48,stgdao.eth,Additional PancakeSwap Farm Proposal,1000,33565.621724264834
+0x82586192cf58f438cfee7101afde68df11ab3be071a6f7c05d1a3e8506836ee2,stgdao.eth,Stargate Market Maker - Preserving CEX Listings,1000,19702.09419935807
+0x26a68e276ab63195580c5100423c5db7177c9a0f15c74e5d8393812332b28836,stgdao.eth,STG Reissue,1000,22734.08022573919
+0x1568deb7f61440b48a56e1c44e3d023852002e693fb3e58a085b5fb6f3134e98,stgdao.eth,Autonomous Pool Deployment - WOO,1000,20726.878523952328
+0xae1ebaebd42f44483c06cb0e8e7cdbc1f5aca52843b27017132ab8dbd8ef9158,stgdao.eth,PancakeSwap Farm Proposal,1000,32165.37445998077
+0x4218ee725798f5450583c29e20fa231c782b9f6880ef9170229235e9eb0442ef,stgdao.eth,STG OTC Request Discussion,1000,33545.84836350067
+0x0dabcc487407cab6a0d471f7c61a01e9e4729ae7426957fece376939f2875aa6,stgdao.eth,SIP 26 - Featherproof,1000,19209.601000427672
+0x8ca03295d142b8ed1dc55adffdaec3bd24d4a9613a44c1aa983907f3dab5ec9d,stgdao.eth,SIP#25 - Stargate MM (Revised Proposal),1000,32351.968987616583
+0x9f220b762e40e2fc8166b15e64510a0843bb8328f48d1407a800ae1a63f577fd,stgdao.eth,SIP#24 - Stargate MM,1000,59869.59299544882
+0x85648cb05df3d2eb724e2806e00f3bb5b9a5d06440cde4cf241cc5eec4787c41,stgdao.eth,Stargate Deployment On Metis,1000,27964.251696744475
+0x00b8f2f79d105b9c2da9a346a24ff7c9f1295d4760e11e93709d4e5f0165c2ef,stgdao.eth,Add LayerZero tokens (OFT tokens) to Stargate,1000,18811.429805996948
+0x34e6fd18754c358948415dcd53bd7c7b785efb2c6805cabd560ebfdc34d6bf23,stgdao.eth,A.P.D -- POP Request,1000,29690.206313627135
+0x7839f919ddd2c226ef0f050ce9250b0f1f41c1d94bf0ab8fdc9205b151fe3a2a,stgdao.eth,SIP#23 - Data Driven Emissions Modifications,1000,31415.346751182347
+0xfb862e6810019e8bf3282a1e06d2077edf28424bfc830562e56b91db0a70e861,stgdao.eth,SIP#22 Lowered Proposal Voting and Posting Thresholds,1000,32650.306105059015
+0x8298874cdf0e0a1849cc02eefd3bc7d94c6868c560774df963318a5edd39a53f,arbitrumfoundation.eth,OpCo – A DAO-adjacent Entity for Strategy Execution,1000,157958927.94303453
+0x04c5984e2e2b8270a793bfb1bbe35c2c8a360429e2e1a5e72a3917215c51144d,arbitrumfoundation.eth,Partner with ETH Bucharest 2025,1000,152862806.86155352
+0xf5fdce242b85134153397754d25a43a49611a3e8a1c73b2e11a67e864c56e022,arbitrumfoundation.eth,"Unifying Arbitrum’s Mission, Vision, Purpose (MVP)",1000,127513726.73860797
+0xc22debaecd252e2eccfa2b561345f091998d20740865ea6a39414f34fde52de2,arbitrumfoundation.eth,ARDC (V2) Security Election,1000,149756916.4790807
+0x4959a33604c4fb590dc4326845bd011f7c202bcd6e43c2acc458548c644a567b,arbitrumfoundation.eth,ARDC (V2) Risk Election,1000,149000318.9239625
+0xfbc7855075da7b93d7c95354e9b2adf848099562afcafa42fa7b7f6fa6e7804b,arbitrumfoundation.eth,ARDC (V2) Research Election,1000,156166084.4701018
+0x86726ba9eb29df278cc5597290980f494329f524b0180759009a52ef11d4ca1f,arbitrumfoundation.eth,ARDC (V2) Supervisory Council Election,1000,151544167.4802091
+0xb5bbd23c20a480dc46f750112b6cc8f1d1825e40cdd0fc12f4ac3642b18f6740,arbitrumfoundation.eth,[NON-CONSTITUTIONAL] Arbitrum Onboarding V2: A Governance Bootcamp,1000,148070042.2104797
+0x052d7e9872192f46bfb4e0a2aabd07035d0842811ca1c82d654307b5d96e2e25,arbitrumfoundation.eth,Arbitrum D.A.O. Domain Allocator Offerings) Grant Program  - Season 3,1000,147805216.91163164
+0x6f6ad0d74853f8d37a53bbb49c9747072b5e21d885391f5d2d4c41663dca516c,arbitrumfoundation.eth,Designing and operating the reporting and information function,1000,120206176.57250088
+0x107fc8aecc6054725266830cd9097b7ff71f632c708c5ca39e58c5be88f46f14,arbitrumfoundation.eth,[Non-consitutional] User Research: Why build on Arbitrum?,1000,126872723.91818812
+0xf922eb584e616475100222fba40b0d6574ffc113bbb5b92b76e40bb2a91e45dc,arbitrumfoundation.eth,Hackathon Continuation Program,1000,126186877.97232369
+0x76ebc8056e283411cfed5cefad171e245b56fe3bc3d36d702244aab3faae689c,arbitrumfoundation.eth,Restitution For Extensively Delayed ArbitrumDAO Minigrant Winners,1000,120061600.72294484
+0x6065f661e3f2a5673284d3d5801dfa0126218c1840215426b576effc19fcc107,arbitrumfoundation.eth,[Non-Constitutional] Treasury Management v1.2 ,1000,136618184.52743748
+0x2e701a942a8ed6f9ec8302cea866ab08648eeef0d07170814e3a3c3eb4e48415,arbitrumfoundation.eth,Adopt a Delegate Code of Conduct & Formalize Operations,1000,114921407.2183108
+0x63dd46900098540b321d48dc1bdcc09cc8cb7cb0dcc85ceb81dceac812b86e06,arbitrumfoundation.eth,GCP Council Re-Confirmation Vote for John Kennedy,1000,141409518.30682984
+0x7434c3c10da39c52503edf0080337b7fad3f7e33e87dac952f7bfa7c111e99ba,arbitrumfoundation.eth,GCP Council Re-Confirmation Vote for Tim Chang,1000,144587303.5575416
+0xe41fa9b0999dbd9276f7e4474e575883717020128b80dc6bd27b75ba5bd6420c,arbitrumfoundation.eth,[Non-Constitutional] Arbitrum Token Swap Pilot Program,1000,130098557.21743615
+0xc9fc6b61c7e13a4645937937600397e496a3f4703a8f4d00e11c0f641d86ce9f,arbitrumfoundation.eth,(V2) Arbitrum Research & Development Collective,1000,120469293.80157486
+0xdfe7bf7e5bc227fc06765f37d9d9ecd1371e637b93b574ae4cc4c1d345cd648f,arbitrumfoundation.eth,Establishing a DAO Events Budget for 2025,1000,123473243.12097421
+0x817ca6edf6d7e5c9fd5c9839cdd266c600054a443169fdb577bc7567f70073f0,arbitrumfoundation.eth,LTIPP Retroactive Community Funding Selections,1000,106875154.85578284
+0x7232f2c1d1da127cb65ee6036fc52ed6fc02540aaf6cf79a3045b6031e819a35,arbitrumfoundation.eth,An EIP-4824 powered daoURI for Arbitrum DAO,1000,132816485.38813703
+0x23985f3bb58758f0f43c5248085f6b7f1783c8e205604262336d043558aeca0c,arbitrumfoundation.eth,Research on context and retention,1000,129709506.82487679
+0xaa831b9306c3ec4f4a9b9731e7c445e540e5a24461a79f1166cb8dcdfa692d09,arbitrumfoundation.eth,[Non-Constitutional] Whitelist Infura Nova Validator,1000,106046546.62845221
+0x1326cb522a74b29fb12d52bb302b245180c2b8f6e1fe8f295c4447bd96a5bacd,arbitrumfoundation.eth,[Non-Constitutional] Arbitrum DAO Delegate Incentive Program,1000,139062136.14808095
+0x852b7e7bc83db6c3628695816647bdeb9825d10e445a71dcc94e651b2f8a71b9,arbitrumfoundation.eth,[Non-Constitutional] Funds to Bolster Foundation’s Strategic Partnerships Budget,1000,133935577.98802526
+0x41bc78325225705741c2eaebd9352bde74c2b28867e1a7321ccab0fa8fd5c2b7,arbitrumfoundation.eth,GovHack Devcon in Bangkok - Hack Humanity,1000,131214280.9454587
+0x8f242363dbc69d640799b461b27ba7b957ab13af87389b699639ba335b8b5e91,arbitrumfoundation.eth,ArbitrumDAO Off-site,1000,133581551.78729488
+0xd05fe5e629072098183d454fb5084715a19d5b3285af2b87c3dad7b61d614954,arbitrumfoundation.eth,Terms of Tenure for STEP program manager,1000,145215717.8178262
+0xffe9bb38228fdaf3d121140856fd2d51c2ca7f8e0d1021c07e791cebb541129a,arbitrumfoundation.eth,"Constitutional AIP: Proposal to adopt Timeboost, a new transaction ordering policy ",1000,133406193.86831863
+0x785e8ed145d34ab4c9fea725cf0ce31267f90bc2ed4423e6e718c5e736e84c06,arbitrumfoundation.eth,[Aave DAO] LTIPP Grant Extension Request,1000,117134795.79037438
+0xbe03044e4eeddfe838b719cffe234aced53238da1cef7f3e5e8c2a86aadcccb6,arbitrumfoundation.eth,Fund the Stylus Sprint,1000,155075745.63851163
+0x9db0ec7f1e6dbdaaa472eaabad7c69fac93d4453e01ce04f1971a4cbd3655ba4,arbitrumfoundation.eth,Synthetix LTIP Grant Extension Request,1000,157815059.2723501
+0x22f9e560d0a4aac46cc1e49ea71858d531226d0750409acdbfd766fa9c5eb1cb,arbitrumfoundation.eth,Enhancing Multichain Governance: Upgrading RARI Governance Token on Arbitrum,1000,144506161.05697313
+0xb761aeef86e9c7a12a7c7326f28cb10bd0d9d94a83041624dc5d03628c3f5c94,arbitrumfoundation.eth,[Pyth Network] Arbitrum LTIPP Extension Request,1000,133312451.90110673
+0x66812a5c91fe5f590965148c76f1ca609fdc5ded722544673c275a3b2ed94549,arbitrumfoundation.eth,ArbitrumDAO Procurement Committee Phase II,1000,136498660.29857615
+0xc6cb49223880ff49077d74260c44845ed18c3a1825a9a3941af454106f700c50,arbitrumfoundation.eth,[Replace Oversight Committee with MSS] Delegate to Voter Enfranchisement Pool — Event Horizon,1000,125538966.33848087
+0x92b4ac07fbadbb32c30f502880c4dfb1c4882c32d6ae84c2307f9f01dec079c7,arbitrumfoundation.eth,STIP-Bridge Operational Budget,1000,142521004.04860348
+0x75d1aff7adb317bb629a334fba748fdd6ddac5ba1e64870b8abb4a12d6ed5a6f,arbitrumfoundation.eth,[Constitutional] Extend Delay on L2Time Lock ,1000,141910198.86849332
+0x29c7eb60e1ed122f81aa5f4caeb5d171b27ae644666ad18aece78ff28d7b9245,arbitrumfoundation.eth,Ethereum Protocol Attackathon Sponsorship,1000,136411668.12912416
+0xbbec2fbf891d9abb21e8be380f79806519df8294d1d2cdce155d105fd1fed8db,arbitrumfoundation.eth,Should the DAO Create COI & Self Voting Policies?,1000,136020526.98815358
+0x4aa15fd4e3f8f4b270007186a76c1c79f7d3f8a4ae27f6d528666840d8cd477d,arbitrumfoundation.eth,Strategic Treasury Management on Arbitrum,1000,124455072.0962005
+0x04971448620419df86ea930d3f4ae75ad4fff2ebcaead84687a27475f00e24d5,arbitrumfoundation.eth,An (EIP-4824 powered) daoURI for the Arbitrum DAO,1000,137364942.67574248
+0x21a4ec3fd338fa4eb2230d0e6131d1411639d94cf1b27864c9a3c1c722568c08,arbitrumfoundation.eth,ArbitrumDAO Off-site,1000,137027763.31114614
+0x0e646ace733f4a098ac7036dbadad8465ea65c8e3c485e014501d41b7b439d87,arbitrumfoundation.eth,Proposal to Temporary Extend Delegate Incentive System.,1000,141291857.5630342
+0x24188af307bee6ce66d10394d03d501746b343a686d64806ee71954e317ed382,arbitrumfoundation.eth,Should the DAO Default to using Shielded Voting for Snapshot Votes?,1000,127749691.17355378
+0x573c74706924ce482080ba44deb77d75e8d6bdb516fbbdee54b78861c1683f1b,arbitrumfoundation.eth,ArbitrumDAO Governance Analytics Dashboard,1000,145508260.50473693
+0xd54c3dd8f27a9baef80c92189e63f06a6cb905e296be0b55dfaa8835a3b75127,arbitrumfoundation.eth,Transparency and Standardized Metrics for Orbit Chains,1000,150069853.4680892
+0xb581f3aed701ae889c1d79406acdf3d653e6eb4323cb5e46635f729e6313da4d,arbitrumfoundation.eth,ARB Staking: Unlock ARB Utility and Align Governance ,1000,144320226.855937
+0x99b57df3577e8e6561f3549b057bd87fdb7e66f65a7c45fddf63d9cd62f993d8,arbitrumfoundation.eth,[Non-constitutional] Incentives Detox Proposal,1000,101558773.41760902
+0xd6138aaca39742a1a56f3219a74a4258e0786aa5494cdfbe752f23277c1b947f,arbitrumfoundation.eth, Change Arbitrum Expansion Program to allow deployments of new Orbit chains on any blockchain,1000,137087280.39942488
+0x07bea6e32d32b4d3ed20faec6950c3546e2319bc2497716c53ee05995d4a00eb,arbitrumfoundation.eth,Furucombo's Misuse of Funds,1000,80792305.44413984
+0x3161a3d9486ab7b6099be9fda16d6498f329249c0ad33b0f75090f2ceb557789,arbitrumfoundation.eth,Entropy Advisors: Exclusively Working With Arbitrum DAO,1000,107579483.82031727
+0xfd4085bda4daaa79445627ac2886656cdc1ef90cfbe0e8b82f955773cbfd4290,arbitrumfoundation.eth,Gaming Catalyst Program (GCP) Council Voting,1000,142177761.27097982
+0xd096c5d610d4455bcae4bff719d18345939c5d6b20d56c6a1f37d0247ad10f71,arbitrumfoundation.eth,Pilot for a Questbook Jumpstart fund for problem definition and DAO improvement,1000,86673947.41534209
+0x249a8e8aef5dc59da18b72e7d14ace5197ec6242675ab7f82b3d3f17f71bb13b,arbitrumfoundation.eth,Improving Predictability in Arbitrum DAO’s Operations,1000,99047213.93747066
+0x0e6052ecf62577ec99ee7f1312c6c56ccbfc8599304b6f8c324888da0a5ab97e,arbitrumfoundation.eth,Approval of STEP committee recommendations,1000,98418371.76344584
+0x4f6f6c1ba11de1122d5d5b8b098999610920fdc9c61a5e775ea09fbb4bdffc1b,arbitrumfoundation.eth,Multisig Support Service (MSS) Elections,1000,160555536.33177683
+0x2af945c5c65a4904e5c3f92be99aef47dc36aacfa2b64c61cf03e7f2a0a45b94,arbitrumfoundation.eth,ArbitrumHub Evolution: The Next Step in Streamlining Information Access and Raising Awareness for Arbitrum DAO,1000,142860333.719249
+0xb57f04ac3afb432ddbc7d4426f80bdca9191e56bee97cf5b7d9d55cd9fdf9752,arbitrumfoundation.eth,[Non-Constitutional] Betting on Builders: Infinite Launchpad Proposal,1000,128033700.44324954
+0xa220a80bf17a91c1c67b2c9de430ba0349c5122413644e1df49d34d19c1413bb,arbitrumfoundation.eth,Pilot Stage – Treasury Backed Vaults research and development,1000,94429823.84568267
+0x9a4800da3ebd6792a59f02d70467fc6ae158ec2d3d1d941cf095a54cb7c7f0d5,arbitrumfoundation.eth,AIP: Funds to bootstrap the first BoLD validator - Operational cost sentiment.,1000,113180270.45360313
+0x81cc53932edd0891c8f93a502a1ea929ba1ef1ebf76701663c52d5167b323a6d,arbitrumfoundation.eth,AIP: Funds to bootstrap the first BoLD validator - Bond sentiment.,1000,125768703.6765465
+0x98a2b1eebda641b31d7d22a60708840ec7899157e00a4028f2e9f3030ddaf7a8,arbitrumfoundation.eth,AIP: BoLD - permissionless validation for Arbitrum,1000,136021814.36546555
+0x09d16f8726f1f9a85bd6975587947a2cd7ce6bd438750d52866ae36207ac7ded,arbitrumfoundation.eth,[NON-CONSTITUTIONAL] Pilot Phase: Arbitrum Ventures Initiative,1000,141880098.72470388
+0x991f18a73526fb5715b41e37f7460ced511c02cf3470d41cdaf97656c794406b,arbitrumfoundation.eth,Election of STEP Program Manager,1000,109932151.31083764
+0x2f73825f375d59a5d3c8b05074e17140a4967e6ccb6fe20a58f836f865fcaae5,arbitrumfoundation.eth,AIP: Support RIP-7212 for Account Abstraction Wallets (ArbOS 30),1000,126880221.39696696
+0x330ed0f609da63cf4b67b932ab0665a76e1c7d6a7789f3383339bad79c789d2b,arbitrumfoundation.eth,AIP: Activate Stylus and Enable Next-Gen WebAssembly Smart Contracts (ArbOS 30),1000,130257928.11118746
+0x4ad37b12ffe5c334e0c19113ac54222983e18d36a255fbde60e483592f35fc65,arbitrumfoundation.eth,AIP: Nova Fee Router Proposal (ArbOS 30),1000,130900631.01239645
+0x285a0ef00fabce6e1d44b10ffff9fff5a30f62649339cfeded113e23bc58cdf1,arbitrumfoundation.eth,Set up a Sub-Committee for the Security Services Subsidy Fund,1000,122035807.86252624
+0xcb75a551ec2c6ace70e904603e9e9445a7bc9e4255f5c67e150aa2e6f6256c75,arbitrumfoundation.eth,Kwenta x Perennial: Arbitrum Onboarding Incentives,1000,36776266.62712386
+0x3a946e839de9f9795023b2853f64e6785ca4363a0a552ce3676f9e66f24187fd,arbitrumfoundation.eth,Streamlining the LTIPP Bounties,1000,38294904.88674952
+0x3d5ffb8e23b5f22f495f6460ef5ee8771efe5da5565dfa011917a78a2ec25916,arbitrumfoundation.eth,Arbitrum Multi-sig Support Service (MSS),1000,53301561.440569825
+0x7ccab054bf342279c63cb72d55e29fc41a61cda3bd823db3577af9a6e8f539ae,arbitrumfoundation.eth,Umami Finance STIP Addendum,1000,127840356.38464122
+0xda1c7fae99af0e2f38afa426c59bddc894ddaf1569ebdf6e3a9ad8e5b9d98701,arbitrumfoundation.eth,Dolomite STIP Addendum,1000,127759767.4554861
+0x07ac37df9f69f1cfc145a0badb32ec6e65e5ea3823d058ae5cffa6ecd080722f,arbitrumfoundation.eth,Thetanuts Finance STIP Addendum,1000,117194794.33088
+0x33eb7f097f77ca68e2545f4d368be5124fbd8de66a1323e0175e6ea2e11a951f,arbitrumfoundation.eth,OpenOcean STIP Addendum,1000,125420900.91863108
+0x7956e7e5e928b1f652da5774e9466d605d193f8000ba843b73bb207d4358a878,arbitrumfoundation.eth,Angle DAO STIP Addendum,1000,120451701.33360568
+0x2dafb48842dfd723a3eb40fd5a911cfb7d88c3faa747f642170e64577f0ef3cb,arbitrumfoundation.eth,Socket Bridge STIP Addendum,1000,102376313.889816
+0xbf6e4f557b134cd75a344fc92946cea37e051176d62ce85aaf94179dabf68316,arbitrumfoundation.eth,Furucombo STIP Addendum,1000,103323409.98420587
+0x15b857dac71f63b3d8741af84cd30a5c1ac8814782f093019c63a3281fc0ee78,arbitrumfoundation.eth,Stake DAO STIP Addendum,1000,113162997.23614357
+0x518d035041487baa7b5cefd2f91f902a2b8ad6d025db6b41ced7176df55b05af,arbitrumfoundation.eth,Savvy DAO STIP Addendum,1000,137615666.8464897
+0xfd152fdc68cb8ba017105c5b577e955f99228927ef8ce9f6aafa7e2cf36aaa46,arbitrumfoundation.eth,Thales Protocol STIP Addendum,1000,109525628.37175184
+0x3c3bb63ef3df06ccbb8bbe9e8e96ed55c636a64c4b5209dd6d8d6e0675f4896f,arbitrumfoundation.eth,Boost (Prev. RabbitHole) STIP Addendum,1000,101962540.60681446
+0x07123f95a95de16814cb92b311088e9df9741c585d48d7b6a82364b253729efe,arbitrumfoundation.eth,Gains Network STIP Addendum,1000,120540034.00440031
+0x21778db7ae6684cce5c3b4a17fb617c2247784ac66c4557b29e7d359d86c02f5,arbitrumfoundation.eth,KyberSwap STIP Bridge Challenge,1000,123651922.73587884
+0xc567d5019f4c8aa5c40387824bfb23e839f7c010a9bb1dd22136e317eff84df6,arbitrumfoundation.eth,Tide STIP Bridge Challenge,1000,96534395.92018168
+0x0a74ae1f83f1521e98588598d851dcac1d218c072bcb105151bfddc977b3068b,arbitrumfoundation.eth,Sanko GameCorp STIP Bridge Challenge,1000,123424335.21894547
+0xcb1fd4b0120f271501bf7aa54b757de4d59b1446289b7784332e61c626676a92,arbitrumfoundation.eth,Solv STIP Bridge Challenge,1000,98729121.79441541
+0x611926bc9afd0e503e6722aa5fe8186ccc8c203dab12087fb9d930ae2cad492a,arbitrumfoundation.eth,Stargate STIP Bridge Challenge,1000,122861077.48880953
+0xa0ee4b1ac46204b4b513d97980c9fc0aaad9bd3dfb17bf47c819a3ae51c46ea9,arbitrumfoundation.eth,MUX STIP Bridge Challenge,1000,131770120.17611004
+0xc82f0b696e51e721a64a89af66654ea9e313ed29f4de0ed23e338418333fd61e,arbitrumfoundation.eth,Pilot Phase: M&A for Arbitrum DAO,1000,92544926.54192232
+0xddfa0a249ebf8b1c4c17cb67b4ec1cea69b255815f23a9de35673d8c7d477afc,arbitrumfoundation.eth,Proposal for Approval of DeDaub as the ADPC Security Advisor,1000,69250524.80056894
+0xa3ef0957e3d98295219ae94dd1d4b22382753803e80113e632caf7e37e04f7a2,arbitrumfoundation.eth, Buffer - LTIPP [Post Council Feedback],1000,20966298.376296874
+0x3914c54aafd42aed172176c0204d5b631030d75ecc462e310cde89e36ad97302,arbitrumfoundation.eth,Sushi - LTIPP [Post Council Feedback],1000,26154451.909744542
+0xe18e16008e896937d306afee8f95cca2b287a041384e263862db925768a1bfe6,arbitrumfoundation.eth,Grant Request - Curve Finance,1000,58126903.75250208
+0x20fc5915d63f720b88eb8701bbdc55af106e074c4f8aeb40cb4b932e089d4967,arbitrumfoundation.eth,Synthetix - LTIPP [Post Council Feedback],1000,18238545.031586777
+0x64a5f290a74d1c1cfc13fb00b5dff774dc9410b791d69033c7fdd941b76e8767,arbitrumfoundation.eth,Clipper - LTIPP [Post Council Feedback],1000,30547825.192458082
+0x45af534abfed4e82c244ab099261380a9c2b8d7aec00b89885101dff9895f81f,arbitrumfoundation.eth,DODO LTIPP [Post Council Feedback],1000,36634091.555690356
+0x2c0125737bfe7d3575a7ff93dd9f375f3cbf5b76ae6f40a3138379df7cc9d6e0,arbitrumfoundation.eth,Tradao - LTIPP [Post Council Feedback],1000,24462689.461687353
+0x607eeb6e318f776c78617b4ea9568f7408ccecb2b7850e2283ec345eb4ba774e,magicappstore.eth,[SQR-003]: Adopting Team Finance Solution for Token Vesting and Distribution,256,3792151.0
+0xe14e1aabf957741753c511d6c5cf88333eb84f6ab65f162f8323e6abfacdd3d2,magicappstore.eth,[SQR-002]: Adding Magic Raffles to the Magic Store,440,3391436.0
+0x3a12ab1c4ebe14701c4c5f16d9efdd5a5150dcd291bb348ca584f5d8ac1b0571,magicappstore.eth,[SQR-001]: Adding a Burn Mechanism to SQR Token,675,1942180.0
+0xb1ad8eb07c8b2cb5f220f77157b01a7eaf308421626cb42443ed4912dcbf951f,magicappstore.eth,Access the Exclusive Magic DAO Discord Role & Practice Voting,976,5333506.0
+0x6b96b331f3604f33593512a1f0be3f55caa08cebfa66998e40afcb15bc89df1c,magicappstore.eth,Magic Square Community Validation: LI.FI on the Magic Store Voting,1000,1000.0
+0xc794ca84923aabcbd4ba138bdba248c45becde5db69f950cd0deaa17aacf96d5,magicappstore.eth,Magic Square Community Validation: FLock.io on the Magic Store Voting,1000,1000.0
+0x83fcf18ae072b237dc82342141652d09c864fd0f3a4f09f78461f0661250f048,magicappstore.eth,Magic Square Community Validation: Droplove NFT Maker on the Magic Store Voting,1000,1000.0
+0xe82d118d27eb70147be98058f3b545026306542bf030b093987a58c986408d32,magicappstore.eth,Magic Square Community Validation: LOOPER on the Magic Store Voting,1000,1000.0
+0x71a84be6c97830a62f1f159807456a2470dc4d0e2b24351492457fc352cefefe,magicappstore.eth,Magic Square Community Validation: Fair Fight on the Magic Store Voting,1000,1000.0
+0xa62ce02e48e050a12090e94322f2f4214bbd5b733c578af2f6020fa790459ffc,magicappstore.eth,Magic Square Community Validation: TonUP.io on the Magic Store Voting,1000,1000.0
+0x46843767f728a2181be7cbd1b31d202586fcd060e63359074e78c6786c01f1bc,magicappstore.eth,Magic Square Community Validation: SuiPad on the Magic Store Voting,1000,1000.0
+0xe828fd4cb23d1ca6cb08a6945eeaf3c750c0f77f1e77d889b855dbbb5d5beeb4,magicappstore.eth,Magic Square Community Validation: VetMe on the Magic Store Voting,1000,1000.0
+0xdf34b9d1635cd633c458e019d2a0b2f9975f75ae264b60c2aeeb737eff6abef8,magicappstore.eth,Magic Square Community Validation: RyzeFi on the Magic Store Voting,1000,1000.0
+0xd05be3daa352190405683162a3b976837226ef1e4d639c76e152e06e02e4532c,magicappstore.eth,Magic Square Community Validation: Jaypeggers on the Magic Store Voting,1000,1000.0
+0xcf9f2fb87d17cb92f0839d5e8e75df82258050c4ded23d5339bda8aea4627c55,magicappstore.eth,Magic Square Community Validation: QORPO Market on the Magic Store Voting,1000,1000.0
+0x3a42582cea9058e7ffaffda2438648f93f42440783f0536072338310a0505515,magicappstore.eth,Magic Square Community Validation: Symbiosis on the Magic Store Voting,1000,1000.0
+0x0b2f28596b46525ee684470ab8931d2b7ff47442cfae391a8a6d6c98961f5918,magicappstore.eth,Magic Square Community Validation: Arsenal on the Magic Store Voting,1000,1000.0
+0xafed2301a7a3d63ed37672ef8a4778937cbfa196712cc5a278fe40e3571c4dfe,magicappstore.eth,Magic Square Community Validation: Zebec Protocol on the Magic Store Voting,1000,1000.0
+0xadde41781913a66b94e509f602fc619580db2cb2817ab5f6b610d0c4ab668fbd,magicappstore.eth,Magic Square Community Validation: Social3 on the Magic Store Voting,1000,1000.0
+0x617fee854b8f3b969ea2d0aaaadb82816ff008cd1c126dfacab57a46ebbe1a5a,magicappstore.eth,Magic Square Community Validation: DeFi Kingdoms on the Magic Store Voting,1000,1000.0
+0x451d9658dcc65c946c25471295beae3d658d7ac613fa6a32082ed70268e1aa3b,magicappstore.eth,Magic Square Community Validation: TAIKAI on the Magic Store Voting,1000,1000.0
+0x3ac774993247cf161cefa5f4ba8e83613adbadb92a16b40f4f449437fade750e,magicappstore.eth,Magic Square Community Validation: Bepro Network on the Magic Store Voting,1000,1000.0
+0x9794907b96437b0d919f49c17a16234cef067d5c0209527c8f666550ee628a67,magicappstore.eth,Magic Square Community Validation: Orbit Bridge on the Magic Store Voting,1000,1000.0
+0x764de824caab8bbaef62d97c23cac5cc213f8bc2d5aa8f137f2451c27af1c13d,magicappstore.eth,Magic Square Community Validation: World of Defish on the Magic Store Voting,1000,1000.0
+0x05e5d04ac774cc834488264c7c0067580fb9c0d72fcc2e152c518ee5ff42c819,magicappstore.eth,Magic Square Community Validation: Chronicle on the Magic Store Voting,1000,1000.0
+0xcde9eaab1490c87be43daf36d82397b6662f95ffb6cedbed9d02f33b3b8868f8,magicappstore.eth,Magic Square Community Validation: pNetwork on the Magic Store Voting,1000,1000.0
+0x4b020109855f25ea982f9330329df970e352cf01f28b30710aec325fd727ee48,magicappstore.eth,Magic Square Community Validation: NFTb on the Magic Store Voting,1000,1000.0
+0x67d414042da88026e2c718284e90a5d79e1c0a32d322a288b373e0d7a21f4cef,magicappstore.eth,Magic Square Community Validation: Pulsar Finance on the Magic Store Voting,1000,1000.0
+0xc29df4ccabd80fd15786929fc5ee5937384462dc6ac34e5a9b108dc78d70ce92,magicappstore.eth,Magic Square Community Validation: Kinza Finance on the Magic Store Voting,1000,1000.0
+0xb41606b1de917d84098e44a849130648879b4cbe6b5f7e9f47aeb77893f2d2ad,magicappstore.eth,Magic Square Community Validation: HyperStore on the Magic Store Voting,1000,1000.0
+0xe0f33a6dc7733b8a13d3c331d31c7dafe70d81671dc6ba60fca3ad31258e94c2,magicappstore.eth,Magic Square Community Validation: Link3 on the Magic Store Voting,1000,1000.0
+0x91fdf4f1822d75747d425290a99ba5b8ea974dbbc4d8ed6eb1b0d1fc8331d157,magicappstore.eth,Magic Square Community Validation: WAM on the Magic Store Voting,1000,1000.0
+0x1230e17053ac2e8d023825f19c69fb549c791119ff3a2f1e83725075081900b4,magicappstore.eth,Magic Square Community Validation: Superhero NFT Wars on the Magic Store Voting,1000,1000.0
+0x6302882e472eecf518370b031b9246570feadc1368cc4ca5fbde452f5ffa7089,magicappstore.eth,Magic Square Community Validation: Scotty Beam on the Magic Store Voting,1000,1000.0
+0xd4d2e8e079eb0f2255914b89b4c4c460ccdaa35765c0396201ab756df619f8eb,magicappstore.eth,Magic Square Community Validation: Yuliverse on the Magic Store Voting,1000,1000.0
+0xa04d8b5f7a2795b7472cce491f4190f4fb2b48c441c148e8e68d6478dc075232,magicappstore.eth,Magic Square Community Validation: LBank - Buy Bitcoin on the Magic Store Voting,1000,1000.0
+0x5c81d9a19adf4c0370efdf29a2b2953b7577a068210898f7dd4c53b20959ca66,magicappstore.eth,Magic Square Community Validation: Uquid on the Magic Store Voting,1000,1000.0
+0x27b0f3ecd9a37e5080e8f31828a829d9a86a6bbf32627a1fb620351e77ffa440,magicappstore.eth,Magic Square Community Validation: MetaDragon on the Magic Store Voting,1000,1000.0
+0xbe09edc955b93b0534675b42dbf1669fdaf1200853ad6b8fd896499122fcdcbd,magicappstore.eth,Magic Square Community Validation: NFTrade on the Magic Store Voting,1000,1000.0
+0xd1211b5fe1b322777918be05d27911e2a9db5531331ac7363f72b8dafdccfd10,magicappstore.eth,Magic Square Community Validation: xExchange on the Magic Store Voting,1000,1000.0
+0x34d0595c5e79d37c4a2a99cf604bc511cbb2cf824d443690c5084fc673aeb0e1,magicappstore.eth,Magic Square Community Validation: KK Clicker on the Magic Store Voting,1000,1000.0
+0xcd9bcd04d63f50b13c17a3ea7cb950763eb888bc14533d48aa0be4585f9ec679,magicappstore.eth,Magic Square Community Validation: Minglo on the Magic Store Voting,1000,1000.0
+0x616a21fa0df3d43fdbd2c192b8525f919b6ff626996881b11591d50ad81ff78a,magicappstore.eth,Magic Square Community Validation: Lords of the Arena on the Magic Store Voting,1000,1000.0
+0x8d22e724cb9c21db506eb0b617846ffcd107ce25d4b91862c49d8bef994b37cb,magicappstore.eth,Magic Square Community Validation: Spells of Genesis on the Magic Store Voting,1000,1000.0
+0x0b6489fdfa24ccc61d51070e5ccd34348627added7f8d9b68a6c79f9220ae047,magicappstore.eth,Magic Square Community Validation: Lawyerd on the Magic Store Voting,1000,1000.0
+0xa1d03000b4b32b4affd6e1b87db7b187e22565ebe63dfe38936a1e94074e1786,magicappstore.eth,Magic Square Community Validation: Friend3 on the Magic Store Voting,1000,1000.0
+0x05a5a5f88bff82a45e6b6fc2ae21f0d0def10a293d96d58163339b55df60d59b,magicappstore.eth,Magic Square Community Validation: Planet IX on the Magic Store Voting,1000,1000.0
+0xcd749b3c1caea7f5f2ecc3d1270eb2f938819f015d4410e5e07f77cab47e9eb9,magicappstore.eth,Magic Square Community Validation: PixelSwap on the Magic Store Voting,1000,1000.0
+0x5764572fa1d162fa02bd8d90c50d138c922cc8276887507fe45c1d1e7b27b607,magicappstore.eth,Magic Square Community Validation: RocketX exchange on the Magic Store Voting,1000,1000.0
+0x12f35834b4badcbd84f7be18e59dfb8b773456c64ffb061f9df3faf4bf25dc35,magicappstore.eth,Magic Square Community Validation: BracketX on the Magic Store Voting,1000,1000.0
+0x26a0001cf4b48456f99ce1a1f49d730a6324b2e674d079485ffa40ef57a7a066,magicappstore.eth,Magic Square Community Validation: PWNDAO on the Magic Store Voting,1000,1000.0
+0x75689a1d486913ca272480d11c0afc0b5b42fced1d64b5e90e85800e8ba6cbe5,magicappstore.eth,Magic Square Community Validation: Earn Network on the Magic Store Voting,1000,1000.0
+0x63a7caf8da0ed304ba59497fbc60861e2ac9eab3ce84bc91baac02a89e12ca60,magicappstore.eth,Magic Square Community Validation: Galaxia Explorer on the Magic Store Voting,1000,1000.0
+0x7914fe531102de5c8491e26fba0c17c8a6f76f48a1389b346d13163a80a13ed1,magicappstore.eth,Magic Square Community Validation: Sonorus on the Magic Store Voting,1000,1000.0
+0x5bf21d61c73cca2bda3faa8b562bdbc474661b960cd056da8e98de3bd8571569,magicappstore.eth,Magic Square Community Validation: One Click Crypto on the Magic Store Voting,1000,1000.0
+0xadc25e90b7b6275b3e1646fb8ab614aa581ce61b176086f344e5cf6854bde91a,magicappstore.eth,Magic Square Community Validation: STRX FINANCE on the Magic Store Voting,1000,1000.0
+0xc7e40d9e238c33aacc1173a12e378dcd940893b326c681165489d66d4ebc94a1,magicappstore.eth,Magic Square Community Validation: INTO on the Magic Store Voting,1000,1000.0
+0x2080785db69563e63fea2f7dc5b4b0f3c02999ac782a79475f2e9d93c54a39cf,magicappstore.eth,Magic Square Community Validation: Arkham on the Magic Store Voting,1000,1000.0
+0xd343295d4864b1db25d0835d8abb17503effad7fd515814107a6d179dfb1e2dc,magicappstore.eth,Magic Square Community Validation: paydece on the Magic Store Voting,1000,1000.0
+0x14d0dfed95db9cadd86780a02db73c44e03ddff25ac09f951b4790607256620a,magicappstore.eth,Magic Square Community Validation: SendIT (Arcana) on the Magic Store Voting,1000,1000.0
+0x3efef8ee6c1c19436344ce157def27cb36593586384fa4d2599b669dbc33923d,magicappstore.eth,Magic Square Community Validation: FoodTruck Wars on the Magic Store Voting,1000,1000.0
+0xd12feb3b762c9cc829b77ed2d48c1c5fd28ddd0ffb6f7cc777c7ac59efc9c467,magicappstore.eth,Magic Square Community Validation: spacepongxyz on the Magic Store Voting,1000,1000.0
+0xbea2b569a40278ef4cacde51831e1a0fafebdb2045741b4f69dd5ec406a9b990,magicappstore.eth,Magic Square Community Validation: Reality Metaverse on the Magic Store Voting,1000,1000.0
+0x7248dcd6f45da1cd6dc0d709619ca42f4a095c102e8d5ac79395e3c8254125bb,magicappstore.eth,Magic Square Community Validation: Velocimeter on the Magic Store Voting,1000,1000.0
+0x615c3bd11b27d453e98b39ca95be29ed1403d07eaedef4e3d6ff698de6e26d64,magicappstore.eth,Magic Square Community Validation: CyberWallet on the Magic Store Voting,1000,1000.0
+0x4ee30f3a3354d99f3a0f3473ce406e81db1e26b9f67caa2818df0b85a8d7de23,magicappstore.eth,Magic Square Community Validation: HyperID on the Magic Store Voting,1000,1000.0
+0x4ff1eca26fa6b94cbc593379960e28bcd079ff9bb18fef20b09f28cd4b79d90d,magicappstore.eth,Magic Square Community Validation: FlappyMoonBird on the Magic Store Voting,1000,1000.0
+0xaa0077198a8579f5ed4594e487cb241387159898eda759f85bf6f0d97ef51bf0,magicappstore.eth,Magic Square Community Validation: TurboDEX on the Magic Store Voting,1000,1000.0
+0x5d7b11ed91a2db948338a0b7a42baff3601cd0da9c95b8958cc1f3215e03bc2e,magicappstore.eth,Magic Square Community Validation: Solcial on the Magic Store Voting,1000,1000.0
+0xc70755669ab4b64ed34263ec3f66503a0eb8e7a86aaae271363dfa8dfd258163,magicappstore.eth,Magic Square Community Validation: Elfin Kingdom on the Magic Store Voting,1000,1000.0
+0x48a474cf61f06943e499196d27240156832d9686a4cdc3ef236b4f493271b926,magicappstore.eth,Magic Square Community Validation: Honeyland on the Magic Store Voting,1000,1000.0
+0xe244178bb88a9a2c46d854c4e088746c2de33ff97603449545fa8f0bed08b480,magicappstore.eth,Magic Square Community Validation: Magic Shoes on the Magic Store Voting,1000,1000.0
+0x1d1fdab5906b3a00028c725232cdeff45a42c5a45a3f4a54faeb3dddf6d14839,magicappstore.eth,Magic Square Community Validation: Bumper on the Magic Store Voting,1000,1000.0
+0x6747c6b39856bfe532b6cc9baf261e6e0fa1ce769ce3482f8c6e08f7333913d0,magicappstore.eth,Magic Square Community Validation: Scrub Money on the Magic Store Voting,1000,1000.0
+0xb7a5214894816cd57d765d24873b30a1341a59bc6f8b391d9c071029581d963b,magicappstore.eth,Magic Square Community Validation: Scrub Invest on the Magic Store Voting,1000,1000.0
+0x34d33b7c2e632295768b887c649e539b3c0d8c97a42a45c36d59889c1334b1b0,magicappstore.eth,Magic Square Community Validation: Lovely Wallet on the Magic Store Voting,1000,1000.0
+0x958904e92a1ec1148b5934ea98e5405513c55a1939284f56b8e1b24292308cbd,magicappstore.eth,Magic Square Community Validation: Assure DeFi on the Magic Store Voting,1000,1000.0
+0x3312798827ecc4919cf7cab8612da169ee40afb22b2971ba403358b49b47eb5d,magicappstore.eth,Magic Square Community Validation: TapFantasy on the Magic Store Voting,1000,1000.0
+0xf9b0ba1032d0a49c4a60f30c49662923edcce0123f5712ddbe469ece660ba0f2,magicappstore.eth,Magic Square Community Validation: FWDX on the Magic Store Voting,1000,1000.0
+0x77525ce1ebf3d25db2f352ed977f649f9f365a5bd2bf09ba0dcda440a792426f,magicappstore.eth,Magic Square Community Validation: CutKitts on the Magic Store Voting,1000,1000.0
+0x092dceb83890f00d51c8af522876b7ea42f3fa423c9726d41423d2472dc1bfba,magicappstore.eth,Magic Square Community Validation: Spores Launchpad on the Magic Store Voting,1000,1000.0
+0xbd9f5451aad3c62865aab6d620b7f50eaf58f23a4c78f413bb5e216a1084c3fd,magicappstore.eth,Magic Square Community Validation: Mazuri GameFi on the Magic Store Voting,1000,1000.0
+0xff5adf6b22a6878f6417978cd41e7e7c0936863a1754bd8aa2ba0ec981451f3c,magicappstore.eth,Magic Square Community Validation: PunkCity on the Magic Store Voting,1000,1000.0
+0x914592c1749418e86b1aacf13ddcd4649c6171f81c117ab51039eef49dd810fc,magicappstore.eth,Magic Square Community Validation: WePad on the Magic Store Voting,1000,1000.0
+0x8a41069073975f2682f1cbd3e1f5ff28dcf14af65cbb65a2fca95b0de9d639c5,magicappstore.eth,Magic Square Community Validation: Neptune Mutual on the Magic Store Voting,1000,1000.0
+0x5f12e5c9fe5e116f2f14887345a728d9930fbe85423a80f7467c76fdedb8564e,magicappstore.eth,Magic Square Community Validation: Battledog Arena OKX on the Magic Store Voting,1000,1000.0
+0x510ee2a206292649e36a73e519debd2866e0ae19a3cec7a70b82b1d62584e57a,magicappstore.eth,Magic Square Community Validation: Liquidity One on the Magic Store Voting,1000,1000.0
+0xccc65c1299b12f82ee09e79eec46f26890b241ff8081d43ee00502a26767e5db,magicappstore.eth,Magic Square Community Validation: Dtravel on the Magic Store Voting,1000,1000.0
+0x04ffb30c837d1b9d3f8868c8c4c23d7f09845e33c55e844c8f4cde6b4c7142b9,magicappstore.eth,Magic Square Community Validation: Huddle01 on the Magic Store Voting,1000,1000.0
+0x1fedcb9749b75d857ba2a9ff9a6de26e3db9f6e71860125ff3a01ff48e480322,magicappstore.eth,Magic Square Community Validation: MetaStrikers on the Magic Store Voting,1000,1000.0
+0x6cdb84ed3b60397216fd80e2859054080987c38d2ed53fd0eeb844a6bd01f02f,magicappstore.eth,Magic Square Community Validation: Tearing Spaces on the Magic Store Voting,1000,1000.0
+0x92dd10810458c72c7c356abb000e6e2a2843329fb5562d38eaea6c80333d7bd4,magicappstore.eth,Magic Square Community Validation: Overlay on the Magic Store Voting,1000,1000.0
+0x16411c57c2afb4d69103d8a6cd41ebd1651f3f2f97f626501bf3a94766387589,magicappstore.eth,Magic Square Community Validation: Battle Craft on the Magic Store Voting,1000,1000.0
+0x2b684ce4992527e24f51ea404edd1ed91d2a87b43574770851db6375b7195af0,magicappstore.eth,Magic Square Community Validation: Ether Strike on the Magic Store Voting,1000,1000.0
+0xa33808b9e91ea1fc46d0c190619506a7964ecb989eb73f7c8d31a9c512a998da,magicappstore.eth,Magic Square Community Validation: Coresky on the Magic Store Voting,1000,1000.0
+0x8a843ec52f6e232db06f9a89e22bc369cf5e6f420414faa6fd98237df50adc21,magicappstore.eth,Magic Square Community Validation: WiFi Map on the Magic Store Voting,1000,1000.0
+0x8f418d08ec3fbd01d652358a51d2928bf247c39bb55fd91e94f5801f87bdaa3c,magicappstore.eth,Magic Square Community Validation: Meta Apes on the Magic Store Voting,1000,1000.0
+0xe7f175aa22827d02218896af1a8beea6ded8e05d830cd0ffdeeb469b778c6812,magicappstore.eth,Magic Square Community Validation: 4EVERLAND on the Magic Store Voting,1000,1000.0
+0x0d59104eaf88be4a05b2276cbd415713ee6ffdabd88039e1d2c00d946dc68214,magicappstore.eth,Magic Square Community Validation: Megaton Finance on the Magic Store Voting,1000,1000.0
+0x3965896f4ba916f3871c3088e6bdc93b8a923b48ed64a345565bdc733c2bc1e9,magicappstore.eth,Magic Square Community Validation: Houdini Swap on the Magic Store Voting,1000,1000.0
+0x88583c43b196ec86cee45345611b582108f1d6933ab688a7cae992a6baa552a6,opcollective.eth,Title: Special Voting Cycle #9b: Protocol Delegation Elections ,1000,1836407.5413204252
+0xa9457a5344747a6c272de786419fc7a4e83fcf0f927ef9b1ce767452faa9b453,opcollective.eth,Title: Special Voting Cycle #9b: Grants Council Elections - Growth Experiments ,1000,720918.9163098568
+0xdcff47b93fb17a11411bda1809e22cba72e5131d31624e4c0f2b9dbee6811f5c,opcollective.eth,Title: Special Voting Cycle #9b: Grants Council Elections - Builders ,1000,629796.1831510557
+0x22d4c3ab56832de58c1774d1a0aeb61ba6dde8b16c0f8382f85d8935f3ee1f11,opcollective.eth,Badgeholder Nomination Voting,1000,1014983.1090741485
+0x3a1f9a30c47d6060f3b732404f3a6b2ceba3da07be0505ef0f93b6dab7fa3185,opcollective.eth,Special Voting Cycle #9a: Protocol Delegation Program,1000,244495.71258224387
+0x37fc8a6ae60cff2e4e72fe9c0567f739bb9a78262c2ada236892fcbc7af2c32d,opcollective.eth,Special Voting Cycle #9a: Grants Council,1000,246476.4216933739
+0xfeb1832a75e2ef47dea4b08509a16e4e9176e9d2a962c9466c5d345b37428384,opcollective.eth,Season 2: Cycle 8: Velodrome ,1000,1471689.127078809
+0x2a7436c5bebeaee1a369e484a212a183da549dfce0393d6dc1f84837e8c5c79d,opcollective.eth,Season 2: Cycle 8: Mochi,1000,958679.3003571137
+0x71f465ebc109ddbda430a6a0312a43c324d0653624eb22e126e7503681dceb10,opcollective.eth,Season 2: Cycle 8: Ambire Wallet,1000,1107573.460376516
+0x474cbf8c806f30d016ea4ca0ad3fb5605391df6a3fa34a1aead7df61a9e4cc28,opcollective.eth,Season 2: Cycle 8: Agora,1000,869810.915424253
+0xe97adad42eb8c0072edee33de2c68191cd2e8a0ae615ab94ebb60bdc73a7d3f2,opcollective.eth,Season 2: Cycle 8: DefiLlama,1000,879197.6777975274
+0xcf871243191a3e0672caa7b7a29ee1be8f917288d844fc9345f56b777a595659,opcollective.eth,Season 2: Cycle 8: Messari,1000,1607996.8075246178
+0xf44f4767df0341611940e74316ff1aa5047761f04a97eb9681aa96b8c71da75a,opcollective.eth,Season 2: Cycle 8: Tally Ho,1000,885168.225795845
+0x05126c50a6227f339b64d712e6bf070c769f410bcd7cdbe62ba6493ab49b08e6,opcollective.eth,Season 2: Cycle 8: EthernautDAO,1000,943832.9186633087
+0x066ab540856b7f00a42fbf5b96fbe627735b740bc009b356d69349afd023720f,opcollective.eth,Season 2: Cycle 8: Socket,1000,745540.285459797
+0xc8d4c55645e133bb66f480f4f1a17307f73aedd99b0d64f796f4749ce355d7a5,opcollective.eth,Season 2: Cycle 8: Overnight,1000,707520.3473463823
+0x0a184f7fd0042e9e33ee545d0316b4d382f302a75806394e67dee4249b7dbd04,opcollective.eth,Season 2: Cycle 8: PoolTogether ,1000,751514.0450268005
+0xfba0828a2f887ce56f6c7a548e886fb2028cb062057ff3ca55c6eff95260c9a8,opcollective.eth,Season 2: Cycle 8: Curve ,1000,751329.2822875263
+0x8160b000b3c2977889daf8ea63a7ead186efde83376c00e9dac3269fb4dcd544,opcollective.eth,Season 2: Cycle 8:  InsureDAO,1000,715024.0387629098
+0xc9c0a739a29ce6477708f49a2985e4c8cb2e4ba0be1d3761541ed189a9c341e1,opcollective.eth,Season 2: Cycle 8: Angle,1000,715338.5404064853
+0x2ed941a8f36683066228c88758dfa4b34b923f34a81116f663d2b628da566fb6,opcollective.eth,Season 2: Cycle 8: Homora,1000,3107097.909966472
+0x61860171c5cbbd4ebec5e4a778d58f979e13e7f4657998defcee5fe46db3f54f,opcollective.eth,Season 2: Cycle 8: Symphony ,1000,2512937.7102510566
+0x4e3e7bec358c9e2fc2f6b24be15cbd2bc13e31c1eff82151e6566b6b779ffbd4,opcollective.eth,Season 2: Cycle 8: Arrakis ,1000,2512622.7863492817
+0xe61bea48154a9c59a7ac1ddb56799c77b1b7a2f138a398c48fff835221f25430,opcollective.eth,Season 2: Cycle 8: Alchemix,1000,2375425.3501710384
+0xe98be83b9b3873aef54f8a19373afdc95028342cc9f2757af6099570034b093e,opcollective.eth,Season 2: Cycle 7: Yearn,1000,2030749.9371055842
+0x2ec590658618c2046565939f534284e7a431476af082bfee00505617145b5580,opcollective.eth,Season 2: Cycle 7: LI.FI,1000,2485759.2494920553
+0x6951c9f971fc7cf939ef9f3b6ce49494a08c53bd617700b5ea46a497c3693c4c,opcollective.eth,Season 2: Cycle 7: Safe,1000,2277529.476324712
+0xb6054ed78153c9112cac5dd3fbd234481c9961bfcbf665e645754f2e6c8b286b,opcollective.eth,Season 2: Cycle 7: Karma (Discourse Form Plugin),1000,3351043.741644473
+0x1720f1321a94a97ba0c23a612d543465cbf6f31aa80c8dc0aa016d6285bd0c03,opcollective.eth,Season 2: Cycle 7: Karma (Delegate Dashboard),1000,3406075.0278486568
+0x6cc31c08dd7b59a516934fbab9f5fd355d9c92d5a438cc9474df65b9f7edd545,opcollective.eth,Season 2: Cycle 7: Rainbow Wallet,1000,3061763.975988506
+0x36d5040034131d5a52e9c482e149dde4d5b3083dce8b9eb990d07d9d99b927b4,opcollective.eth,Season 2: Cycle 7: Otterspace,1000,2826637.88300937
+0xe290c12c3871de18c7be44d0ce19e3fe46401adbdd9fa25077629cb356889be2,opcollective.eth,Season 2: Cycle 7: Dope Wars,1000,2219796.9686312275
+0x37d5038262ef8a6eac1d6e107a5d8c80e0e05e278af5598064ba7c473fd66ff0,opcollective.eth,Season 2: Cycle 7: Alchemix,1000,2047139.8419451164
+0x8d9f64ad44887ec43ecba44ca605912ab541ccff49012691f4a1e0c1b7ec9b05,opcollective.eth,Season 2: Cycle 7: Tarot,1000,1850412.0575336902
+0x638f2adbeded3a0409ea238610753a86c78d4c4cc5569565139c350f58ba944b,opcollective.eth,Season 2: Cycle 7: Sushiswap,1000,2009639.7161961156
+0xeabcaf98f6cc84a8b3a244d66c44823149712569432877bb89c0b66c5bd00b39,opcollective.eth,Season 2: Cycle 7: Overnight.fi ,1000,2552485.311933861
+0x7fcc9c9537a7061bae91a25b9dfa4c995a4618e1d7bb9b034b79ab5c214fb3e8,opcollective.eth,Season 2: Cycle 7: Overtime Markets,1000,2748561.1147693833
+0xbf4e3b4abfc10594ab3b9895d398c7c672b9526eeaaa672df1ae281c2a580091,opcollective.eth,Season 2: Cycle 7: Abracadabra Money,1000,2097844.177705026
+0x0ddd965be7471ca3d399af6b845791d86c649389e22681df1f62473d01a9a5fd,opcollective.eth,Season 2 Governance Fund Proposal: Interest Protocol 2,1000,1152978.8626998484
+0x710d91f3922cdb86359e751efe7c702826892b4f6d79217366bccda6a7e6d7d4,opcollective.eth,Season 2 Governance Fund Proposal: Socket,1000,1356324.9156921548
+0x7c2da0957e9e7660f9f6219c05291c0907bed79c10b6da15a95416e68cbb4ac1,opcollective.eth,Season 2 Governance Fund Proposal: OptiChads,1000,995614.8577020705
+0x86ccfd9ccce609cb27fdbd5b8344a8fee67805d896e75cbe127185c8d94656f1,opcollective.eth,Season 2 Governance Fund Proposal: Kromatika ,1000,996324.0294070796
+0x1fda82a16813cb299b031a6a543550f2cd792dd47168671519d9ae5d40351667,opcollective.eth,Season 2 Governance Fund Proposal: Revert Compoundor,1000,1147453.3007933695
+0xac7ba616ebee96930f313ddb4b75de9024ff88f17bf3c82ca783d904ab38d551,opcollective.eth,Season 2 Governance Fund Proposal: Bankless Academy v2 ,1000,1147809.916276835
+0xda1cc880069dceea9e386323120875ddecd1d23dcb46eab588beaf88b39f5a62,opcollective.eth,Season 2 Governance Fund Proposal: Across Protocol,1000,997127.717870332
+0xfd9d6a2cc49918aa319d0d4a87e4f1d6ec7aedd57262015c5c5c354a0e578437,opcollective.eth,Season 2 Governance Fund Proposal: Tarot,1000,1147702.3251236803
+0x0ad8db211cb1d64ce36c86415cdfdbb34d220622db187a12a85f4443a103dc1e,opcollective.eth,Season 2 Governance Fund Proposal: Otterspace,1000,1148197.168560701
+0x0286e35a8799d3cf0c84784cd54debae258177b0c31408a48dc00c69b8d4a010,opcollective.eth,Season 2 Governance Fund Proposal: dHEDGE DAO,1000,1148209.215395907
+0x1521d43b549216dddcc4d7628779097d0f22c93d8a63de4e9b7d26b102e0ae3b,opcollective.eth,NFT & Gaming Committee [Group A],1000,3583749.211469141
+0x8bd10fa2a38047fb65c6c4138cfed3f180fd9075888cac6d7f783728f4d93ae3,opcollective.eth,DeFi Committee [Group C],1000,4325686.454098343
+0x2a1c563340067fd135847b66c89b5f81ef96c126708336737ad946c128aae440,opcollective.eth,DeFi Committee [Group B],1000,5270655.912408151
+0x58c408348473856bdd0f8fcdde26936a3f828a33bdb91d5a5e4286237c9ba397,opcollective.eth,DeFi Committee [Group A],1000,4718739.668154013
+0x5d3f7aca80dac05c70eae279551d3c8baed64fdfbc52c7cd1e7dfeeba6baf207,opcollective.eth,Tooling & Infrastructure Committee [Group A],1000,3112939.1213756865
+0xe4a520e923a4669fceb53c88caa13699c2fd94608df08b9a804506ac808a02f9,opcollective.eth,Test Proposal,1000,682756.9471141174
+0x2102ea7e303e9ed17a64a6b159cd12416338106be6c449b36a89051a83b76b88,opcollective.eth,Proposal I: Governance Phase 1 - Qi Dao,1000,3774650.572489458
+0x84f200a727f9df8f7718f1bb8ba8b75f987dab145873656242d1fe1dda98c427,opcollective.eth,Proposal H: Governance Phase 1 - BarnBridge,1000,2965162.273140104
+0xb7a9f7487ed183c049514c01328321fafe561b6ad50896b083ffdd608237c23b,opcollective.eth,Proposal G: Governance Phase 1 - Beefy Finance,1000,4133694.924914144
+0xc074e43c31ef6416083ef7bdad26e0b74a32063eb382b19ecfd29da397f6279b,opcollective.eth,Proposal F: Governance Phase 1 - GARD,1000,3236184.7618284863
+0xa5e1b6d13f305ae07d3f3e8bd7494ab55313fce6ee386d477295c8ce4b859614,opcollective.eth,Proposal E: Governance Phase 1 - Byte Mason Product Suite,1000,4145895.8932499024
+0xd469ba187d0232c9626a7e6179c35adfdbdf1df8874375a2e54ff0d0de3c1501,opcollective.eth,Proposal D: Governance Phase 1 - xToken Terminal and Gamma Strategies,1000,3932926.7090790346
+0xf2c2621dce969b0f91b5cdf8270dfbde55f04ba5a8bd09478b7b792f1b6fdf49,opcollective.eth,Proposal C: Governance Phase 1 - dHedge,1000,4123470.866603502
+0x59019f6c2d82b7a2f66d19ef08997a99be48527fcc55b6b597a8be0d270cc5a4,opcollective.eth,Proposal B: Governance Phase 1 - Boardroom,1000,3185586.764522897
+0x219e6f3cc726c24e7eb100959abea6cc3a5c24a24ffec3072a7784d33f030096,opcollective.eth,Proposal A: Governance Phase 1 - Rocket Pool,1000,4123058.487540157
+0x36cdf280fe8c3760561e76d57a9e7022cb383e789ce80b70ed791c6a68166afb,opcollective.eth,Proposal I: Governance Phase 1 - Saddle Finance ,1000,6670610.053489388
+0xb321a0cb19147a75ccca41d482594d785673b767593a0d25964c7ec9a3358128,opcollective.eth,Proposal H: Governance Phase 1 - Overnight.fi ,1000,5600971.629507456
+0x3c5603522d6a957b2445f690f6952290d5cc0efb0a28eb3e1f44af599ba9693f,opcollective.eth,Proposal G: Governance Phase 1 - Dexguru ,1000,5574636.562048678
+0x1cb55b7daca38a37dfd2507218329fb5d7912ac5b237859c547dcea0115231d7,opcollective.eth,Proposal F: Governance Phase 1 - Infinity Wallet ,1000,5448219.092962944
+0xa497af11ab31e638d38bcf6d57689a5729bf66ee1c3fd89f20bcd7d9e6fa6d4b,opcollective.eth,Proposal E: Governance Phase 1 - Dope Wars ,1000,6445490.622927087
+0x2a83d049054285cc7bb9c89599d469045b76d29d7ace9928ab2b05bd01a72aed,opcollective.eth,Proposal D: Governance Phase 1 - Biconomy ,1000,6557930.300105604
+0xe3f4713ca1dcfe8e9e3e3f59560e28895a8895b559cc1f2331ca401ce51125f4,opcollective.eth,Proposal C: Governance Phase 1 - Hundred Finance ,1000,5895114.789385185
+0x037e4148cf8feb706c023108e1c82f9d765a6c6217dcef9ae367a672683820e9,opcollective.eth,Proposal B: Governance Phase 1 - Kromatika ,1000,5761305.957148363
+0x625e70dcff35be042778684d66cb3e24efd35bdc4222d263047afd2699188fb6,opcollective.eth,Proposal A: Governance Phase 1 - Superfluid ,1000,6915984.573287209
+0x8ef075d11b27be16304a97956e821bb34468556b6221990c67aa8c805e8c96a2,opcollective.eth,Proposal Q: Governance Fund Phase 1 - Candide,1000,9873435.837174214
+0xcf408ef01d60307b668d349d80b930346f76e88835d50653e0a81ca3cb2637ff,opcollective.eth,Proposal P: Governance Fund Phase 1 - Roki,1000,10196025.078439876
+0x6bccf3a1f627aa4056c921f8551683c82f3a4e0d3c831840d5738c1748f78790,opcollective.eth,Proposal K: Governance Fund Phase 1 - Infinity Wallet,1000,10579759.95058319
+0xcb36daea932ac232f0c0ef4dbba3c41d94e98a252a71815a6d2ab4e73107669b,opcollective.eth,Proposal O: Governance Fund Phase 1 - ParaSwap,1000,7999051.350893295
+0xbdfed349a52173ccf3ddf96ecfd5e1cc23885e85b615093abd9bad16dac38885,opcollective.eth,Proposal N: Governance Fund Phase 1 - Thales,1000,9509635.424853379
+0x1fb511b257d51323afb133a795b7a43b33b652e5b1ee5a6fc674ee6383fc0f66,opcollective.eth,Proposal M: Governance Fund Phase 1 - 0xHabitat,1000,7327551.457267658
+0xb4e35ca76ff5696570631fe3ae38fd8c268a081e1b0f0a7614d1779a4ebdbc33,opcollective.eth,Proposal L: Governance Fund Phase 1 - Beefy,1000,10243010.365116976
+0x5efa2c3fe01997cfc5e6aef5911ccb46f6ea1a383d287cc1289671c86bfcd158,opcollective.eth,Proposal J: Governance Fund Phase 1 - Ooki Protocol,1000,7287256.11776167
+0xd8ea5749c5fb886021f27c422b1bb1ae5ff972e8fa73853608f242cbe18744da,opcollective.eth,Proposal I: Governance Fund Phase 1 - Pickle Finance,1000,9972207.750481436
+0x8ebe3b30462211e55f7f2d0ba60126f810c3a330b2b8aa935ea0f4c05dacb257,opcollective.eth,Proposal H: Governance Fund Phase 1 - WardenSwap,1000,6622703.61755619
+0x408ac8d6e74febd74a11371d66ba40ab58fcaf0eb70c34c449731651e0222d32,opcollective.eth,Proposal G: Governance Fund Phase 1 - Summa,1000,7160060.841400186
+0x89ca6f762851897d1662f91284163d10a159fb22ba5c7a1f764338189824b038,opcollective.eth,Proposal F: Governance Fund Phase 1 - Balancer & BeethovenX,1000,11500355.32707616
+0x5e8280af9c314519d63093f2bffe7194e469e0d0bf1c89e828c63d1469166866,opcollective.eth,Proposal E: Governance Fund Phase 1 - Raptor,1000,7889221.567272253
+0x0f3592ac3e437870affacc5fc64ce3c266b5041e24a3a31e490021d00d8dbd7f,opcollective.eth,Proposal D: Governance Fund Phase 1 - Mean Finance,1000,10347640.956905859
+0x5a35edacc5f2412fbcceb778c671a0a94b76b700812e89212dab9e01255cdf00,opcollective.eth,Proposal C: Governance Fund Phase 1 - GYSR ,1000,7359769.177586731
+0x2ca1c70f1d1ba224eba07d4dbb716e7ec42503f3c64d5682f9da12e37bde2c58,opcollective.eth,Proposal B: dForce,1000,10533035.335492734
+0x8a117727a5655a7aafe6ddada24be5fe63c68450c7cd70b755d84480b554fcb1,opcollective.eth,Proposal A: Optimistic Railway,1000,7487237.017641878
+0xa37475924ddd3a55b875da4f852b3498176cc590f6776440ab1225e63fe2e25f,opcollective.eth,Proposal C: Governance Fund Phase 0 - 0x,1000,15087924.210388202
+0x37b4b290553e80575b7ca6bb44a82ec9c0b67427e9c0b5056849b8c1b9251f1f,opcollective.eth,Proposal B: Governance Fund Phase 0 - Uniswap,1000,17942094.004624818
+0x95cb4cbd872dfa3ab9490fff6736b90e518faba120dacb7035ded44aff622757,opcollective.eth,Proposal A: Governance Fund Phase 0 - Batch Vote,1000,17640679.930935346
+0x7b9a8eee9f90c7af6587afc5aef0db050c1e5ee9277d3aa18d8624976fb466bd,opcollective.eth,Final test,1000,9730221.797412086
+0x0152d891ae51ef5eef5c912507842469c7527be2da82e4e03bccf26801e040aa,aave.eth,[TEMP CHECK] Deploy Aave v3 on Mantle,184,245574.76559168185
+0x2e93ddd01ba5ec415b0962907b7c65def947d1ed94f1e5b402c5578560b1dddb,aave.eth,[ARFC] Aave v3 Gnosis Instance Updates,176,284737.56148219603
+0x2be035a75fb8c5bb4e99e56006e57b7eb7df8bdd5616d903309ef6fc5b7446de,aave.eth,[ARFC] Proposal to Remove USDS from sUSDe Liquid E-Mode in Aave Prime Instance,231,309014.87203571846
+0xa7f77074de4dc07d1306ef95453cded5e1913938d1b93807e98a69378b1e8b39,aave.eth,[TEMP CHECK] Onboard rstETH to Aave V3 Prime Instance,237,339073.6868935162
+0xdad0834b0a2b0b9b5b48688f58f1f0e5c75f7a17185975dbbeeb88f558dd65b2,aave.eth,[TEMP CHECK] Deploy Aave v3 on Sonic,244,339105.3440805228
+0xd8951c24a201f224aed27aafb975ab2a0cf17c479a56f8b66705642cee75c027,aave.eth,[TEMP CHECK] Deploy Aave v3 on BOB,179,275405.4861871959
+0x87585d9dcb104d2946ca2def6bcf57708480fafc5e310de4850dc2fbe1820893,aave.eth,[ARFC] karpatkey GHO Growth Service Provider,194,896394.8012417356
+0x564a45f0a2855799d9be329942fa1f5e849058ff4b950f4027ec4666f4b61d9c,aave.eth,[ARFC] Enable eBTC/WBTC liquid E-Mode on Aave v3 Core Instance,289,766167.828817207
+0x61f027ea797763c9e01736693570141a27a0a5d4517a6b63d0fd84474e8be995,aave.eth,[ARFC] Enable LBTC/WBTC liquid E-Mode on Aave v3 Core Instance,278,775679.9972985114
+0xd1fdca5d69b03ed57848180d62a812ab1a1ff72f85d671c417b5ff8fb2bd0a7c,aave.eth,[ARFC] TokenLogic Financial Services Provider,285,726766.2708718581
+0x78c3bbbeb6ed3d33f66d5ee7049f4d79bbd4744869f83ee091a5d3390f9964f7,aave.eth,[ARFC] World Liberty Financial Aave v3 Instance on Ethereum Mainnet Proposal,247,893372.2323506536
+0x857fea8a5adadd066965f3107f1578a3cce94ec59bf45f46565fa22cfaac9d67,aave.eth,[TEMP CHECK] Onboard Pendle PT tokens to Aave V3 Core Instance,223,892869.72428778
+0x60613deb2c662057cc8028b431df84fe6e763d38f48f70594a7cb7fd91a8cb93,aave.eth,[ARFC] Orbit Program Renewal - Q4 2024,326,845972.2628057019
+0x5ae276cb67c8d40868916e99f2ef113de02049dd412c3eb47539f97648f50878,aave.eth,[ARFC] Deployment of Aave on Linea,269,875059.6144456002
+0xe6740e5aec256ccf1dfbf538591f6b1631927f8d950b17067fe6912b74158332,aave.eth,[ARFC] Aave Liquidity Committee Funding Phase V,138,877173.4479833187
+0x60c360b61812b9ae96b2f785f9fca7a5461ab45e295f55a695638aef18d96d50,aave.eth,[TEMP CHECK] Onboard & Enable eBTC/WBTC liquid E-Mode on Aave v3 Core Instance,205,874830.9659856062
+0x8fdee3ec7a301f9fba2e4c048227257070645d636b09a7afb369ee9c002ad764,aave.eth,[TEMP CHECK] Onboard & Enable LBTC/WBTC liquid E-Mode on Aave v3 Core Instance,201,874832.5825219059
+0x2ca8db490e132cebfec25ddbf460b89abd710456c5177bca784abaae9d6009d9,aave.eth,[ARFC] Add FBTC to Aave v3 Main Market on Ethereum ,240,383282.5561919029
+0xf9fa710414237636cba11187111773fac04f74eb1a562d2b50fca86cb72a778e,aave.eth,[ARFC] Onboard ezETH to Arbitrum and Base Instances,229,393088.0392155378
+0x35e7ac03f98a971428d46f1e2475981c2f32392b1a2b3070e47851d0df74e6dc,aave.eth,[ARFC] Aave Instances Strategy Shift,255,910225.8345614983
+0xef7dfa4e96e5f6a7337648d2dd3882f7b10e969c9564c118a34ce99eccec9383,aave.eth,[ARFC] Onboard SCR to Aave V3 Scroll Instance,254,766008.0071547473
+0xa8b329bbbbc4471e68590e55216b82c2eaffafbe378be8e1ba4c2f431120fc39,aave.eth,[TEMP CHECK] Aave x Metis: Strategic Alignment Initiative,238,778621.0103610067
+0x317dc7303f98a6363d7aa4284b75e5779cde127c73e815a941a503619575deb6,aave.eth,[ARFC] Enable tBTC/WBTC liquid E-Mode on Aave v3 Mainnet,228,457325.4492544554
+0xab0c3b74e77d4fbad43ae701ca2c43674f865ca699562e1afbc3d29a732d0557,aave.eth,[ARFC] Enable cbBTC/WBTC liquid E-Mode on Aave v3 Mainnet ,212,457292.8492444654
+0x2d46d76aa14b87cf5bfae110463d157793673959817e418445f2df358dca42c7,aave.eth,[TEMP CHECK] Aave V3 Deployment on the Spiderchain (Botanix Labs),224,776998.7582326997
+0x5c27aa8f1de66a3e56f535d60e4c1666a5617a36f8f81c09df2b0ea184a90290,aave.eth,[ARFC] Onboard GHO and Migrate Streams to Lido Instance,202,775918.8274743916
+0x4af37d6b4a1c9029c7693c4bdfb646931a9815c4a56d9066ac1fbdbef7cd15e5,aave.eth,[ARFC] Deploy 10M GHO into Aave v3 Lido Instance,197,775915.0020483545
+0x021b40c7042ce770c0ce1ee5ff63591c132a9f0f12e3a1cb92fa209299793dec,aave.eth,[ARFC] [ARFC] Onboard AUSD to Aave V3 on Avalanche ,199,776146.5935846562
+0x3458a70858a52182af0bb6508a257cdb09a2f2f6644f6c779bda961273eea861,aave.eth,[TEMP CHECK] Add PAXG to Aave v3 Main Instance on Ethereum,270,772061.9678173641
+0x4df33a97b891e6237a69643dc12d676fedd778470f27630d33cdc4c9cb3edf4d,aave.eth,[TEMP CHECK] Aave Instances Strategy Shift ,246,831891.7472664523
+0x0c92e8121b4a51695f13bffc9d0492c7f212a235afd85a218d317bfccd4bf023,aave.eth,[TEMP CHECK] Add FBTC to Aave v3 Main Instance on Ethereum,214,836093.1856788574
+0x77d0f79418b1c9ea3560154f4650372470a9e3da12c3a5ca3ca3d565f1112c5a,aave.eth,[ARFC] Framework for Instances and Friendly Forks,204,836649.7173475528
+0x353c9f870389ffd8576097355bc3d3ccf90cb290e311cf0b5556cce68f0a7684,aave.eth,[TEMP CHECK] Deploy GHO Facilitator,252,874783.3026677006
+0xcd73f17361c7757cd94ec758b4d9f160b7cecefa7f4cb23b0b4ee49b5eb1b8b2,aave.eth,[ARFC] PYUSD Reserve Configuration Update & Incentive Campaign,217,757503.9939732389
+0x4809f179e517e5745ec13eba8f40d98dab73ca65f8a141bd2f18cc16dcd0cc16,aave.eth,[ARFC]. Aave Generalized Risk Stewards (AGRS) activation,204,823455.0148971535
+0xa5fbac5e4f732bb37cb20c1904b1962613617daf23abdfeee1355ede3d2c3cb1,aave.eth,[TEMP CHECK] Onboard AUSD to Aave V3,193,823220.6742516184
+0x900027a0dc30946b463ce8e57a8901b5fc1158546b4d00acae4d2d823d8de732,aave.eth,[TEMP CHECK] Onboard SCR to Aave V3 Scroll Instance,193,776211.8354541559
+0xc16cfd8f6da91d8e16de9722c5ed4f0b81d038a3e3f676a1d96327e22fb1ecd9,aave.eth,[ARFC] Launch aUSDC GSM on Ethereum,230,818378.4221557737
+0xe1e852c6d86fac7d9706c4db2629fa8c198611e0e6c3e6a678723b7187507b6d,aave.eth,[ARFC] Dolce Vita Extension,221,451277.22022800025
+0x2dfb5a6e770bf7a34ddb5ab05560c24a169c63f84e9e8d373767a5b072f1f21d,aave.eth,[ARFC] Aave <> BGD Labs. Phase 4,225,829517.7082801178
+0xf18b0bd1a2864436cc424e48c331783b8ea65eba0b72c77016c5719fab8074d4,aave.eth,[TEMP CHECK] World Liberty Financial Aave v3 Instance on Ethereum Mainnet Proposal ,267,827985.715051023
+0x9bc3f3d8e38d70f55887f2f2498e1b39f59467489158923488aceab73cd4f144,aave.eth,[ARFC] Remove Frax from Isolation Mode on Aave v3 Mainnet,227,771043.9699372973
+0xe03ecf69d92f04d39d1385ccc87d8782347471a7305897e85b3d5d04f26a522d,aave.eth,[TEMP CHECK] Add rlUSD to Aave v3 Main Market on Ethereum,214,770928.447126325
+0x2aed7eb8b03cb3f961cbf790bf2e2e1e449f841a4ad8bdbcdd223bb6ac69e719,aave.eth,[ARFC] Launch GHO on Avalanche & set ACI as Emissions Manager for rewards,208,771127.082759292
+0x03dc21e0423c60082dc23317af6ebaf997610cbc2cbb0f5a385653bd99a524fe,aave.eth,[ARFC] Launch GHO on Base & set ACI as Emissions Manager for rewards,207,771111.1984670314
+0xa8ec5cf2568691144861b38af1b2cef4f95d33d0912fea28438132cabf4b6c28,aave.eth,[ARFC] Chaos Labs <> Aave Risk Management Service Renewal ,208,415335.3342421729
+0xebf0b33be0c3784b2928112414f08e31ac57705f49d46668bfef6fa6f761141d,aave.eth,[ARFC] Continuous Security Proposal Aave <> Certora,233,766465.0191317099
+0x3c8116f97f990bf61fe63c636c1ae85630ad355e26881285aa4fefaebd8c9c0d,aave.eth,[ARFC] Renew LlamaRisk as Risk Service Provider,217,766928.7859471439
+0x4ee3ae8c9046a2b50eb1fcaa5266b86786923635d143dd5ed9e4acb898ec5fe5,aave.eth,[ARFC] Onboard FRAX to Aave v3 Lido Instance,213,755282.9587397086
+0xb89a0602624fabc59e4f6abe2d3d959a5b2c892ca2f8484d01fa7f5c6fde9402,aave.eth,[TEMP CHECK] Onboard EIGEN to Aave V3 Ethereum,204,765299.6414003874
+0x6709151a1efa71370a6a0f9a7592d983ed401ac0311cce861fba347081384520,aave.eth,"[ARFC] Onboard sUSDe, USDe and weETH to Aave v3 on zkSync",242,773316.0920360775
+0xb800d3ab766305fd57389101bc475f0220a8bd47699b0f850eec115f31ca22ee,aave.eth,[TEMP CHECK] Deploy aUSDC GSM on Ethereum,205,460551.1197874292
+0x6146daa40066e4000333f628f94263101ae03731ccd9a64303013a26172c9eef,aave.eth,[ARFC] Onboard USDC to Aave v3 Lido Instance,209,467390.9190388974
+0x752c396a86f1f9b60d3e43b7ed223d9d2f66014e03b6b3eb7ac59e8a169d1fe5,aave.eth,[ARFC] Onboard wstETH to Aave V3 on BNB Chain,223,766780.9447037904
+0x7b59c555f5a51a3377b1aee0f5f21fc205958f1388926efb94172644bacfa1d6,aave.eth,[ARFC] Aave Liquidity Committee Funding Phase IV,217,752146.8292530113
+0x7bfc1fc3a9d82b051c7dd0179b18a37be7fa1861c5359e24baad364903ded14d,aave.eth,[TEMP CHECK]  Deploy a Crypto.com Aave v3 Instance,242,731446.6867311907
+0x24fbb1d77f8ba561a3d77903b68c0c0a6d495eb394465f93a8d94aa537be80dc,aave.eth,[TEMP CHECK] Deploy a Gnosis DAO Credit Line Aave v3 Instance,228,741779.4000003863
+0xa66efaea4c2961946e252aa0c992f368845a061f6a02fc2db8c6eeb0cb85bd69,aave.eth,[TEMP CHECK] Add support for Wrapped Super OETH (wsuperOETHb) to Aave v3,221,741750.7790631803
+0x80a2e4e23afa0536c198acc18bb90f2cbb9a28d06e5ab9f2999eb49503232c5f,aave.eth,[ARFC] Lido Instance - wstETH Slope1 & Uoptimal Update,196,741688.9070573394
+0xc5e7df1536ef9fc71a7d2e2f6fee6e4e20e37a50b4e0f1646616d066b8697da5,aave.eth,[ARFC] GHO Steward v2 Upgrade,196,741690.1012438248
+0x72ebea577b94b545aa2d4dfd4b896e4144c92da0d9068f92e906be3edd043bdd,aave.eth,[TEMP CHECK] Add support for Wrapped OETH (wOETH) to Aave v3,211,741215.4008890747
+0x15f4abf4403c413fb01d2f42b6401327e34fa997d01e1946093d2c6015f6c5b1,aave.eth,[TEMP CHECK] USTB/BUIDL GSM,214,761291.4687369236
+0x1d9e4f068704377a7fd4d5089ae6be9d243141f742def95c7a4c0e95770040e4,aave.eth,"[ARFC] Superlend Profit Share Proposal, Deploying a Friendly Fork of Aave V3 on Etherlink (Stage 2 EVM Rollup) and Arbitrum",218,762727.4915195438
+0x68ce69b5e71df1d77c2ad814a5d41162a40be54473576ff590d0b1bb5afde4a7,aave.eth,[ARFC] BGD. Aave v3.2: liquid eModes,271,471784.42825462687
+0x153c14691fb5056bc30f53be19f04647c24d206149d2bc5a6752d7548f72ca0b,aave.eth,[ARFC] Chaos Labs Risk Parameter Updates - LTV and LT Alignment,259,763204.7718258888
+0x79d53b646cbada43fca9468df9c9ecbbaab42f9f4f17691cbdf216b21f6c21bb,aave.eth,[ARFC] Chaos Labs Risk Parameter Updates - sAVAX LT/LTV Adjustment,249,763181.3149638396
+0xfc852ee4a7f6eaaf5cc03cc5bcd4d1fc343cd20f18201c0c40001d8652a1616a,aave.eth,[ARFC] Remove Community Preference For Supply Cap Limits,250,715173.8724241253
+0x68d281d9a9181b227a8016340333a183506d235798dc7dccfeaf6e1862f24e57,aave.eth,[TEMP CHECK]: Onboarding swBTC to Aave V3 Ethereum,243,670444.2828819759
+0x7dd65a983a069e9e4def961e116b78acef6965ecb63aebfb26e34a1dcd97b060,aave.eth,[ARFC] Onboard cbBTC to Aave v3 on Base and Mainnet,222,771956.6266019396
+0x83d6cfaa2975bec4d4e63e25ce94f863a65c8ee82b43d6f6149cdb6c739d8cd3,aave.eth,[ARFC] Onboard STONE to Aave V3 on Scroll,250,688030.7543387414
+0x53f266aa1a322fb3b9299e4a7286be00a24ad73ac25fd93e5b089ba924726acc,aave.eth,[TEMP CHECK] BUIDL GSM,224,782800.632007722
+0xea325542397fce607755f6c14be407f60a71a81f3a23c6b3a67e298b9dd8c091,aave.eth,[ARFC] Orbit Program Renewal - Q3 2024,218,782622.8347444765
+0x82c9a9bb833d869f4b17f405bb0e7b3f8db07c8a3649b948ab8937e7669a0a0c,aave.eth,"[TEMP CHECK] Superlend Profit Share Proposal, Deploying a Friendly Fork of Aave V3 on Etherlink (Stage 2 EVM Rollup) and Arbitrum",217,782624.0243226741
+0x1ea388307b70d30c040f63e8a09d49276c5c8c9ef2fd809809f253654e5f5f06,aave.eth,[ARFC] Chaos Labs Risk Parameter Updates - Decrease Supply and Borrow Caps on Aave V3 - 08.28.2024,229,804280.02349569
+0xf87cf0761b27becf6c8d18bbb457c9e6bf6b7aa436cdb0d197ad2d93a495ed04,aave.eth,[TEMP CHECK] Onboard cbBTC to Aave v3 on Base,233,804249.0638005404
+0x044477114c63b5c133ad2aa673b8256fc799b5b1169ac4b9119626adadd6505f,aave.eth,[TEMP CHECK] Onboard USDS and sUSDS to Aave v3,219,802606.6783900223
+0xb00c9a77dcfec2d3804249b4c8da8d82a3b4d6efe85dbeb6bb6fa3954afa3615,aave.eth,[TEMP CHECK] Onboard STONE to Aave V3 on Scroll,249,794129.9461713581
+0x4acd11c6100a6b85a553e21359f3720fa5cd4783a76c77857436ace134f88c05,aave.eth,[ARFC] Deploy an Etherfi/Stablecoin Aave v3 Instance,327,515960.11727944243
+0x09a736d9873111cb7b3d687abd692157a987b07efcf8fefc86de1b1ca9ce694c,aave.eth,[ARFC] Increase Community Preference For Supply Cap Limits,308,515892.00915333966
+0x5d48bcbd20523591906b183d767fdcf8fd32665ea75940225f439536e492d59e,aave.eth,[ARFC Addendum] Updated Framework for ARFC and TEMP CHECK Proposals,304,515890.2032386529
+0x2930599cae3cec0a16bd0aef13524347e0c5e85cff7dd66ae9b2bed90fc5d1fe,aave.eth,[ARFC] Increase WETH Optimal Ratio to 90% on all Aave markets,299,891942.3351467074
+0x7ef22a28cb6729ea4a978b02332ff1af8ed924a726915f9a6debf835d8bf8048,aave.eth,[ARFC] Onboard ezETH to Aave V3 Lido Instance,290,910217.9926463834
+0xe83b67dfdddd469c298ce6133f4fdb84c9796c671c023b88617d5a25b5933c7f,aave.eth,[ARFC] Add rsETH to Aave V3 Ethereum,281,891897.3515797565
+0x89f056f633646ee0676e226da41e2c6a7df756a7087204a96db8c3d74427244a,aave.eth,[ARFC] Remove Frax from Isolation Mode and onboard sFRAX to Aave v3 Mainnet,296,882196.4145790894
+0x29d3044e3ba8eb1bd071cf7d1f05f1d4cf53451571ecf94ebdc0384cc5a2bb92,aave.eth,[TEMP CHECK] Onboard steakLRT to Aave v3 Lido Instance,281,881318.6026615758
+0x9c35c8b1ba5de301650f839c586fc34f6f8908c7a213d9e2a8f3d1d5581db049,aave.eth,[ARFC-Addendum] Update GHO Dynamics and StkGHO Fast Exit Mechanism,245,887622.4827194853
+0x15cbc6b6c5b4ef76a1fb8cf8747460bf327c459fa01b69907fab0119457939a8,aave.eth,[ARFC] Merit Base Incentives and Superfest Matching,243,729712.6313707634
+0x6db3ea8da6d334d7b028f8492e73c439c19d88b0adfd9693e3364dfc56534e84,aave.eth,[TEMP CHECK] Onboard osGNO to Aave v3 Gnosis,250,733159.039777433
+0xe92a4db7d3d98e1a05adbceb2b0af2c090d6cb327011dabf7c0f03657e1d6e24,aave.eth,[ARFC] Onboard slisBNB to Aave V3 on BNB Chain,252,709619.7606434202
+0x7f4941aff652cf2a41f47bc58220a952e4894fdc16e27a975045faa9c458da19,aave.eth,[TEMP CHECK] AAVEnomics update,252,703561.1722137042
+0xea1012aaf1fe660148cfe6265cbadf23b19bb44af609caaa51ab8d7194259c28,aave.eth,[ARFC] Chaos Labs Risk Parameter Updates - Increase USDe Debt Ceiling on V3 Ethereum - 07.22.2024,237,699266.6581699275
+0x252bafcf8ead0bf1869b7ba9fef430caf3977dfd1e1f84e2e4bc1842e83520b4,aave.eth,[ARFC] Onboarding weETH to Aave V3 on Scroll,257,595071.8370840746
+0x06d35679d8581094f4656888e59fd0cb14f89ce1150dfc16e64c64b68cd10967,aave.eth,[ARFC-Addendum] Update Boosters for Merit Round 7,271,707976.58802254
+0xb382cd4a1c8ebeafeaed3f5ba5c35804248e12afc7116f985f2f6d89c3efda48,aave.eth,[TEMP CHECK] Onboard CDCETH to Aave V3 on Ethereum,274,686140.4969434163
+0x9d9b852e5dacec7e48f23fb288262cb88097b423eb8633d07f1b5cc9b17446ea,aave.eth,[ARFC] Aave Events & Sponsorship Proposal 2024,360,700343.4182453139
+0x471ab55b0091043963c744f228befd842aeb354b0d04c76da3c9eb2b401934a4,aave.eth,[ARFC] - Chaos Labs Risk Parameter Updates - sAVAX on Aave V3 Avalanche - 07.16.2024,322,697160.7413142264
+0xc131152a6521f32bde908f2b602518fbff79b1c601d2ffd11ed463e36bc1655e,aave.eth,[ARFC] Deploy USDC and USDT GSM On Arbitrum,317,696815.5452040911
+0xb3d26d5f0f03b6a8ebac5374e97befd011df6e755ab36accfedcd04811301866,aave.eth,[ARFC]  GHO Parameter Adjustment - Governance Process Amendment,306,696736.755992768
+0xc44ec840f8f7f6ca3ef2f2a4289882c4cdc1a8b3e6e9ad6b811a640097a8016a,aave.eth,[ARFC] TokenLogic + karpatkey Financial Service Providers - Phase II,298,696731.6021309678
+0xcf8c67488ae4794d5d97bb71692f9b2311ef00e2829fa2c580422d63805cf4b5,aave.eth,[TEMP CHECK] Deploy an Ethena Aave v3 Instance ,314,572715.2814210785
+0xe4d616101b1fddd066a6ebaeb890084768fdbd1ea4dd39694edb6ed7bd527694,aavegotchi.eth,Aavegotchi DAO Foundation Director Election Proposal,110,2083208.262756446
+0x2edea7d431755c64cacbd2727a49eee1951ef06051fadc1c3f88cd951e89d4a2,aavegotchi.eth,[AGIP 141] Rarity Farming Season 10,380,7488022.135677542
+0xdd05c504c39fa18b6415427777fe96a6079a040deb1b7c7848947223e38e9d88,aavegotchi.eth,Rarity Farming Season 10,491,9448875.629214441
+0x3413724d3b8ae64d610a64cd9479f1733400e0246c8c852bc889561d994bc5fc,aavegotchi.eth,[AGIP 140] Renewal and Election of DAO Facilitator Roles,489,9746838.857938845
+0x272bea39a5f2e13a5afc65d7c9e70ffb5a9da06d4b6d169eb7a0d72aab10b7cf,aavegotchi.eth,[AGIP139] Defining DAO Director Term Lengths & Process for Future Elections,482,10235100.402094154
+0x0e447db3aa3734f95b2b30c0fee6cc50dc2b83cec032c83fb65c8fd5e14cad76,aavegotchi.eth,[AGIP138] Gotchi Greetoors V2,478,10478115.130838968
+0x530eb8319bd1cc13d0a86fafb54d1e77547e8899da05326a55f2007ae1ad8883,aavegotchi.eth,[AGIP 137] Enable Collateral Withdrawal from Aavegotchis Without Sacrifice,397,9459472.561670547
+0x1dabda4859eac272dc9302191a78c44411a2bffe93e43ae984009b78a005cbd7,aavegotchi.eth,Strategotchi V3 (revised),394,8606531.51506503
+0x1df75275fb195fc6f1cac6c6830a96558b381049ab4519be7ac8720df12dd9a1,aavegotchi.eth,Renewal and Election of DAO Facilitator Roles,436,9469890.063519249
+0x677d704fc7059eaf3467f23cde3581ef66096f5f1e8d55dcee54048436ff0566,aavegotchi.eth,Gotchi Greetoors V2 (revised),443,10110890.061339095
+0x31b5bcf9b37a7ce844e1942b876ff579c800c050eac07b5b0a482005ba59b471,aavegotchi.eth,[AGIP 136] Aavegotchi x TheSandbox - Maintenance renewal & termination (Reviewed Budget),446,10424145.720639078
+0xb628be6b12c543d3ef50182716921ad375186429063909136a1d1129676755d6,aavegotchi.eth,Enable Collateral Withdrawal from Aavegotchis Without Sacrifice,419,9816169.531514969
+0xc5324f9c7a3c0d8298a2ceee89c5457e95dc04cde545d61dc0902ef487055181,aavegotchi.eth,Defining DAO Director Term Lengths & Process for Future Elections,440,10508514.010356965
+0x63f270df7ab2b36f638999e76b634baacba041d3e4450616aef56c6fcdb08dcc,aavegotchi.eth,[AGIP135] Official DAPP new features added by the DAO,477,10735471.033872494
+0x0d5441d62353314fd0f58ab4008a995ba97dce2587a2e36a98737dae39a13857,aavegotchi.eth,Defining DAO Director Term Lengths & Process for Future Elections,355,7972777.455790173
+0xb8578f9d94434cf536f0fdbce6d1baec26fafeba78c10129d955dadeeeba12ad,aavegotchi.eth,Aavegotchi x TheSandbox - Maintenance renewal & termination (Reviewed Budget),425,9427593.15683373
+0x4a6d74f3bc0cc93e10098ee9a882ebcf8124ab0efc0f6abd278eb716f7cceeb4,aavegotchi.eth,[AGIP 134] Smol funding request for Grid Gladiator V1 ($8000),435,9539676.406377777
+0xff50f7696083b6b5e0e0ba7c9bcba23cdb1c9702bfd8927718745e19f5d9be21,aavegotchi.eth,Gotchi Greetoors V2,375,7874284.069929987
+0x5fdebaefab3fa208fa4662ad1919530a98d4ac494836fb45aa0d46b36bf0498b,aavegotchi.eth,Official DAPP new features added by the DAO,433,9468230.754406996
+0x5142f7e9d4b416c0c6531ef23e5637fb56a34e731b73c0f10a26a25a72ef2077,aavegotchi.eth,"[AGIP 133] Funding Renewal Proposal for Pixelcraft Studios, 2024-2025",471,10392075.484186463
+0x8852af28d47a02097b7e9510b87d785bc1984813b4b474f8e8ad57b6b7b568be,aavegotchi.eth,Smol funding request for Grid Gladiator V1 ($8000),464,10602694.90926734
+0x3105b2ecf3a49e4bd4bbabc759f03eae255859ba0f02d1b4d0725c88a50b47b1,aavegotchi.eth,Aavegotchi x TheSandbox Expansion and Maintenance Renewal,466,10828563.563029347
+0x09bccefc981f6dad5e8f96045a57d6abe06685cf2572f75bf0444eb0c8253660,aavegotchi.eth,"Funding Renewal Proposal for Pixelcraft Studios, 2024-2025",444,10588735.569419656
+0x9402b39c29a1bcee6d96c4c47ef817d8a3ed111aaf4d16d2db1f2900bf216c74,aavegotchi.eth,Funding request for Grid Gladiator V1,435,8641230.043222683
+0x4c1529a8fd0385d793838bd4d997aab84b2eb0f8344f941e2fab906ee5172308,aavegotchi.eth,[AGIP 132] Gotchi Battler V1.7 & V2 funding request,455,9627702.577120036
+0x86dc5cdd6b0a1eaec639530ec0d9eeb3b10cafe526b46fb668178da306b13357,aavegotchi.eth,Coinzilla x Aavegotchi - Creating a Marketing Budget,435,8527396.874202887
+0x094419732ba0037d626f90c99b65c9810b4a3627eaf41f30cda6ca334e390b24,aavegotchi.eth,Gotchi Battler V1.7 & V2 funding request,423,9558215.694286065
+0xb0314efeefb69426284f56d7c8ae05841c46e720ba8edfd75b6ab289bd09ed37,aavegotchi.eth,Unity Defense of Aave (14k USDC) REVISED,438,9631381.262175305
+0x00942985e9dd86bfc0362e25a83611d9854a81f2d1d75392db185440f764c405,aavegotchi.eth,[AGIP 131] Forge Competition Pilot Season 1,405,9085850.201293323
+0xef468935df62924bbf897d45a92da9876da20e30fdb6d7b7f18c2c847b198b86,aavegotchi.eth,[AGIP 129] Tipping for Aavegotchi community apps,478,10655477.374980865
+0x8a0f395fe3a966d5d52477d09b6c4e34f6e5053f70a8e65d118901adfc15078f,aavegotchi.eth,Forge Competition Pilot Season 1,429,10057518.449520638
+0x26387ed09972c4d660814bbdec44070c54a2014d9e691c645f622279090a0ee5,aavegotchi.eth,Test Proposal for Shielded Voting,90,1325925.9644139202
+0x14865f37408f02e73adc7f26eb618272b34b76d0f0aa7cb137a9d5fe6cff75f9,aavegotchi.eth,Enabling Shielded Voting,394,8132890.468837041
+0xe8e767a07a137897650e759dec74783e9dede672fd057aaa6287771a7f810bf5,aavegotchi.eth,Octav Onboarding to Track Aavegotchi DAO Treasury ,434,10123323.452096986
+0x76a91e48a9a1b12852f055be07c2661d3d4a208091db9edbb16ba73b3cef3e55,aavegotchi.eth,[AGIP 128] Replacement DAO Director Election,439,10310356.382490057
+0x6d9ff93684695e623624b678f3da604e9a373ebb7b980458a67417f5378626b7,aavegotchi.eth,Unity Defense of Aave,396,7815356.579730658
+0x307f6d8e39de3ce35886714e07586f838d42aa0556c66b19a142b1d8f2ba1703,aavegotchi.eth,[AGIP 127] Increasing XP Award to 250 XP for Succesful CORE AGIPs,431,9524472.702940853
+0x4341932033531173746139ca670c533e6edd795b453075858de2d17457360899,aavegotchi.eth,Tipping for Aavegotchi community apps,435,9716950.579384418
+0xb46614973c1f9e244b037788fbb31bc1909ce4bb4a56b85f39c6554a53163c0a,aavegotchi.eth,[AGIP 126] Rarity Farming Season 9,427,9474881.545004414
+0xf1689ac98efc782c915537233dee6aa6561f0b61a67e6ba80e7b0f7cd0510bf2,aavegotchi.eth,Golden Dancing Dan 2,117,1702442.188425517
+0xb158c715c31e7724568af46e12fe1a32f3c40620c2d1fc04652eeba35a0b093c,aavegotchi.eth,Golden Dancing Dan 1,132,2234604.565587526
+0x4ccd858c4db0933066a5c41386ffc008d87347fa5b582f23a44c7c47b9a12d27,aavegotchi.eth,Replacement DAO Director Election,444,10451595.744481295
+0xf8f9b32ce931aa8d3ae6279fb78f1de87737cdb64d2fb8dbc5adc19df2ebf722,aavegotchi.eth,[AGIP 125] Gotchichain Battleverse Demo - An Open-Source Battleverse Built with Godot,483,10225705.243289346
+0xc07a34474c3b92c0472479a7570eb743c470af14eb485fa2a841d2b0869b7044,aavegotchi.eth,Rarity Farming Season 9,439,9941736.780939698
+0xcb692ffb8f683215ee14498f910bd1d17c0fcfa90ab68e04471ac64915dd5126,aavegotchi.eth,Unity Defense of Aave,459,10520049.095350204
+0xe815c428df8f4e6933c7e04586c1e4b0add22924d4f77e4b067f89ff4bd3f207,aavegotchi.eth,Gotchichain Battleverse Demo - An Open-Source Battleverse Built with Godot,454,10231180.704896502
+0x41a8eefa0d919e84a6fc6e2ef3b62b776f98deb4627defe310c056e30d091cfc,aavegotchi.eth,Increasing XP Award to 250 XP for Succesful CORE AGIPs,444,9732883.420716656
+0xcf83de78265ceb5d891bb83e7774962bdb6a320871474b4e6e3e05fece458f54,aavegotchi.eth,[AGIP 124] Fund Creation of Ghostly Gladiator MVP,434,9027928.153099112
+0xa4a817931adb599979eccec3dbb5e774b224c1d4da2609b532addb2e060f5888,aavegotchi.eth,"Fund creation of Ghostly Gladiator MVP ($6,500)",464,9036606.93896279
+0xff8daa93be9021f9f0a49cb8394ef49f868261bd9828faa351611c9854bbf0db,aavegotchi.eth,[AGIP 123] Community Wearable Schematics Release,506,9388625.533219688
+0xd7de27500ffa8d360848e7655a32a7b7a00ac46fc13ab156ef51dfebb4101d4a,aavegotchi.eth,[AGIP 122] Allocation of Quickswap POL Rewards,491,9331351.233809523
+0xb5441817ecff8a693937ff1c16562c9d1d43c4bbf76490220d7d34da181bb43d,aavegotchi.eth,[AGIP 121] AavegotchiDAO MCON III Sponsorship Package,521,9632600.423115242
+0x9b3d0d73ff761611be704a786b207a4f74c697febfdb1e95414d83c55989a05f,aavegotchi.eth,Community Wearable Schematics Release,490,9387802.383709308
+0x9cda0125cd357f78a6f406b0a81f3bf2e2bc0dae3bae0e7e4292ebef86f8861d,aavegotchi.eth,Allocation of Quickswap POL Rewards,504,9606229.547784686
+0x04a70afb2d93046600ae74a24926ac34161902e24c336aac705dbee7683880e1,aavegotchi.eth,AavegotchiDAO MCON III Sponsorship Package,613,9910892.807576079
+0x2c5e2fdb08c93169f3085e0ccbc282be516ed305b9ab2fb63e318d5f0cc55ca3,aavegotchi.eth,Election for DAO Facilitators,612,10040026.01981609
+0xbb7e75512a55d15a6233e13a83af5ce5638c36b5a96e3dde8c4560acf904038a,aavegotchi.eth,[AGIP 120] Allocation of Aerodrome POL Rewards,472,9273491.022104435
+0x42de81c62b8c315e395a8751bfe0097e76c2b9ecb84886410a56f13cf5d87c44,aavegotchi.eth,The Aavegotchi Grants Program (AGP),576,11088774.83428841
+0xad47cd52673adaa683163864fd2c73120186a6086f6b581b0305687eda8d58a3,aavegotchi.eth,Allocation of Aerodrome POL Rewards,470,9261407.755802598
+0x2d8df1e8ad91c9b928e9d0c319e8cabfef103e48fbc7a8933d889b1389a17873,aavegotchi.eth,[AGIP 119] Convert all DAO-owned $DAI/$aDAI -> $USDC/$aUSDC,505,9250277.143168623
+0xba11262fc75ec6b49dafcdfb55c6aa3395ce58c18aa377b6a955d695a27ff3f0,aavegotchi.eth,[AGIP 118] Proposal to Add Liquidity on Aerodrome and earn AERO,520,9716723.301720468
+0xfa46eb6789d3230b7a56919aa3902bd835053049ab59e56b04e9185f06abea60,aavegotchi.eth,Convert all DAO-owned $DAI/$aDAI -> $USDC/$aUSDC,562,9575945.513260039
+0xad9c32042678c6250507f602a57ea52846efe8391d781bc9476683e9347bef63,aavegotchi.eth,[AGIP 117] Custom IRL Aavegotchi Physical Arcade Machine,675,11606545.018821213
+0x4ffa41a2ab80839e03bbc0eaa1d4f8b210f294aad043343809d4f8b36059f11a,aavegotchi.eth,[AGIP 116] Elected Facilitators for DAO Meetings,660,11236925.922123872
+0x63537aa0e51e8f5c52d12b23874ce837c68a3ae78a1528d860797b58af522a2b,aavegotchi.eth,Proposal to Add Liquidity on Aerodrome and earn AERO,547,10660849.632174233
+0x62cb52138d0d66f0b363156f0be470d2289f7e64aa0b00a98f09a52ec6e4cba4,aavegotchi.eth,[AGIP 115] FAKEwaar Continuing Development Fund,543,10139726.78088478
+0x6f06c1434b218cc1673ee6b34a0e11feefc4db101b291d0057748a287917b2d4,aavegotchi.eth,Custom IRL Aavegotchi Physical Arcade Machine,633,11129709.298293708
+0x1470e49097b506d8aa9f017f1fd13328f456cba790c8df48bc789375c6cd723a,aavegotchi.eth,[AGIP 114] Strategotchi V2.0 & Voxel Unity SDK funding,651,11206445.972159106
+0xc0549f5d1bf319645e3835ed4404d8ed6bd364c1f30ca4a60b542ce9a12c56bf,aavegotchi.eth,FAKEwaar Continuing Development Fund,1000,9357104.229370398
+0x8a3fcec5a5f4686d805dd7995279d4a62723238c4e8198673cbff204fd578b4a,aavegotchi.eth,Elected Facilitators for DAO Meetings,1000,10039889.35674717
+0xf3da7b5f62a18133b983ca5e6adf803ee7919105791f0def6ed161cb72e49837,aavegotchi.eth,Increase Successful Core Proposal XP to 500,872,11001383.18892401
+0xb1c3b5c9954e3e7a00498296396b4b516bae69ba6a62b4e1c9c3d209d1eaf672,aavegotchi.eth,Strategotchi V2.0 funding,1000,10640127.236542419
+0x634175a2810e34120f554146d8ff79dcd4cb739232ffa40324595bcc295e4e94,aavegotchi.eth,Elected Facilitators for Saturday DAO Meetings,1000,6635057.850147459
+0x9e2dfd4a35b6069df9c0e29a4d88f197a3a6af816f5275b210a768521c734b97,aavegotchi.eth,[AGIP 113] Gas Fee Reimbursement for DAO Directors,1000,5560384.217877497
+0xc4a1181fa1d6ede81e71c195aab84a21c1431f8a8b28221100e42720b84c2df3,aavegotchi.eth,[AGIP 112] Establishing an ETH Sell Ladder,1000,5233123.364216993
+0xce481514fa4f8c08b1384a2fdec32cf4b90fb24bedcf834cbf1e87ddafac418f,aavegotchi.eth,[AGIP 111] Staking 350 ETH with Lido and Acquiring rETH ,756,11548572.584033478
+0x53725868842a2b7c6e2cf251eaeb5c939b7272c3c849ef3814ac7bc9b62469eb,aavegotchi.eth,[AGIP 110] Lend 600k GHST to improve liquidity and orderbooks on major CEXs,1000,5667090.777182356
+0xe2536a75bf80798f65559eeb832312198d9a9c640b5660f432e1e71de60dd945,aavegotchi.eth,[AGIP 109] Rarity Farming Season 8,672,10799923.786506211
+0x5b328a78c8461910ec5cc9240eb9143efcfcc4a537304c30235d969ffab02ec3,aavegotchi.eth,[AGIP 108] Gotchi Battler V1.5 funding,1000,9915617.920576148
+0x21817797ee5a9ec55743cc7899c81ebe9e05ec02c7cd7bd6d5fbd220cd4129e4,aavegotchi.eth,Rarity Farming Season 8 (Re-repost),795,9277363.10811289
+0x9fffad99521c41c1443b9b8501722adbac990e5677bbec9480b2f2c76408a5d4,aavegotchi.eth,Establishing an ETH Sell Ladder,1000,6972791.542298194
+0x2561da8b465ad0b7542e89fa6101ce38c828d505910593c3b576ef2a867e9bc1,aavegotchi.eth,Staking 350 ETH with Lido and Acquiring rETH ,1000,7326762.649869532
+0xd80bddef82f5543ff581139ef060e9571fcf2825df15e7bda7f740cddc6c8459,aavegotchi.eth,[AGIP 107] Gotchi Battler -  Prize Pool Funding,1000,8623010.083243519
+0x23fea7bedadd18950b5cb8fd17a0bfa8105cfa846f3f9a2bed2ebf3fcd7373f0,aavegotchi.eth,RF Season 8 changes to BRS Rewards Pool,1000,5083394.010050407
+0x212d3baf686a5903de904f1ae41995e9caedf7b490ec511bb67636c362c77151,aavegotchi.eth,Gas Fee Reimbursement for DAO Directors,1000,5780104.608687722
+0xb009a2990660eee0fb9babd9cbd431340f2188db0b7f6d7fed9203c709729e6b,aavegotchi.eth,Sigprop: Lend 600k GHST to improve liquidity and orderbooks on major CEXs,1000,5976876.794045143
+0xf483d72d6bc3f6bfe318905211a5a274520695d9af9174f948e65bb8869aea82,aavegotchi.eth,Gotchi Battler V1.5 funding,1000,8135159.224457448
+0x4c05f8411850c2155c423417c6ce554e1750a04d31ec1b9bf85b716d46a50745,aavegotchi.eth,[AGIP 106] Aavegotchi x Sandbox Experience - Expansion & Maintenance,1000,7094146.554889685
+0xa683815d65eeb4a6f4f09358a0cbf5abfd3726fd08fe1afcd6ba289bee3c9582,aavegotchi.eth,Gas Fee Reimbursement for DAO Directors,1000,6129502.267602008
+0x6714bd532f3bca44a2a92c221d3b57f51682c57047f15505a1205493b7ee4cbf,aavegotchi.eth,Gotchi Battler Protocol Rewards,649,9774421.121202186
+0x10aa77a1fb0b348dfd5f40b0643f61d67c31a37129ca5cb0f452bdd951f4cf88,aavegotchi.eth,Aavegotchi x Sandbox Experience - Expansion & Maintenance,1000,8761482.414130935
+0xed8d0bfc2caf938a5feb57295c083d6c7c51e2daecad20292291f694e24f2d7d,aavegotchi.eth,AaveGotchi DAO Liquidity Incentives Proposal (ApeBond) - Repost,933,7221159.924092764
+0x940f1282df2152b6fc741259463d8240b75f1a6616a586a3a94ec041b1dcd084,aavegotchi.eth,The Aavegotchi Grants Program (AGP),1000,6979562.648672767
+0x7a2767fdecf22ff48fe0cc200c5a4018c8950ab7dbdee8b8f39135bd63733d5f,aavegotchi.eth,[AGIP 105] Supply  ~3.5M Treasury DAI to Aave,1000,5632913.576657391
+0xa66c045753435dda2bc8b35e95fe0dbda5087b1665c9ea50e64c82fbf6fdfe26,aavegotchi.eth,Supply  ~3.5M Treasury DAI to Aave,1000,6329416.804468367
+0x2585c9a492118092309a0c60738f704129297e4384c7bec47694e02a6448bf94,aavegotchi.eth,[AGIP 103] Strategic Treasury Diversification into Ethereum with $3M ETH Purchase,1000,5293633.587548838
+0xce4c9735a8c6ba58adc123b6e91fe94c729cf45546db88647ecdb9bf77ebb485,aavegotchi.eth,[AGIP 104] Upgrading the ATF,1000,4420631.337813228
+0xac53f22b919be753d98f159df7d5f6883861ecb7c5c47f35b3ebfdec2f6be3c6,aavegotchi.eth,[AGIP 102] Dropt | TFG Alpha Funding Proposal,1000,4581225.746527659
+0xf450366e0d33ce08c2c86e16b7463b6a1696849893dc6ffb8f00fdf40118d803,aavegotchi.eth,Upgrading the ATF,1000,7576986.57257692
+0x1607f167c1f4f1dc9e817c7da387886655e39c8982f25423ce8ad8d90d82c10e,aavegotchi.eth,Strategic Treasury Diversification into Ethereum with $3M ETH Purchase,1000,7799040.452965403
+0x3fb72659b13423d9b477a08ccea5528cc5490d5b3114108371eba2ae367ba04f,cakevote.eth,Proposal to Relabel Multichain Warchest as Ecosystem Growth,182,15059367.264378205
+0xaffca49c859c6012ad7c969fe7afd1caa8d3386636ab8ccb12a5b5e5ae922e6a,cakevote.eth,Proposal to Redirect Emissions for Ecosystem Growth,176,15456014.227068128
+0x2793559438e42b3838e4734c62a10178c1889223f235dd1cdb2140f5940da283,cakevote.eth,Create a Great Marketplace for voting Incentives,71,1392631.2630313605
+0x910b732e87993804b27bb93f9635d424f36fe760d0431865e02a7ccb96513bba,cakevote.eth,(UPDATED) Proposal for Lista DAO ($LISTA) IFO to be Hosted on PancakeSwap,299,12797768.103600042
+0xd58db3d317a410ef53fb850a834c9316644dac49e65999f9eee76537ec53e32b,cakevote.eth,Proposal for Lista DAO ($LISTA) IFO to be Hosted on PancakeSwap,171,86254.00995839112
+0x41feef37054b6c090a2629d6eb2ed39f426f169b725cb565903e6b3ba1771bcc,cakevote.eth,Proposal to Direct CAKE Emissions to Locker Protocols,747,11227991.66685492
+0xbf8ac28356bd7ad863c7a1bf9fb66901b44430f274986a4e8793639f8214a747,cakevote.eth,Proposal to recognize Mancake as an affiliate DEX on Mantle Network,274,137810.25169833988
+0x57121617ce82be6faab483b2e83fa626593f51c4e9c71670be36bfaa6cd96bf1,cakevote.eth,Proposal to Launch veCAKE on opBNB,249,113046.236413052
+0xb046ca86c5587dffc6e948f30dec896d1260b5e2d1c9dcdd6bd45ab4de167897,cakevote.eth,"The CAKE lock warehouse automatically exits the mechanism, listens to the CAKE HOLDER's opinions, and hopes the kitchen hears or sees our ideas",104,1361847.555165093
+0x30f2e5d8b5460f6377dc4bf46dc10da5236bd04666edd0d5c4545a6d3431a101,cakevote.eth,Proposal to Launch veCAKE on Base,252,126869.53665560686
+0xcc9f7e04931ef544388c33646a98883446c571dc844a113c230abec67906d1cb,cakevote.eth,Proposal for a Pandora ($PANDORA) Farm on Ethereum,228,135573.08536314618
+0x8eff088ca5d8c07a1a0be979533b6aa36dd098edb62714f948c06cf561817432,cakevote.eth,Proposal for Kitchen-Discretionary CAKE Emissions,617,7484719.274416947
+0x12883dbf2fb692cd616a9ee5a9e90c8f87f8f11636278d3a7978074b339de1e0,cakevote.eth,Proposal for Kitchen-Discretionary CAKE Emissions,375,323217.8041609806
+0x9e3ad540dbb9f751a78b25e97d0044a7de9e43fc45aa146403d4f23a0506ae23,cakevote.eth,Proposal to Launch veCAKE on Linea,417,181674.42772270337
+0x826c8e306d0a7b24e337944a10f9a2cf91ddaef8f352de3577ee535bc0f769b7,cakevote.eth,Project Proposal:Vina Cake: Transforming DeFi with Exclusive NFTs and User-Friendly Transactions.,221,28653.12817995171
+0x56b75163f3e555a746b159e134fc857e47a7c5aaef7c9f1a5c20cc1b5ef7e174,cakevote.eth,Proposal for Enable HTD/USDT (0.05% fee tier) V3 gauge on BNB Chain,63,21930.330538081642
+0x5ed417523e835147d4708643950973cd2d1bf5998e444dbd41956b225df0b6ed,cakevote.eth,Proposal for a Xai Network ($XAI) Farm on Arbitrum,354,128826.8837952473
+0xcbbd4b19bae851cb123f668bfacd2479e26848ea47714526bd5ca6dd8c001736,cakevote.eth,Proposal to Launch veCAKE on Polygon zkEVM,749,374329.3565862106
+0x9c54bc5c0861dc3131459c9e434a63a146200ef7fa17ac5348373bb1e03a2cee,cakevote.eth,Proposal for Cakepie ($CKP) cIFO to be Hosted on PancakeSwap,420,533187.229095918
+0x3e014aab40f6551da9f76da0e62e44e9ece55c4997f220057bf3e42dc8307c2f,cakevote.eth,Proposal to Reduce CAKE Token Total Supply,1000,261854.84149896685
+0x18c9da4b826e05fc7e79ee7a5a13748bacf362888ef210242f2e05bfa27e21ee,cakevote.eth,EMPOWER ULTRASOUND CAKE,100,54693.25985579603
+0x0aebf3093bc6f4564ab84047fdf9c12f47cd3f308cc06f9942e15ca28f660e9a,cakevote.eth,Proposal to Launch veCAKE on zkSync,361,195597.6391194902
+0x43634098cfa3dff3a8943ce27159f2020db09333d6d7b2ebad6167cdcc3eecce,cakevote.eth,More Passive Income from Pool with balanced stable Supply,35,22653.355290303214
+0x40ce9e500c724623f57131fe7ad958f8912394f694f98318af3da2cbfa7946ab,cakevote.eth,Proposal for APX Finance ($ALP) Syrup Pool on opBNB,228,130986.35579651293
+0xe32f072ba940d348887681762dbb6a4cf665ea818207fafcbfdc92c7ad9d5de1,cakevote.eth,Squad staking ,37,3365.5699152605503
+0x42d83e1b454716dc1aba80560a5df7961e352808fd61107a6e716537584e3f3b,cakevote.eth,Proposal for Adding CAKE Allocation to Bootstrap opBNB Liquidity,207,117138.21394178814
+0x6c14577663a6a678273d8901ad34005bee0b33c84f3d486e7c819c7f93da2b9e,cakevote.eth,"NOT BEGGING. I NEED UNLOCK MY 76,000 CAKE TOKENS :(",7,6171.449298161105
+0x878e40a72c549bb3c29811bce13275aae4e4ac0b9f0d7b5b1466badea4c3c9ac,cakevote.eth,"Help me, I got a lot of problems, but you can solve it. I HAVE LOCKED 76,000 IM NOT BEGGAR!",5,6156.283056196628
+0x921be10a85b9399127b621dbfd5a7b569423944a5aaf7ca9f2f86531177a3cf9,cakevote.eth,"Help me, I got a lot of problems, but you can solve it.",19,8858.128806883291
+0xb369b4e9036a689b285a62e9c811c7b95e8688d8d3f7b761ba279213230ac36a,cakevote.eth,Merry Christmas wishes ,14,1335.780691341749
+0x50284261c72764231845e58ed33e6fde24ac38d7c1563187b65cebc634b054e2,cakevote.eth,🎄🎅❄️🎁🦌⛄🎄2024🎊,26,1907.5123954674905
+0x1b9abebac478e44b11bd93071c4332d79ebf13d24842f5416c630c165fb575e7,cakevote.eth,Proposal for CAKE allocation to Position Managers,227,391015.82709025615
+0x4b3aeb7134acf328e6c1286c7b540b3625c042ca5c323b7fe331d894fea334ad,cakevote.eth,test,172,279934.9864610676
+0xbb57368e519eb4f19ea3b11df7b60e842936da339866c05d557dcf14053c4cb7,cakevote.eth,test,0,0.0
+0xba946097dcea923e4dfe0a772ccce0563d3dae94970eeafd75248195e25c3ddc,cakevote.eth,We need platform to farm memecoins with CAKE,105,38812.359781259096
+0xf566bb16f18af96d4ae00f1f2274c27212b605a5b8c132f4cc9061d33a175282,cakevote.eth,Vote giúp mình nha,93,1393.80764449763
+0x3cd2fb80568fbd0c899687a77b8bc522d1d5c22ed32eb5588fd5b0b5de3a7e17,cakevote.eth,Locked Cake holders should receive compensation ,120,1331474.3632845944
+0x69bd68421d0eb7da0efd683416a6fa63ef004a7c5ce20b90ef5aab21d69c82c5,cakevote.eth,Will you buy more CAKE in 2023?,129,142438.62903467202
+0xdceb4875d5a10c9f639e06b8c377de3d580de55974af5ee7e58dd0a9f9da1463,cakevote.eth,Preferred CAKE tokenomics going forward?,112,33395.51991801122
+0x4d1f10a8c2abe05c93994959307f619c1dc2e998eb5dd30be3f1ba5307e36a23,cakevote.eth,"BNB and CAKE now a stakeable on the best non-custodial (zero risk) staking platform, with upto 184% APY",139,54010.93489028624
+0x618ae56f06c3a7ee071abaac9556ec64bc03efab54bb44a958324daeb3b158ae,cakevote.eth,Pyth Network Retrospective Airdrop for PancakeSwap users,134,48880.22061126437
+0xbfd1988eb0b48a966fbc809f3713258d1743c3ab61876cc9012e625116a93a1e,cakevote.eth,Proposal to migrate vCAKE to veCAKE,550,22005386.927128892
+0xcc86fc83970a77350be16dd82b1f14412cc951e5602530d53d742d840747c4c8,cakevote.eth,Is Cake really deflationary?,151,144234.45378126483
+0x70502e0499ddcda4ec749dc755cbdfd451508487b67f989cfca6b916fdc02da0,cakevote.eth,"Fix Syrup Pools, or change it.",157,304796.26612298767
+0x00843d1358b33314df993c6381efd242babb82b880cbaf1dcac4bc8b2f976672,cakevote.eth,Bitcoin price prediction by 2024?,145,160161.97659144818
+0xb47062278f391fdf5ca2c4918d0218bc88062608a1715ff98d23e072541136cf,cakevote.eth,Pancake should Create it's own NFT Marketplace?,116,122864.50009876947
+0xd2f53e2328d5d5a71ee35b2695c765f66946edb0c6a2d30c4123dac6ded19609,cakevote.eth,Cake 100$ In this Bull Run?,156,792352.4869768445
+0xc8383022e7a24255eeb3051660fa1e33fc3dd9766e71f9f3d4fd79939ab72614,cakevote.eth,Does Cake can touch new all time high in this bull run?,109,1943074.8408002236
+0x9949a16e915630d3eed7686b038270cd9ce90f02cb53ab29994f550fdab1b92e,cakevote.eth, Could swaps in cake be reimbursed in the gas fee?,119,93062.58592005949
+0xcee875ae04f0f2958a2a53e0c9edc1dd63cd08316a59e92a2e339efc6517ab15,cakevote.eth,Will Cake reach its previous ATH?,126,1422461.294289536
+0xdee8435d8837a0a76128249ce2864b66fe9e94a60c3603d37fea9a3d5e6c97a7,cakevote.eth,should Pancake add more betting games,118,88725.83589718347
+0x36df33820734453123f01d9f2ce2b1cd24fb082bf959a8860c88e79e0a00d19f,cakevote.eth,Will you buy more cake in 2023?,119,45628.752128756096
+0xa10cb7363568da09ae646bcb0d69c59bd46b09043f897671317da15741aeb23a,cakevote.eth,How long have you been holding/staking CAKE?,115,78346.8635737943
+0xa2e326784868e97367b234440ac928df24a4f86a94bc954573144231b7fdddd1,cakevote.eth,BNB or BASE,139,1276711.8215327475
+0x8644a854739cb2e5d06cc4ced9a436016b7b329609552b67668889bcc89394ea,cakevote.eth,Will you sell any CAKE if it goes over $4?,151,35529.40785160121
+0xe423ad19e6f9a7062aa353da59119539990d71b77d7660ea6406959b9b9a4c65,cakevote.eth,How much of your portfolio is CAKE right now?,132,1279353.3562302636
+0xd7c191ee714e7b845003ab43b7da17806df236bbad98f1beed9cd2fe243b06ae,cakevote.eth,"cake, go to the moon in 2024",147,162327.8904850891
+0x420e501493f2fbc2a255121ed918b9af98e25f2020683aa4e465a4b8ebb636c1,cakevote.eth,Airdrop hunting 2,127,5626.287493418241
+0xcc62f4f10a87d0952d09f19376ef33aa3cb293fbe6463b99edebf49d344b1ec7,cakevote.eth,4,98,94.83628305568777
+0xed7e230bfaf957ab1697c4d186d4f22abc466de9c6cb8432054f7f24dc74a65b,cakevote.eth,3,99,95.15676295889511
+0x3ee14aa26ef66799a4ca724a30a3c644327b21d59882027c3ffcaa42df369665,cakevote.eth,2,94,96.63529086133478
+0x771598eff4f76b9bf1ed0e84e946b17cb83979c6b88cde2ab474689fa500f094,cakevote.eth,1,92,95.74429452121586
+0xf9f0298346e5cb1ce708ddab98256335221975fb0d7d04981348cbbccefc01d9,cakevote.eth,Black/White,98,2161.542950663986
+0x7be070c75a7c0b1626d18ac1a53632436ef05215647f3dde69339a4e02138d4a,cakevote.eth,$CAKE future,100,9423.813918185659
+0x8b01752718f8cacfd37dbc6a3bca8dda62176611acec0747b0c8b47f5f1a08c1,cakevote.eth,2/2,93,95.85462999144127
+0x9e9b8f86a8f4fd41cf7924e5636ae7243483ff8cda403401a002cbe0dcd869dc,cakevote.eth,1/2,90,31821.550708700903
+0x601d8ac63e55c567569a3a0c6eb1f970bd6874a248a865743f4b850e55f7e67c,cakevote.eth,yes or no,96,33891.54666735535
+0x3f27e0c78855ef378c2d4c2c789984ca855f6c3046ce394cb6a224e8e2db6aa5,cakevote.eth,Are you GAY>?,90,6929.717748769763
+0x52c3c9b8d702942a82946ceea61205b2c4f4d9c15f7f4d4dee990e10e1da78e6,cakevote.eth,IQ TEST,65,64.63365002191448
+0x596ba7dfce32589632a7a5055afa701bf09459a99c65af733c5ad5790fe45e87,cakevote.eth,Do you read proposals?,84,94.57317218498657
+0x9002470692b9325f8b44ad19cf52846ca5fced1ca8695520d2bd8c1bb71f100e,cakevote.eth,$APT price,90,2167.8987671732557
+0x7a22c05854c6c997ae2395ee290ddc84935709fd473249be3de3998a7186fdaa,cakevote.eth,Eminem GOAT?,79,2140.1531554205644
+0xf97215b41becd955a713e7f8fdd3b38c1178b651e739b6fe8ba07157a2c8cbfb,cakevote.eth,Next Bullrun $BTC price,83,55910.92743296903
+0x8e23f48dacf35b4109dcf82bda452d560a8263705bd2a2b665681759307d76f2,cakevote.eth,Best season for crypto,78,9349.323104657422
+0x3a5f4896c427291fd8da3689cb50bdeecf13394d2344ddd8fdd53be6f38dc4d0,cakevote.eth,Bitcoin 1M$ next year?!,73,16204.326864156255
+0xee009c9d8b029616e54619ac34877827626d75b0de15a82e0dc960c27f19346c,cakevote.eth,BEST L2,75,41100.436353052915
+0x3cf41e633a491dbb074bbaeb87a2826c61cc14cbba11d5613d704feb6ba4b7e4,cakevote.eth,Elon Musk vs Mark Zuckerberg,80,45275.08638330273
+0x01d01e9d1f714da05ad66908ccfb5a1a48875629b1b6ccd3243bace4d3a12aa3,cakevote.eth,Future $BTC price,76,25007.38844182992
+0x07fa2538dd4dab10808f1cbfe283579adf41007b4210a7134a6e7d0fde064b35,cakevote.eth,Vitalik Buterin genius?,74,6919.253626716378
+0xb35d69aa1a7ed6bac1e11de5846f7b23aaec46c73082c41a986bf28cbf495442,cakevote.eth,AGREE?,74,70.12433532910303
+0xbff3fc8e4e95d6dfd73f47e111469bb0d3025cca016d83e080695e89fdffa80f,cakevote.eth,Will $ETH be able to reach 2500$ in this year?,82,49780.862916426995
+0x06645e6134a25f717491705a495786cafeb40be4d6c3cead32b97dd0c903e127,cakevote.eth,How are doing,17,14.904648326541047
+0xeb0d1824f1c1afad2e467f3aeea525377ef8557dda5e2fc555a0db1447cbe946,cakevote.eth,Will $CAKE be able to reach its previous ATH at 44.2$ in the next 2024 bull run?,81,112711.91346445671
+0x747be16116accec66194ed68fc55ed4b18084705f9741c79bda6c8f5113ba93e,cakevote.eth,Have you submitted a new proposal of your own?,79,51206.24953307895
+0xea738a3370f23210b460acb079651e08d1970ca4346ac7bef3bf1462e6d35294,cakevote.eth,Do you want Pancakeswap to made its mobile wallet app version like its competitor?,76,8903.044202015462
+0x66bcbe7bb536b835efb73632611fd7a2eb7f48be02ac5bc38d7a4c95546932fb,cakevote.eth,Staking,144,664758.6910472697
+0x304fef5537eeb972d9cba193f610ac1bfd2dc4a37e44bb7242be7ee736e12442,cakevote.eth,How much $ do you have in CAKE right now?,83,81405.83441671582
+0xa5260b935b17e61acc8e84a22c149ccc3d8481ff1fddfeabebc674c5ffa1ee00,cakevote.eth,Do you think CAKE can make a new all-time high?,84,1185759.7139504612
+0x1fa847495483ba22cd95227c1542229b17adf2fc0eb31b8a8b22bf6316ace968,cakevote.eth,"BNB and CAKE now a stakeable on the best non-custodial (zero risk) staking platform, with upto 184% APY",123,590230.2515600827
+0x6c906c7bf93dfa2a0c169b37e40971277ec9755a7947aeff88bae1f03d35e24b,cakevote.eth,Agree or not? I want $cake to increase %apr.,127,298469.7804007208
+0x412fb0f7e354c6afef294230018e2953ca13fc3def09e41578a4631b083f7a7e,cakevote.eth,🥞 Remaining veCAKE 🥞,151,1627910.347861469
+0x2bb758c55c3913db71734f430ad4b976524032021a7970dbbe3422bd0ddf635d,cakevote.eth,WILL BE BTC PRICE ABOVE 55000$ BEFOR END 2023 YES OR NO,153,178992.87959919343
+0x1a4ffd7d3731501506d231be38ec9bd51c18e126918f3e65f8f49ef4972c5caa,cakevote.eth,WILL BE ETH PRICE ABOVE 4000$ BEFOR END 2023,143,44457.80950984677
+0x41f4f611d43a4f05cc1081da799a3271b4e95e4605a1543ee52f66f2745078a8,cakevote.eth,Would you support a CAKE airdrop instead of gradual token inflation?,155,48729.65103294169
+0x0565a6c626df06bbbb84e5cf2f717579bb825c7cf3ec693051a837d1a4b76f41,cakevote.eth,Would you sell any cake at $5?,149,154566.00062995253
+0xd54758dac04ebe18851c0a0d6720722b9f64dca489d3f3301efb086f1efd1054,cakevote.eth,Cake price ,136,40043.882550292816
+0x5a3f9e92526b200ab399aacd6ea6ff25cac16baf22d80c6963f0d05a0482c402,cakevote.eth,When single LP Pool in Cake,132,12723.05732158395
+0x4a12236ec7ee08defcb01a8a72396818ce5ac1c9efd3be3dd6857191c24f8c6a,cakevote.eth,Add filter for stable farms,128,25847.36160308018
+0x74f9eee86a0b956988108f2abfbe80674bc6f4be387afc1e953b44b6460ca0d5,cakevote.eth,Bring back Auto-Compounding for Cake Staking,109,163982.59188637705
+0x670c6ee76165fc0ef6eac2f5082916ebbe4f3ec203fe51d783ddba27820c3038,cakevote.eth,The future price of Pancake,133,734438.076967662
+0xd20c6ae56a9a1ee5b9cc3d4e55446fc38c33536442c7acc2ed87264db7021629,gmx.eth,Proposal to Transfer USDC and GMX tokens to GMX-Solana for Initial Liquidity Provision,603,550927.1279292736
+0x7fab954a53128625d268bda1175f15f58c59eebe6e9518815facff86830b9097,gmx.eth,Updating Liquidation Mechanics on GMX V2,724,311794.7987416094
+0xbcb4a03f454819c29b2ae0f1dde7e5110385c68e86e79c68547c4c969e61a85f,gmx.eth,"List SUI, TIA, TRX, APT, SEI, TON, BONK, WLD",326,64507.69359093863
+0x4de43e30d90065bd3f968af76fad1a48a70b4886d8f3b77b482b28c57ea22898,gmx.eth,GMX Listing Committee Election,379,58971.5482882626
+0x4514be58c57e452c5163d5db97d518aee694e3af5980a63912b06b0b91479289,gmx.eth,GMX Security Committee Election,356,58890.54226874227
+0x9bf97eae1bd6bf6975edcdc094dddc6245c920c7b917356dc6e816f32b78a60d,gmx.eth,GMX Governance Committee Election,343,54931.563878058536
+0x87a03dd7d5953210b555a7eecbeee26d45959599063bbec19ad954a1c995ca56,gmx.eth,GMX Security Committee,328,45328.926286095644
+0x2ac1704ac80f9b925ac7ab84ee4ce0d13124211eb4f870cfd516281faff666e7,gmx.eth,GMX Governance Committee,322,45328.179337382135
+0x433d84e8dd3b14fb968b302408f8f79785d2c48647684fa2c9b1816ef818b4a4,gmx.eth,GMX Listing Committee,321,45428.31886704985
+0x0cdba7d9720606b567cc8a61c52cc483aa41991031b6bc7dfbc81070cabe0cf3,gmx.eth,GMSOL or GMX-SOLANA? Decide then Sail,493,482474.4401986741
+0x211abc4f3ef74a5616088213c9eee91c0ad3b13a24785368f99962af8c0dadf0,gmx.eth,List EIGEN,319,105957.6550817966
+0xa325d9ad71d2b00899579fec95552a0922001d6093d0591a32f7af232391ff6d,gmx.eth,Integration of Chaos Labs' Risk Oracles in GMX DAO protocols,332,43405.161841015324
+0xac1e118c6b974aef2137447424013c1005266bb0c062970b650263781830c602,gmx.eth,Implementation of GMX Liquidity Vaults (GLV) for Enhancing Liquidity,314,101045.28972546358
+0x73b7653b421b1508e03d4eb9294d7275e2f685179277ff75ce6b379cc7aed2b7,gmx.eth,"List ORDI, SATS & STX",392,152783.21076402048
+0x7979b97dad42bdd6df1f37483be3dd32b92ba207af2663f894a6a536c0bfc06d,gmx.eth,Listing APE coin,383,140365.95033913138
+0x050a7a3a4490642fa545b1ea0b8612f23e69b9c6c81983bfd235ea62461d8fe2,gmx.eth,Buyback GMX and Distribute GMX,761,574686.400457995
+0x6c191c7bc91515436306ac9f0be51a8a46be33ab3f945fdfd5ad82a477f6789a,gmx.eth,ETH Market with Lido & Ethena (wstETH-USDe) ,507,104151.13425456337
+0xac08a1d5722e68aff3720774341bb6b979e917276f5ba30b1216c8aec0f8cc01,gmx.eth,Listing tBTC Backed BTC market,553,88902.29692488957
+0xa097e93e17cc5c41251d920c8e515e4a1e08d919423c5d9ffd8459f8e0592d2f,gmx.eth,"Listing PEPE, SHIB, WIF",372,370278.22694879863
+0x28fba55e2d06f964be90fd0db3ba732dbd1a4297a6991177aff8dc333cecfe07,gmx.eth,Implementation of MP Update,1000,296833.40231136436
+0x1df14661e5fcc6ad28213852a7366ed880e5809de3f3311872727ade594fa1f8,gmx.eth,Single Token Markets - Avalanche GMX V2,1000,257615.48399619217
+0x70f1477cee26a04c8dc1606b2cc157b7d4811c63057e56c1259eefe200165145,gmx.eth,Updating Maximum Leverage / Minimum Collateral,1000,165662.80969082259
+0x5fc32bea68c7e2ee237c86bae73859f742304c130df9a44495b816cc62b4f30f,gmx.eth,GMX Token Pools in GMX V2,1000,327004.45423070586
+0x9258ac69d1441b3b89208c0691c5749977e3e1409fe027910a42e78d436aacd0,gmx.eth,MPs update,1000,2902283.974685151
+0x82285fcbbb8ae50147793f5d7d5735515970c5f67c29c97e326a7810e0bde2de,gmx.eth,GMX <> Solv Collaboration,1000,515105.2000916139
+0xe4dff0f4dde41f906c6f93eaf6406aa2b3a39aa12e15c6a5c4ea36eed6e37227,gmx.eth,Questions of MPs,1000,2100058.9947173786
+0xc62340aa5c5e3993bb3b4cd8e0f391bcdc60319032431146fcfba8a7b65b8fdb,gmx.eth,SIngle Token Pools in GMX V2,1000,636163.2747989269
+0x7d70cb94128482bcae66e8815ad2cfd04126b702931504c58bdc88e11163c7a4,gmx.eth,Q1 2024 Token Listings,1000,358935.7245319157
+0xd1b6a1b2b3341d87caae34bb29817513a2108cc9de943556d46f8eed5e4790e0,gmx.eth,Create a BNB Market on GMX V2 (Arbitrum),1000,113188.40962599397
+0x1718c77bb2be2c4a7d649b227150c08169540a48c35aa1690b234c3c1160a546,gmx.eth,Close XVIX / Gambit Migration,1000,10419.870246476621
+0xfa202e11656cee660fb926cd6f9205d6964b25a409c8686169a3a66b85f2a9e3,gmx.eth,Delegation of ARB tokens,1000,66423.22895035794
+0x97c7a151624fd39c5b85e7cf8c3ac8affc43791768773c40703ae497fbd21e99,gmx.eth,Contributor Tokens (Year 3 & 4),1000,2177.6202929431624
+0xe5631173e5f81906e0497b6fe209ef2c72b4b8d882a0250ce0feeafb8278fb72,gmx.eth,V2 Genesis Parameters,1000,5219.796338565134
+0xd08ad5d5ce7439f5e9fbc59b1d5c94b98deb01e802a0d718e7cac743a4a06627,gmx.eth,GMX v2 Fee Split,1000,91491.74911546698
+0x89ddca6114ec5732b0e5c6b83e4278d82b1d7eba5839ec2a58bad903945edd11,gmx.eth,Updating Multiple Point System,1000,1328427.0217655592
+0x4bb2ac5546101e39ea0a0a11a689e967c8720814e5ca804d112bd55cc4072d0c,gmx.eth,GXV V2: Interface & Market Paramaters,1000,7969.635076527018
+0x71cf8eefa2b242043e1335fbbe11c8830ff5a40c3ad067865eadea1312525769,gmx.eth,GMX V2: Chainlink Oracles,1000,8942.53515919565
+0x0940cc002645856d7f94c0592e425ff2a05f9ff7b2dd80d78c96c89590650118,gmx.eth,Create Yield Stabilization Reserve (YSR),1000,187851.65651209396
+0x25925551755a381ed9e8045c38adeba58a5e4d29a9c28859a3ce7fc31291301d,gmx.eth,GMX <> Gammaswap Collaboration,1000,43710.434147088854
+0x6f97482550d53c309c893d748923c10e2d1dadd771fcfc9f2bdd1e5307311a15,gmx.eth,esGMX emissions for staked GMX,1000,161923.05896119212
+0x94efecadcc6eec8daecec5bac10cca355b0c7e3d55236704cf6593c196e32d88,gmx.eth,GMX <> Redacted Collaboration,1000,178072.5199876795
+0x51504e0380b731108cb7755fd06e701f627c8e6d88b08983963ba90f5a89e4b0,gmx.eth,GMX <> YieldYak Collaboration,1000,1445.2968213837826
+0x7cbb86cab3847047c6716dd4abb03779d64238f224926e5f72155ee8d3590ac7,gmx.eth,GMX <> STFX Collaboration,1000,70891.69671074089
+0xa56496a3504b3c4574813f3b928c7b9c07c10fdccaa55be018d7d752f2048682,gmx.eth,GMX Labs,1000,336442.97694351716
+0x62c07a2338c270155bcc2e45f904811aa5fa8dcc365d3675149c97064554e6ce,gmx.eth,GMX <> Rage.Trade Collaboration,1000,801475.4315828815
+0xcf9d7c4ea618a83228e2279823c1c73c00f1a17775236c8bbdbd92a39b07d4a8,gmx.eth,GMX <> Plutus Collaboration,1000,1969605.8334294816
+0x9b76fc333a9c90271c7c3dff976dae8afd9a7518b23d072c53f57c5da9f25880,gmx.eth,FTX Listing,629,1869919.9816331363
+0xb370249628b2226c6a7e771b2959c3b2e80eada36ad3618a7fc39f964213643e,gmx.eth,Update esGMX Emissions,199,1350013.0634225542
+0xa8775ed0f20aebd0dc66f5ebb9db3a5c2a50736c4af58f0a3024e6d4413b4374,gmx.eth,Increase Max Leverage to 50x,191,1338079.1885041846
+0x29485625f8f1499094f5c6c3dd2483194a5fb03e747393a8a8fc93e24072ff71,gmx.eth,GMX Referral Program,139,636361.1989969487
+0xbc08ef786fb62d5f72ebed9d64146fd282ba2a011e96b52ab84eafadf90cebd9,gmx.eth,Listing Proposals I - Nov 2021,177,1970401.6424821715
+0xd0406c4ad5955f255a9544475befb2eea0302e4e8f133e79accba885286a047b,gmx.eth,GMX Competition Prize Pool,116,877761.8573183515
+0xd7340bfa8704216c09dbcf41a7f80764db784172701602e0cddc14bb255e1323,gmx.eth,GMX Rewards Distribution,155,1049799.0030579367
+0x5527b3846cd05a64346a00461d2c763531f43e2b2f4f1c7d55e1ba7de60c4d4e,uniswapgovernance.eth,Incentive Package for Sonic (Formerly Fantom),287,34748840.7674384
+0x90fab9ab51bb8ca09bab7d76e7ccacaf7dad184e697c870c30957770211cc95d,uniswapgovernance.eth,Discretionary Budget from UAC for Co-Incentive Campaigns,261,43135124.895608716
+0x1b31cc6ab6b8ceb3ea3ada7684d08debc20d8a3b29fd94363223892264ab937d,uniswapgovernance.eth,[TEMP CHECK] Metal L2: Bridging TradFi and DeFi Through Uniswap V3,367,37023478.76297637
+0xb7218cdbaab203872d4f17d161d84ad04f8b35ab6d8254d6786ca18d9893fe40,uniswapgovernance.eth,[TEMP CHECK] Scale Uniswap Liquidity on Celo,407,34528670.07868611
+0xba36ded3039fc2588cdc7352e2ac6dd40ca0c3548576d9d31256663fbfc3f1b4,uniswapgovernance.eth,[Temp Check] - Adopt The SEAL Safe Harbor Agreement,396,37265319.51854451
+0xcc5e92fac9d5d9c68bb4f2f742e9e6760c75f7c13a44a02aba33c769505fd2c2,uniswapgovernance.eth,[TEMP CHECK] Uniswap DAO Principles,277,30345292.725718394
+0xb773c977c2f88e0450b8c00edaa336e37a8e5f7379b4816e3de4306f7f763a44,uniswapgovernance.eth,🚀 Big News! Uniswap Just Voted to Supercharge the $gSTG Distribution in Phase 1! ,0,0.0
+0xd40de61e2ee083603b7ed80bba3571871394590621d734b19e504c83f6d05c8d,uniswapgovernance.eth,"After Successful DAO Vote, Uniswap Moves Forward with Phase 1 of $gUNI Distribution",1,0.024851432503439318
+0xec5b5f6f61b36cee217ac899c4ce7b922b53d126b29aba680a96fe3aca365fa3,uniswapgovernance.eth,[TEMP CHECK] - Tally Uniswap Proposal,212,38804504.64638526
+0xc95ebeb66aad587d768ed7ead88acacabbdd89bffb1bae8b15ce245a881ffab9,uniswapgovernance.eth,Uniswap Growth Program Trial,267,33908233.91312029
+0x64aca6822b43a7a4eff64613e16091d0cd9d50483cea78e0d959875dbebf6b69,uniswapgovernance.eth,[TEMP CHECK] - Onboarding Package for Lisk,242,38265076.93946649
+0x0ced7d4ed383fe37e3905c187fe668382a32090b994cffc257ecb8a035542d64,uniswapgovernance.eth,Uniswap Accountability Committee S3 Elections,194,40118793.609214395
+0x8eb2e8135cab63b0ff987dff2bda9b651f86bf6cc90336a9b11b92640e16405b,uniswapgovernance.eth,Uniswap Delegate Race Tiebreaker,193,29408460.018981505
+0x730241466ef1146d10ffd167f995b327f1ba9d7ad13d7ca9d2a2802052654b3e,uniswapgovernance.eth,Approved Budgets Rebalancing,186,29410908.37134486
+0xad9fc83135d5e8e8505030aeb659239d99bc07091a4b4d5038fd6c8ea09549fa,uniswapgovernance.eth,UAC Renewal S3,186,29409968.9696863
+0x51ab2ced6ddc652531d0a4f719aa43b62beba11b5d97773750e682b6e8aed5a0,uniswapgovernance.eth,[Temp Check] - Ethereum Foundation Attackathon Sponsorship,259,34656978.89301747
+0xff05f8e61540a8ad3ca98b9a65a4b135d7834bdb0cf286a1346dcd6fcda85df0,uniswapgovernance.eth,[Temp Check] Uniswap Delegate Reward Initiative - Cycle 2 ,275,29414252.801885847
+0x3c55a8685f64078d016a5a69cba3fccc3844692da97fdb3dbe6b31049b8f85ac,uniswapgovernance.eth,"[REDO: Temp Check] Activate 2, 3, 4 bps fee tiers on Uniswap v3 on Base",278,32914591.913438022
+0xcd74f6280e53cbdb3bda8349c3c6b833e613faf4677278e85a38cb06e5afb355,uniswapgovernance.eth,"[Temp Check] Activate 2, 3, 4 bps fee tiers on Uniswap v3 on Base",319,21241116.919779684
+0x6ded62e81a99ac1c6e9539aa79f5c15d0abaf6d41ae9f862d3e43d0b95139cda,uniswapgovernance.eth,[TEMP CHECK]- Revised - Uniswap Onboarding Package - OKX Chain,312,28808128.733979307
+0xdf2d95ccfadebf141847b90e058f8fafb4f76d8ca2ec2a7351d93353187df560,uniswapgovernance.eth,[Temp Check] Forse Analytics for Uniswap Revitalization and Growth Program,265,31925845.817446224
+0x4d070edcd39b24b67e219f8f0f6308083c28d510ed0a1ac4ed3fb8d5879f3b6b,uniswapgovernance.eth,[TEMP CHECK] Uniswap Onboarding Package - OKX Chain,269,29197997.515566997
+0xc2eed288ba61241dd86928eff15b7c8c9622168fc4b435657f58dda8ce285d13,uniswapgovernance.eth,[Temp Check] Uniswap Onboarding Package - Gnosis Chain,356,31725300.99779388
+0x82c77c3a10bc17ce65c3fa2fd553d224e00ccaa012ea5c203024fa3695acb7d0,uniswapgovernance.eth,Uniswap Arbitrum LTIPP Matching,423,25437146.51979422
+0x35ed89cbda5bd11e333202c62d89fa223eab651adeb5e2cf6640d22411cc0946,uniswapgovernance.eth,[Temp Check] Onboard Uniswap to Redstone,491,34934935.56575268
+0xfe8cb4e08138df2f0d136480e85edadf22679cca73b68f3f376d12f322dd2565,uniswapgovernance.eth,[Temp Check] Uniswap Delegate Reward -3 Months-Cycle 1,691,34439672.421485804
+0x0020f65948996b728ebce6c8a6ce5148d936a0151dd48f2e43bbcf34330cf542,uniswapgovernance.eth,DeFi Education Fund Temp Check- Options,615,32871085.044108417
+0xf17f3ca6b3d1aa6d8061a733fc0d627558159e0057f76ddfe056ea492cf56163,uniswapgovernance.eth,DeFi Education Fund Temp Check,731,42872668.559621766
+0x7584aabd34944953f37008d4a6209e4efee8f1a066a5051fbba37910dae80b49,uniswapgovernance.eth,Uniswap Treasury Working Group (UTWG) Election,532,30723209.554352008
+0x9893a292a4e2425ed9a30de41e1bc92039daac4540a6e3028333a35902e8143c,uniswapgovernance.eth,[Temp Check] Uniswap Onboarding Package - Manta,693,32222277.37161196
+0xaf3965fdf77423bcc7a27294c90a3522b13ae267519c277f6740a7a39869b120,uniswapgovernance.eth,Update Uni v3/v2 Deployment Process (March 2024) ,651,26965843.866455056
+0xe7274e00eb2a084cdc3b7510a8b40aa303ac2d7944e9706ad090c974c76e71bf,uniswapgovernance.eth,[Temp Check] Onboard Uniswap to Sei,797,29500323.29330636
+0xd2d3a01ed6e4b0c080073d4510f545a51db224ff6e57babb9454640cc5e1ddfd,uniswapgovernance.eth,[Temp Check] Mobilizing the Uniswap Treasury,788,26454269.087630723
+0x3d8d2f44677c19f49a5bbe4466e4b50068b1a704861801d95384c898b1cbde54,uniswapgovernance.eth,Uniswap V3 Fees: Factory Owner Amendment,1000,31582329.98871384
+0xad7e3612d11d56b21f0b2274e4ce825163bc1873d0e2ef809a3a98733df992a7,uniswapgovernance.eth,Activate Uniswap Protocol Governance,1000,42496176.377545305
+0x84b5c020421459f753681683cf2489548eea020c4f67bf08ccf05cbcd78caaa7,uniswapgovernance.eth,[Temp Check] Deploy Uniswap v3 on Zora,1000,30874482.24701607
+0xd457a6cdb9e20002d74c30818b7b35a694af04c627cc7bf6d855d4ece9409333,uniswapgovernance.eth,[Temp] Uni Onboarding Package - Mantle,1000,19132914.063761402
+0x1f94902b026cf7722ddc9761621d075f22e56b833e91d795374b3a7065d2de0e,uniswapgovernance.eth,[Temp] Uni Onboarding Package - BSC,938,21597663.235095084
+0x1fcec1597c5fdd6d53aed8d4491a07d41c02fd3e20fcc55936be807f189fb6c2,uniswapgovernance.eth,[Temp] Uni Onboarding Package - Moonbeam,918,21598326.03155913
+0x178ac7eb76480798dbb656cbae4a405c3adaad48f9af4ae4c528b2cbd0f6af39,uniswapgovernance.eth,[Temp] Uni Onboarding Package - Taiko,972,21598197.349830013
+0x24d918618eb4fadb8e9d17f5da5a57d74a1d51470d4c9125b1f42d8c268d0f52,uniswapgovernance.eth,[Temp] Uni Onboarding Package - Base,893,21598514.965283014
+0xbd612a383a061c6371a95a00d02b253e42fea2335ea596a6dbca4fe4a27f710f,uniswapgovernance.eth,[Temp] Uni Onboarding Package - Linea,929,21598763.735836916
+0x842028603479b83b98cf287f53e739c50b7ea026ed276e58c2d8ef03d68d8e8a,uniswapgovernance.eth,[Temp] Uni Onboarding Package - Blast,870,21597790.12797666
+0xde949c58934541240b76597b9461f2bc7987da23835459921737967d6a38d5da,uniswapgovernance.eth,[Temp] Uni Onboarding Package - zkSync,899,21598782.012325685
+0x805b4fe9e0ba5741f5275823e1ad3330b3162c79feedd00438968c9cbc7081fa,uniswapgovernance.eth,[Temp] Uni Onboarding Package - Polygon zkEVM,889,21598690.923276737
+0xdfdb91486c2f8d5d63114da161cc2fe6e7f9bd5adbfca90eb4cd86616136f81f,uniswapgovernance.eth,[Temp] Uni Onboarding Package - Scroll,860,21598692.45668237
+0xe2fa09de5e3ff44b57c40b2fe049f43e47cb8e3b192bd1dc52ef3b42d8b5c363,uniswapgovernance.eth,Uniswap Deployments Accountability Committee Competition ,1000,16851243.616230406
+0x372ef8c1a79de2fa00b919070177ed81a914b4a23a3c01d3b4e87dfe9c5e4e82,uniswapgovernance.eth,[Temperature Check] Lower Onchain Proposal Threshold,1000,8370660.067194039
+0xf30cebb7e0819b8a9ad374d82af5866d0329b3628f374cdbc434760337e99cd2,uniswapgovernance.eth,[Temperature Check] Deploy Uniswap v3 on Rootstock (Bitcoin Sidechain),1000,8370404.442726975
+0x73a886b13c81e2e0ca432b2c69c0592b02a5b1d1cd983277b4b2d67271fe1eff,uniswapgovernance.eth,"Uniswap DAO Portal is Open, early registrants receive the 'Early Uni' Role & will be included in the $UNI snapshot",2,1.11
+0x00ff45d181461e5a10baa14ab5831c94e65bd3a1f60833201882b198a3c17441,uniswapgovernance.eth,"Uniswap DAO Portal is Open, early registrants receive the 'Early Uni' Role & will be included in the $UNI snapshot",3,1.991884593856554
+0x21952c76273006506938a92f1403b953c7b3f5983a83b8d586dd3673e92e7af6,uniswapgovernance.eth,"Uniswap DAO Portal is Open, early registrants receive the 'Early Uni' Role & will be included in the $UNI snapshot",3,1.991884593856554
+0x395247baadc03151c1ff747b2dd2d58a194c7cfe3338f6c5d745c633bab12361,uniswapgovernance.eth,"Uniswap DAO Portal is Open, early registrants receive the 'Early Uni' Role & will be included in the $UNI snapshot",24,42.29474464124622
+0x6257f014b442f2cdbe6bb05085f4f27f21ed5af892a2f49d1bc611e5d859c2ca,uniswapgovernance.eth,"After a Successful DAO Vote, Uniswap decided to Launch the Phase 1 of the $gUNI (Uniswap Gold) Distribution",4,3.169332059244857
+0xf1c132e8458c38dd021b3850f41a059bfec10d1d48f1dbe76b84ccf72a7798e4,uniswapgovernance.eth,"Uniswap DAO Portal is Open, all early registrants receive the 'Early Uni' Role & will be included in the $UNI snapshot",67,516.6230912319853
+0x73753f8ccab7747563b9c17a0bc746e6207991561278d7cadfaa1a7be12b081a,uniswapgovernance.eth,[Temperature Check]: Competition of Delegation of UNI to Active but Underrepresented Delegates,1000,22473051.369591974
+0x14aa7becb547ccb8fdcfc69054bda1557a90f1ebe3ac45569f049b5e29e98d76,uniswapgovernance.eth,[Temperature Check]: Delegation of UNI to Active but Underrepresented Delegates,1000,4356018.136108638
+0x738fbd583c272b91322c4fae5d692387001445069398ce52b7cdc5c9a16105d6,uniswapgovernance.eth,[Temperature Check]: Invest in Ekubo Protocol,1000,23712773.933248363
+0xcc41f669e5b4a92bc47b02d09847c1d4ba9ed4bd9c4dc0635190c974083482a6,uniswapgovernance.eth,Temperature Check - [Issue a Visa Card with Uniswap Logo ] ,1000,8723211.99981891
+0xf551e90e767fccfac8593a3233b6e2f2e2a3a773e1e9f9abbb9a4d2678f101f8,uniswapgovernance.eth,UAGP Team Election,1000,14101239.893720012
+0x4d8042e4e53715dc141be98b89aab659d5f7306c3d3ef789b0c807a029c23ca8,uniswapgovernance.eth,UADP Team Election,1000,11994179.24897611
+0xae0ff2f4cb4c1d292f7bf7c4c4bf7f4046be89518a0c7cbce65d658f2d36f20f,uniswapgovernance.eth,[Temp Check]: Complete initial funding of the UF,1000,10474677.465514468
+0x011e2297060cd82da866185392a54f506118cbece76c88c1e2a02fac4cd75893,uniswapgovernance.eth,[Temperature Check] Deploy Friendly Fork of Uniswap V3; ZERO Protocol on Polygon zkEVM,1000,4628.409045161021
+0x2ba7e3f1f75654d0b8b282f89047758866b9712ec3398e850e4fb91a8db4805a,uniswapgovernance.eth,[Temperature Check] - Deploy Uniswap V2 on all chains with V3,1000,6017548.854396537
+0xc874c15656ac985df2f34d4438f8d074226f10408dd74f08295227974179b2c1,uniswapgovernance.eth,[Temperature Check] Deploy Uniswap V3 on Scroll,1000,12812996.088510152
+0x2a122241d608b92e605e3e2ece355e97c5691ac0448da5653025e2c929628625,uniswapgovernance.eth,[Temperature Check] Migrate the Celo Uniswap V3 Factory Contract owner from Optics to Wormhole,1000,5262627.157031386
+0x86ded24b11c4714e0f4f2b6e4ca489f60dc33e6f2f4ababa5575bf5ab973a005,uniswapgovernance.eth,ARB Distribution Proposal Poll,1000,15967541.979743246
+0x98e08d94e1174b0bfa2350c616d3cf2fb8f5e56c56c03dc0ae58fd29a6b29265,uniswapgovernance.eth,[Temperature Check] Deploy Uniswap v3 on Fantom,1000,587179.8776652692
+0x36a17f6c311f3d910bc11cb4cd55891a7e6c71facd04e7bffcfb267fdd88c45b,uniswapgovernance.eth,[Temperature Check] Deploy Uniswap v3 on Filecoin Virtual Machine (FVM),1000,21424845.325513784
+0xb643c2ccb468812901c9490dbb31c5aada0140e83d0f6ce30e04fc7a237748e8,uniswapgovernance.eth,[Temperature Check] Deploy Uniswap v3 on Base,1000,42878696.07332601
+0xac6b9ebb8cff7817fdf144119742e474dfeec984632ab374727770579e2653ed,uniswapgovernance.eth,Deploy UniswapV3 on Linea,1000,26514835.059961934
+0x4b362044000714197ab43d5f2155977976dcc7cf1cb28d945e1168ae7ac61f90,uniswapgovernance.eth,Making Protocol Fees Operational: Asset to be held in the treasury,1000,10510245.49593645
+0xa47a49305ab418cb2ceb9da1290cbe022671d5feeb5e2a344bfcd1edbe0720d6,uniswapgovernance.eth,Making Protocol Fees Operational: Initial deployment chain,1000,16265875.925671076
+0xb471984c1daef6742be4d4983339af7ad140c3dfcfc883508fd975f5abe0e8c9,uniswapgovernance.eth,Making Protocol Fees Operational: Fee options for V3,1000,38199021.55347445
+0x73021d63f985aba8e42c67165f80c0027a591980a5cc372cda9637bdf2173f95,uniswapgovernance.eth,[Temperature Check] Deploy Uniswap v3 on Moonbeam (2023),1000,19809415.924809776
+0x0f8a85d90759acf3a6fdc018e20b991f3562847122a8142c4e166c71d0e755e3,uniswapgovernance.eth,[Temperature Check] Post-BSL cross-chain deployment process and creation of new uniswap.eth subdomain,1000,7036914.827434856
+0xdc3e034f9b7c876736f1b629c7c9ff9c466205dfe075607d70e69b6af2fa87ef,uniswapgovernance.eth,Uniswap V3 Launch on zkEVM,1000,5957740.797376937
+0x63f6c44e4245e5b90a0f30ebb6932506879f68b149a5f78fd2186125c9144535,uniswapgovernance.eth,[Temperature Check] Deploy Uniswap V3 on Gnosis Chain,1000,8459709.476794912
+0xbab5cd9d9cc5123ea5da8eb45e321463f1a0fd2543dc17587db1f24099d90dfc,uniswapgovernance.eth,[Temperature Check] Deploy Uniswap v3 onto Kava EVM Network,1000,16812624.702161405
+0xa47404722b9c8a6fb850cf5de79e8a95f073f06393290949644a627bfe85bced,uniswapgovernance.eth,[Temperature Check] Deploy Uniswap v3 on Avalanche ,1000,19055556.450368218
+0xbadf3b39b681c98ba8fb988d5b6c9454ebeb5aae88545a6a852d0734e9f7c957,uniswapgovernance.eth,Temperature Check: Create Accoutability Committee,1000,8670471.619702883
+0x3447c5c95e70304122194efb2874757059f0851cc7449e58682f48a25e4ce7ba,uniswapgovernance.eth,Consensus check- Uniswap DAO can help 80K UNI to Turkey to relief after the big earthquake disaster,1000,9707.1031163713
+0x9db793de052692853aa3749920e1c7161de0eead4730c3fef516bc11eb829879,uniswapgovernance.eth,Consensus Check - Uniswap helps t,1000,1943.2344254797372
+0x374d7f9ba673e65d6a85c3cfcc082fd3ad22ca5d8f9f44ac14e1d67154640d90,uniswapgovernance.eth,Uniswap DAO can help 80K UNI to Turkey to relief after the big earthquake disaster ,1000,4840.024849509775
+0x15031b68121659b87a3f5e33c303cd517bcbc003d3f60fc82f1299620475bcab,uniswapgovernance.eth, [Temperature Check] Enable 1bp Fee Tier for UniswapV3 on Arbitrum,1000,12037113.153599937
+0x6b8df360fdf73085b21fdf5eef9f85916fbde95621a3d454cb20fbe545ffc852,uniswapgovernance.eth,[Temperature Check] Which bridge should Uniswap v3 use for cross-chain governance messaging between Ethereum and BNB Chain?,1000,37323691.31215035
+0xa3c7247632d3a08e4e73a63867908d0cd4402f48fa673945f93e3197dee5450a,uniswapgovernance.eth,[Temperature Check] Should Uniswap v3 be deployed to BNB Chain? 🦄,1000,19257596.8080423
+0xfd3d3807bd2a6eda1327c311b83de235061d39ff1bdfb616c9f9b0d367c3ac2c,uniswapgovernance.eth,Optimism-Uniswap LM Program: Update to LM Managers,1000,5031.398526879356
+0x8cd74072d4ae997c11fe5351c3a8c3fcd05440091858c1ced911bb2e9043c3bb,uniswapgovernance.eth,Optimism-Uniswap LM Program: Update to Incentivized Pools,1000,4641.8883187196925
+0x387b5e811e9673359b98729af5c7f14a50b7d0ea9b4dcf9278686b238932e25d,uniswapgovernance.eth,Community Governance Process Changes,1000,2508903.183911863
+0x5ad7208d9ccad93dbc96abc12bfeffcfe83e96b9782e5135727cdaaf494d70f3,uniswapgovernance.eth,[Temperature Check] Deploy Uniswap V3 on Scroll testnet,1000,6005772.783903964
+0x31c3409c09f5561d6aff1e0adeee6c83a5e73768a5d5c3e01b2a48a3894eda54,uniswapgovernance.eth,[Consensus Check] Fix the Cross Chain Messaging Bridge on Arbitrum,1000,4923795.587157084
+0xa4a21c808b28a61562c6b4ebf5b71c0cd37ee2d630bcbdf91ffaf5f683cc650f,uniswapgovernance.eth,[Temperature Check] Fix the Cross Chain Messaging Bridge on Arbitrum,1000,2508875.979640834
+0xe523d31000db5ecb16b002efd2ee984b958928b01cee140212eefc3ed5bcdfcd,uniswapgovernance.eth,[Consensus Check] Deploy Uniswap V3 to Boba Network,1000,10921577.361433173
+0x5387b0756442268d283d4ac7f3f4bc4cc0204c5e47b9708e5128fcbdea2d0cd1,uniswapgovernance.eth,[Temperature Check] Deploy Uniswap V3 to Boba Network,1000,12129440.438331788
+0x255d43357e17858f8664ffaaeaf7660bfd8be5f7dabc414edf98d3fadb3f1588,uniswapgovernance.eth,Optimism-Uniswap Protocol LM Program: Pool selection,1000,5508221.388734439
+0x8db45283c71ed4f72e5834212a10963b1b4a53527a175472ba8cc4ecdeebc6a2,uniswapgovernance.eth,Optimism-Uniswap Protocol LM Program: Structure,1000,5507987.907434472
+0xe6ad2033b04559b3db6be7fa9993f05ee68f43f1061c632382c88e367e76bfb1,uniswapgovernance.eth,[Consensus Check] Deploy Uniswap V3 to zkSync,1000,7043065.000031758
+0xab1dbb6e3486073b81cc64b81d15d24a7bf82efcfc94e533de0779250df06ba9,uniswapgovernance.eth,[Temperature Check] Deploy Uniswap V3 to zkSync,1000,2504342.693571814
+0x2f72d9f247d9ce143809bbb4af7f5b36aa50895e517cc32096b15b18b40e3191,uniswapgovernance.eth,Should we deploy Uniswap v3 on Aurora?,1000,9631810.521626625
+0xa78367dca7840d111d1762c55bcabf18c600e7cb3783d4b766c7f821e4a9a33a,metislayer2.eth,Ecosystem Proposal: gMetis,591,20406.473140850725
+0x11eb40e63cf5a7538d4f576af077fc7abd4f9b1bac54ceabb7a9fde276119722,metislayer2.eth,Ecosystem Proposal: BePrometheus - sparkles A single spark can ignite a vast fire.,1000,15619.659027926882
+0x75eda628a324eec7b7c53063cc836fdf94aae29609d137af847569a211c0d53a,metislayer2.eth,Ecosystem Proposal: LeoFi - Decentralized Asset Management Protocol,529,4444.81464765448
+0x827828bc5a0381451e74b1eb626b8389fa266723403db1606f87c7bd548af1d4,metislayer2.eth,"Ecosystem Proposal: CoindPay, Accelerating Mass Adoption of Metis Social Payments and DEXs for Consumers",551,9229.035281448147
+0xdfd793d4993e42d5eeb2c83f06683750d9b9a40cb251e7444220c1d9bef0baa6,metislayer2.eth,"Ecosystem Proposal: Nextmate.AI- Decentralized, AI-Driven Prediction Markets with Memecoin Integration",550,9978.337901084189
+0x7364f0af499ec18a01c9c5848db33551befeb82f78fb53aa504194868447d0b7,metislayer2.eth,Ecosystem Proposal: Medusa,645,29474.913084212832
+0x4b146531538d45bee0e5f17e55fd484bb3af812bafc8911e1b6f77a3ad0d609c,metislayer2.eth,Ecosystem Proposal: Borderless - Onboard millions of company onto the web3,597,6874.622840840177
+0xf69ec97e2484cae2550770f882dedd458c2a52217931663953b8a8a020ca9d7a,metislayer2.eth, Ecosystem Proposal: Toaster Finance,598,12689.841521929216
+0x2a6f29ff109943edf399ffa60ccc717f0b6ee88dfda91a16f8c789066832f843,metislayer2.eth,Ecosystem Proposal: TaskOn - User growth infra for Web3,588,11588.963145874492
+0x7a74e2d5ccd2000fb638ef9c8097982950ade9e3b252260ea85a8ba8e789640d,metislayer2.eth,Ecosystem Proposal: MetisForge,687,10363.447398450768
+0x7d38fd065516c166542e2f59d00813f8564658e73266ff7af046f06a0e9eb58f,metislayer2.eth,Ecosystem Proposal: Jenga - Gamified Green Impact,1000,9853.263426132551
+0x5d1d9cafbc75f688e9b1ded5d187334751c6714d0cb9041ff436b928637c578d,metislayer2.eth,Ecosystem Proposal: MathWallet,616,12813.467599801257
+0x4e257eae95baf121c80dbe9fee44bd701cb2a594205ee297380f7e5d8e2dbee3,metislayer2.eth,"Ecosystem Proposal for Maye Pump, a community-oriented Meme Coin Launch Platform on Metis Blockchain",845,15465.414549301602
+0x778908ebc5a17f1b398a8404205b9339e492a6c046b5bdb259bb5a7d9e53754a,metislayer2.eth,Ecosystem Proposal: Methera Community Verification,613,10052.99717174256
+0xa75e4aad4c56b303fec8e35d69b44da1ccc09b1d1aa18ce4bb1d60c39ff58ba9,metislayer2.eth,Ecosystem Proposal: Koris - Empowering Creator Marketing on Metis,567,12446.924571954758
+0x1eba56473ac88288fd6a27887b02382e19cca715aa175d4d2ce312b42eb54904,metislayer2.eth,Ecosystem Proposal: Houdini Swap x Metis Chain Integration,585,16099.641061198992
+0xc5f4055f8c219b81a3b7b8bddbfc1b22f4eaf833ceb91eb865d0c9822374374b,metislayer2.eth,Ecosystem Proposal: PUMPe The Most Exciting Takeover,733,91465.15095631267
+0x927a825a4653843df98199711d0168a3d4ea170d096bba7dfce2c0997f9af844,metislayer2.eth,Ecosystem Proposal: ReFi Starter The Regenerative Launchpad for Web3,926,5410.964271306339
+0x2588a4ee9990f56ac7be110d4c0194d677d70882db61b132e0ccbbdbdf631155,metislayer2.eth,Ecosystem Proposal: froska on metis,965,14910.948981592806
+0x054907b6a07da3e2cd13cd246014bb95f6122c492aa2ca9331cbfb04d7f7c730,metislayer2.eth,Ecosystem Proposal: Methera,913,5741.65770762382
+0xfbbe304c9af0ce2b3dac9036879b38ff1b5cb9a566d7a10c3ca247a8d848f73b,metislayer2.eth,Ecosystem Proposal: ReFi Starter The Regenerative Launchpad for Web3,36,35.00613395776163
+0xa05386bd8e88ca5a662916c69822644ac8828a084e3f7eae1b0a2a04478eccd5,metislayer2.eth,Ecosystem Proposal: BUZZ (Multiple-chain Gamefi Platform),649,55127.67783386646
+0x9ec68e7c8fdf5b189aa5ee44b834e4b276ee5d09d2a9e1f5512ca9039411fe93,metislayer2.eth,Ecosystem Proposal: Winks.fun (Twitter micro-apps) on Metis,510,10120.969540130262
+0x6a8e0c2ec6609a41a1e1969b92a74525a863bdb88529b1a1953821101e5e4001,metislayer2.eth,Ecosystem Proposal: Zapper - Onchain Explorer & DeFi Dashboard,520,10307.677881181507
+0x83552b6894e2dc61a8dcc4ea1df0fd2874b659c780c162d144aacdccec602b45,metislayer2.eth,Ecosystem Proposal: Manat,408,754.7733590145276
+0x9add32586eadaaa4f2fc1e977d02c63b2d339593b902e7dcff1b39bf0a542752,metislayer2.eth,Ecosystem Proposal: Web3Auth,391,4631.2032673865
+0x9e48d8c636e03217429246368c06869af0a1eb29220fbee356c4172fd9409b4a,metislayer2.eth,Ecosystem Proposal: VestaDAO; Making Metis Easy,739,17661.56530539675
+0x5040925df6de85874d703abad151f4f4ef1cb0dbe5a6d45c3bb30e1cea410f02,metislayer2.eth,Ecosystem Proposal: GM² Social Integrate with Metis for Web3 Users,710,15017.013072952646
+0xbdabb240e9bd175a8464ec1dc84838b9c38c0a35379878085d45e290917b34cf,metislayer2.eth,Ecosystem Proposal: Yeti-Apes,717,11976.299076851199
+0xd7539783eb16ef773730d29c79650f0bf2d4ec1844c1d3f838a3a31d092976fa,metislayer2.eth,Ecosystem Proposal: Bullishs,693,10510.241997449217
+0x6de5f0aa52046f675fe5b1ed03ea781afe58fb083b3cb222074cd207d8975f11,metislayer2.eth,Ecosystem Proposal: SpaceWhale Meme DEX,420,4979.27227688095
+0xa76aaf8a8573ac297ce2fc12c8afb397ffcf451c03150e8ecf9bc513455f2cda,metislayer2.eth,Ecosystem Proposal: Zima Bank - your neo-bank on Metis,620,11283.78999361028
+0x819482447bca5a5c1a2657907cf0cd120b1d05ecd8aaa23afc46b03c64b50528,metislayer2.eth,Ecosystem Proposal: WeaveVM,616,15140.966579965243
+0xe54c19b5a137db841b46be264512295c0664b436c75c84a9e9894bc36bb4b119,metislayer2.eth,Ecosystem Proposal: Swing and Galaxy Exchange,609,11263.847486809213
+0x449ddcc044889725a601a26cb17250b7dd6fe2412729ff4e89b6a30d4f477f97,metislayer2.eth,Ecosystem Proposal: DeFi Kingdoms,558,26238.53104489154
+0xeb2ea2f7d37f0bb6f6a5f3f1e02be3710aae7edce65bd49ebde66bcedce5c08e,metislayer2.eth,Ecosystem Proposal: Cobo Custody Integration Institutional Users,569,19923.444272635665
+0xc892cbaa326dfb5b3648b439d4fb6e24cc1aa499f3fd443a1134410ebb0d9d0b,metislayer2.eth,Ecosystem Proposal: Zerion,571,20101.897735641287
+0x006dbfdcbabdcdbf44694978c8fefac80e6c728ad77bf36a30d77cadab2fd522,metislayer2.eth,Ecosystem Proposal: Gamified Wallacy Wallet (re-vote),535,13226.622369423512
+0xc419a147708231f92dd5c7e3dbd8fde9d4dd13086086bbdc33c12c675354c663,metislayer2.eth,Ecosystem Proposal: Ormi - Bringing Ultra Low Latency and Reliable Data Indexing to Metis,604,10770.744278233778
+0x847fc4bcf736f652bc7077b9f6443192635fde93d09bcbeb73047f9476255262,metislayer2.eth,"Ecosystem Proposal - Shards App, Guild building and monetization tool for GameFi",713,49183.68499938752
+0xfb465b9bd924f5f59bea87f33e211b4887740525736acc2ba4443a3736e040b5,metislayer2.eth,Ecosystem Proposal: GM² Social,1000,5815.812444692222
+0x2dcb5082df89d59cdc56da2afb25011be89cdcac5b5c2773792cc1adc3bf268a,metislayer2.eth,Ecosystem Proposal: Wallacy ,619,1787.4505831515514
+0x0829740fc3ffb3f4ae9436a77a7c10b8054136e05c293eb49fa5025bb894ea54,metislayer2.eth,Ecosystem Proposal: Dexsport ,682,48718.193585978035
+0xe958d2cf4dc8fe8cc2c671ffb59a8208d5efba471dae4884328293c22b3616b3,metislayer2.eth,Ecosystem Proposal - Web3 MOBA Game <Arena of Faith>,963,51887.80211227896
+0x39ba4162a99be9727c527d77b4a674d0f4ec7c3a36164710e525df8babfd5093,metislayer2.eth,Ecosystem Proposal: Burve Protocol,888,11709.283689950296
+0x3e32a8bcc23ddb081d1f6e696abc082a2f00ac970d66b1786d65b53fac869d8e,metislayer2.eth,Ecosystem Proposal: Merkl,888,7846.229611142161
+0x8d97484d0d596d48a999db320874597be35e88e497a0e142bd4e14930b70e5dd,metislayer2.eth,Governance Proposal: Contribution to Code4rena Audit for Optimism Fraud Proof Implementation,684,16166.435375311456
+0xf88f7744d32919f5c7d283a1b33c9350084a3a5c9e4002098aa55bceb57fe28d,metislayer2.eth,Ecosystem Proposal: Growfitter -One of the biggest RWA & Brand NFT Platform with 2 million app downloads,710,27662.216335095953
+0x0f150428d33ea159f3512c6f78309ab5c3f5e1479eb031545ee7779936e1fe4a,metislayer2.eth,Ecosystem Proposal: Stakingrewards.com Integration (revote),684,12581.200507909629
+0x052b9bd003a92035434608e780a30e49137f11363c85f721b0111c766df419d2,metislayer2.eth,"Ecosystem Proposal - Shards App, Guild building and monetization tool for GameFi",465,13132.419999523356
+0x2d69429e3dc5df08cca242f6a198bf9574f6afba34eafbcb403d9b0c79693512,metislayer2.eth,Ecosystem Proposal - Zen Card,438,9460.472707993176
+0x9951093fed498fde0364f6e82379fde435e71f46822bbdbf09fcf9718eed240d,metislayer2.eth,Ecosystem Proposal - VestaDAO: The Hub of Metis,480,14614.43618447072
+0xdf4b92d75a8373411764ce61fba54d75b0531b57694880c8ed8f433f94f3c366,metislayer2.eth,Ecosystem Proposal: Primis Protocol - Decentralized Game Servers powered by Liquid Staking on Metis (revote),424,8182.0813115747305
+0xd47abdc061c1122123270a00bd66d1019c383b4db3f2760b60333fd907094846,metislayer2.eth,Infrastructure - Sequencer Proposal: RHINO,762,15048.68616297414
+0x1e22ae02f802fe835ef683ce02a2edadf71db664ad5c07944b5bad5202ecf779,metislayer2.eth,Infrastructure - Sequencer Proposal: RockLogic GmbH (Stereum),681,14069.00419330458
+0x4a0cfd5e64899344918ff3da6d57272ad6060abbfacce4c0c13d83e58932800d,metislayer2.eth,Infrastructure - Sequencer Proposal: Blockdaemon,675,28485.912811396007
+0xe3bf4a1fa480f7bcda23e6bf2f0184903e3f998b7c88534ffadfadf5c08ec935,metislayer2.eth,Infrastructure - Sequencer Proposal: Validation Cloud,651,14668.22892271413
+0x2a0750f1aed22dd8c04470299ed1d39c051ccfb877f3e52dc24deb8846903059,metislayer2.eth,Infrastructure - Sequencer Proposal: Blockscope.net,581,14609.98638512507
+0xeb58519d0482a85a83a6a406f588ea3939793893b2317fe5a211dee10904bb21,metislayer2.eth,Infrastructure - Sequencer Proposal: HashKey Cloud,806,95621.07078114455
+0x7258e96ab3b3a58d247c4dc2e672633cee42c128757eade51d1c73da4c9e4600,metislayer2.eth,Infrastructure - Sequencer Proposal: InfraSingularity,609,14052.413014016085
+0x38fbcf5d79a405c03e583b80d18d209dc187df476c44abb98192b68459558043,metislayer2.eth,Infrastructure - Sequencer Proposal: Memolabs,606,14725.414476917822
+0xd05cd5a344ee9955dd0f980b6b08b5a94684dc634a3ffce60a355061d5e67886,metislayer2.eth,Infrastructure - Sequencer Proposal: Silk Nodes,602,14052.13832683362
+0xfd87a0799988135d52ca5b7911d9911367fcdc2456b07f76de5cf2e2ff8ee106,metislayer2.eth,Infrastructure - Sequencer Proposal: Kukis Global,522,14040.314135318691
+0x00d8728ff24fdbe3503aaa94744bfaf6e874c07c234b73b5dcd39615efcf74b7,metislayer2.eth,Infrastructure - Sequencer Proposal: Prophet,508,12540.831609329427
+0x4a6eb8246e15c3b6b3edd3ca96014cd2d0e7a08e7ae25bdd26a356f3acdf2231,metislayer2.eth,Infrastructure - Sequencer Proposal: Nodes.Guru,503,12533.635944130769
+0x10c4b9717840b270dbcf1b545231a29d7c817ef04488aacb9fd498dc4509aaad,metislayer2.eth,Infrastructure - Sequencer Proposal: Simply Staking,496,12609.584753708355
+0x19f84e06ff93a093d3917b4631e72737f44421cbdc406b75112e4e80f5c408b5,metislayer2.eth,Infrastructure - Sequencer Proposal: Ebunker,493,12532.196042439222
+0x658b938f0d440a4ec92fc2c8bc3650d5dcc1666542216f0ea6c18a57fcc57af0,metislayer2.eth,Infrastructure - Sequencer Proposal: H2O Nodes,507,12648.209388607578
+0x4895b0f3d94aad82a56730315b96be62fbfd83ca1e88042b24281d4cb8eb158b,metislayer2.eth,Infrastructure - Sequencer Proposal: InfStones,511,24660.580893348044
+0x56b01075c564918593131338a4f555f198557751c647c0ada583f133e38c9303,metislayer2.eth,Infrastructure - Sequencer Proposal: Nodefleet,504,12684.868316687292
+0x2be32769397c6edc086b822da2aeefb6de8b431be41d0bcdf51b55767add26c6,metislayer2.eth,Infrastructure - Sequencer Proposal: Nodies,623,72905.29070618436
+0x3944425f3212a5be75b5553befb6911a6573779199871ea42d6b9c7a40aaf9fb,metislayer2.eth,Infrastructure - Sequencer Proposal: P2P.org,603,37025.68749132022
+0xa51036b975dd85824334216021671ebcbf1b929c5dc401ee137f29c3af259504,metislayer2.eth,Infrastructure - Sequencer Proposal: OKX,530,86873.69124516578
+0xc4328127d88e4822bc3bdbe08fe19ce21d28954e1038359c52ee99f05738c8ec,metislayer2.eth,Infrastructure - Sequencer Proposal: 01node,461,12953.994377050893
+0x8b775c190f220135ee7c42b5045ed9abe982b82d4d30b96d3601b6f74348faae,metislayer2.eth,Infrastructure - Sequencer Proposal: MatrixedLink,456,12372.661270789453
+0x052bc550c1ca8d2de69ac0ac679a1e258507804383ee11a9ca670caa5449a4a9,metislayer2.eth,Infrastructure - Sequencer Proposal: Artifact Systems,455,12374.80206583952
+0x08641e06eaa50159abe267f86f216c0ddb486a873c9c9323d81ab60f85114d3e,metislayer2.eth,Infrastructure - Sequencer Proposal: Imperator.co,455,12402.158772512104
+0xd69e07aee52d2fdd14f507fe774c55f55f86847d36be38c53973baa8a0e41ac3,metislayer2.eth,Infrastructure - Sequencer Proposal: Luganodes,448,13869.371693965508
+0x6c279638a9dc2185f53ba6b5ff2bb9b5c12f40c7129a9960a7d8e1918e0c1c9c,metislayer2.eth,Infrastructure - Sequencer Proposal: Criterion,494,13900.184901074475
+0x38ad0d2fa45d0e33d0783880b58d9cda95f54782012f4d3187111491579f877c,metislayer2.eth,Infrastructure - Sequencer Proposal: SNZPool,633,80910.96946985526
+0x2d3b4c0336df1fc99ddf8079bdb01e6c99d831734a4e722b2a7c88721804b9f9,metislayer2.eth,Infrastructure - Sequencer Proposal: TEB,549,68280.34937124595
+0x50efc338d5460e11808cbed3b4654fc60b911b3ee9bda7fdd013ddff3f01b88d,metislayer2.eth,Infrastructure - Sequencer Proposal: Pier Two,489,14481.274050047592
+0x52cde825af853ba97529f898d0ea254c931b22f912e3334c2d8602d718fd1eba,metislayer2.eth,Infrastructure - Sequencer Proposal: NorthWest Nodes,489,13876.721085994604
+0x9d5503f2de76f01438ac5502c27617805d2036c33de75248b1c088feec718a30,metislayer2.eth,Infrastructure - Sequencer Proposal: Pathrock Network,496,13922.095993625535
+0x15cc3893e74d00ef2da65bc27a1d8408fcfcca6cf89a80f9afa8796384212249,metislayer2.eth,Infrastructure - Sequencer Proposal: Pragma Ventures,503,13961.580195287375
+0x492616a2bc82efc0025ba66a2032936e580975344fa2ad8bcfb2f13793f9d575,metislayer2.eth,Infrastructure - Sequencer Proposal: A41,550,77930.65989452608
+0xcd641e387bf0ddbdc1be1ab87c09f7632a6ae9eb1c069fa667b36e4abb7ab580,metislayer2.eth,Ecosystem Proposal: Barsik – the mascot of Metis,912,11380.605037839541
+0xad57bd085393140d2d50aa08127a50e27715ec69817fe381269e5ce3a23891d9,metislayer2.eth,Ecosystem Proposal: caca represents both power of sarcasm and new wave on Metis,893,11068.658461846177
+0xdaf8ef608d60e33a43515dba0c24a4ad0299e2e59d9d52939a2419d842c941d5,metislayer2.eth,Infrastructure - LST Proposal: Velix,985,20959.62150122531
+0x788dd38138801ef2ca166ab10cdbf11f0939ce1e8c55eede968852ab0286b03c,metislayer2.eth,Infrastructure - LST Proposal: StaFi,907,8914.69318308503
+0x6c27021406cb2435fe0e097ecfc94e50c8096bd9aa93688f1dfa13135b8a7fcd,metislayer2.eth,Infrastructure - LST Proposal: Stake.link,912,83367.50837176746
+0xfae716d37e9bd68b4a279c619aa4decb408e9b3b7bb1fc43394dbdc81d73a71c,metislayer2.eth,Infrastructure - LST Proposal: Accumulated Finance,899,9883.904771666561
+0xde49b5dc0c01f4c5b51b352d681febfdac38fe38951b44c175614fb9fab1cfbb,metislayer2.eth,Ecosystem Proposal: Owl Protocol - Dev suite to be used to build complete apps or integrations via a REST API,1000,5433.863276910473
+0xdffbd1865645d910bd70f244d59867fdebfe8965c88707ff1c1f8d8d07eeaa38,metislayer2.eth,Ecosystem Proposal: Stakingrewards.com Integration,1000,4747.050833986874
+0xb31eb4c7f900ecaf97ed87c57c9416572562345d0d76852508c9d84ada91efb5,metislayer2.eth,Ecosystem Proposal: 0xGasless Account Abstraction - Metis Integration partnership,1000,4721.217735207678
+0x18f713f4b9b39ef5594bf7857ec08f16d1cbc65cbc472d8e961376924d35aa6f,metislayer2.eth,Governance Proposal: Liquid Staking Tokens (LST) protocols Governance,1000,5726.807329804598
+0x1f7dd0895f96073bc9dd7874fb5f562b3d98ec85991930be09886338026d6966,metislayer2.eth,Ecosystem Proposal: OMO Swap – Deployed on Metis Mainnet and supported on-chain Swap!,1000,9865.852693970772
+0x190d411d6631bc570def877a554a9413923a1df721c4e69d81f5235eb3a37869,metislayer2.eth,Ecosystem Proposal: codatta - data confidence protocol for AI (Revote),1000,73064.36870560452
+0x076ba05d98476e200ccccb5c3094f8debd25021fa7350a3f217eb9ed41d37886,metislayer2.eth,Ecosystem Proposal: API3 DAO,1000,10091.377904724592
+0x5c7f41e3e563c67d91ffc5ed39b72dc2f117e1f4b82e30803ca70a08ab28b646,metislayer2.eth,Ecosystem Proposal: Primis Protocol - Decentralized Game Servers powered by Liquid Staking on Metis,1000,994.7614402667504
